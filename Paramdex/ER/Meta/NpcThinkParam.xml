@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PARAMMETA XmlVersion="0">
+  <Enums>
+    <Enum Name="ToCaution" type="u8">
+      <Option Value="0" Name="Wait for Battle Start Distance" />
+      <Option Value="1" Name="Look at Source" />
+      <Option Value="2" Name="Approach Source" />
+      <Option Value="3" Name="Run to Source" />
+      <Option Value="4" Name="Immediate Battle AI" />
+    </Enum>
+  </Enums>
+  <Field>
+    <goalAction_ToCaution Enum="ToCaution" />
+    <disableParam_NT IsBool="" />
+    <disableParamReserve1 IsBool="" />
+    <isNoAvoidHugeEnemy IsBool="" />
+    <enableWeaponOnOff IsBool="" />
+    <spEffectId_RangedAttack Refs="SpEffectParam" />
+    <isGuard_Act IsBool="" />
+    <disablePathMove IsBool="" />
+    <skipArrivalVisibleCheck IsBool="" />
+    <enableNaviFlg_Edge IsBool="" />
+    <enableNaviFlg_LargeSpace IsBool="" />
+    <enableNaviFlg_Ladder IsBool="" />
+    <enableNaviFlg_Hole IsBool="" />
+    <enableNaviFlg_Door IsBool="" />
+    <enableNaviFlg_InSideWall IsBool="" />
+    <enableNaviFlg_Lava IsBool="" />
+    <enableNaviFlg_Edge_Ordinary IsBool="" />
+    <isUpdateBattleSight IsBool="" />
+    <isBuddyAI IsBool="" />
+    <enableJumpMove IsBool="" />
+    <disableLocalSteering IsBool="" />
+    <weaponOffSpecialEffectId Refs="SpEffectParam" />
+    <weaponOnSpecialEffectId Refs="SpEffectParam" />
+  </Field>
+  <Self Row0Dummy="" />
+</PARAMMETA>

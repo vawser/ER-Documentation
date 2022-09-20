@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PARAMMETA XmlVersion="0">
+  <Field>
+    <breakItemLotParamId Refs="ItemLotParam_map" />
+    <pickUpItemLotParamId Refs="ItemLotParam_map" />
+    <pickUpReplacementItemLotParamId Refs="ItemLotParam_map" />
+    <repickItemLotParamId Refs="ItemLotParam_map" />
+  </Field>
+  <Self />
+</PARAMMETA>

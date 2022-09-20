@@ -1,0 +1,56 @@
+﻿#-------------------------------------------------
+# Assets
+#-------------------------------------------------
+Sizing:
+Small   = Animal Sized
+Medium  = Human Sized
+Large   = Field Sixed
+Huge    = Geographical Feature 
+
+#---------------------------------
+AEG007 - Structures
+
+_000    Rocky Floating Outcrop (Large)
+_001    Rocky Floating Outcrop (Huge)
+_004    Rocky Floating Outcrop (Medium) 
+_009    Cliff Face (Huge)
+_010    Cliff Face (Huge)
+_011    Cliff Face (Huge)
+_012    Cliff Face (Large)
+_014    Rocky Floating Outcrop (Medium)
+_025    Outcrop (Large)
+_026    Outcrop (Medium)
+_030    Cliff Face (Large)
+_032    Cliff Top (Large)
+_033    Cliff Slope (Huge)
+_037    Cliff Top (Medium)
+_038    Rock Pillar (Medium)
+_039    Cliff Top (Medium)
+_041    Cliff Top (Small)
+_042    Cliff Top (Medium)
+_043    Cliff Top (Huge)
+
+_045    Rotgrowth Giant (Large)
+_046    Rotgrowth Pillar (Large)
+_047    Rotgrowth Right Arm (Large)
+_048    Rotgrowth Right Arm - Palm Down (Large)
+_049    Rotgrowth Giant (Huge)
+_050    Rotgrowth Pillar (Huge)
+_051    Rotgrowth Right Arm (Large)
+_052    Rotgrowth Right Arm - Palm Down (Large)
+
+_057    Patterned Rock Face (Huge)
+_058    Patterned Rock Face (Medium)
+_059    Chain (Large)
+
+_061    Rocky Outcrop (Large)
+_066    Rocky Outcrop (Medium)
+_067    Rocky Outcrop (Medium)
+
+_069    Rocky Scales (Large)
+_070    Fancy Entrance with Door Passage
+_076    Damanged Sanctuary Platform (Giant)
+_077    Sanctuary Platform (Giant)
+_079    Fallen Sanctuary Walls (Large)
+_080    Fallen Sanctuary Walls (Medium)
+_081    Pile of Rubble (Medium)
