@@ -1,5 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PARAMMETA XmlVersion="0">
-  <Field></Field>
+  <Enums>
+    <Enum Name="MENU_PROPERTY_ID" type="u32">
+    </Enum>
+    <Enum Name="MENU_PROPERTY_CMP_TYPE" type="s8">
+    </Enum>
+    <Enum Name="MENU_PROPERTY_FORMAT_TYPE" type="u16">
+    </Enum>
+  </Enums>
+  <Field>
+    <CaptionTextID AltName="Caption Text ID" Wiki="MISSING" />
+    <IconID AltName="Icon ID" Wiki="MISSING" />
+    <RequiredPropertyID AltName="Required Property ID" Wiki="MISSING" Enum="MENU_PROPERTY_ID" />
+    <CompareType AltName="Compare Type" Wiki="MISSING" Enum="MENU_PROPERTY_CMP_TYPE" />
+    <pad2 AltName=""/>
+    <FormatType AltName="Format Type" Wiki="MISSING" Enum="MENU_PROPERTY_FORMAT_TYPE" />
+    <pad AltName=""/>
+  </Field>
   <Self />
 </PARAMMETA>

@@ -1,5 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PARAMMETA XmlVersion="0">
-  <Field></Field>
+  <Enums>
+    <Enum Name="GRASS_CLUSTER_TYPE_ENUM" type="u8">
+    </Enum>
+    <Enum Name="GRASS_DISTRIBUTION_TYPE_ENUM" type="u8">
+    </Enum>
+    <Enum Name="GRASS_FLAT_SPLIT_TYPE_ENUM" type="u8">
+    </Enum>
+    <Enum Name="GRASS_SHADOW_TYPE_ENUM" type="u8">
+    </Enum>
+    <Enum Name="GRASS_DITHERING_TYPE_ENUM" type="u8">
+    </Enum>
+  </Enums>
+  <Field>
+    <lodRange AltName="LOD Distance" Wiki="MISSING" />
+    <lod0ClusterType AltName="LOD 0 - Cluster Type" Wiki="MISSING" Enum="GRASS_CLUSTER_TYPE_ENUM" />
+    <lod1ClusterType AltName="LOD 1 - Cluster Type" Wiki="MISSING" Enum="GRASS_CLUSTER_TYPE_ENUM" />
+    <lod2ClusterType AltName="LOD 2 - Cluster Type" Wiki="MISSING" Enum="GRASS_CLUSTER_TYPE_ENUM" />
+    <pad0 AltName=""/>
+    <distributionType AltName="Placement Method" Wiki="MISSING" Enum="GRASS_DISTRIBUTION_TYPE_ENUM" />
+    <baseDensity AltName="Base Density" Wiki="MISSING" />
+    <model0Name AltName="Model Name [0]" Wiki="MISSING" />
+    <flatTextureName AltName="Flat Texture Name" Wiki="MISSING" />
+    <billboardTextureName AltName="Billboard Texture Name" Wiki="MISSING" />
+    <normalInfluence AltName="Effect of Tilt %" Wiki="MISSING" />
+    <inclinationMax AltName="Maximum Tilt Angle" Wiki="MISSING" />
+    <inclinationJitter AltName="Randomness of Tilt Angle" Wiki="MISSING" />
+    <scaleBaseMin AltName="Width Scale - Min" Wiki="MISSING" />
+    <scaleBaseMax AltName="Width Scale - Max" Wiki="MISSING" />
+    <scaleHeightMin AltName="Height Scale - Min" Wiki="MISSING" />
+    <scaleHeightMax AltName="Height Scale - Max" Wiki="MISSING" />
+    <colorShade1_r AltName="Color Shade [1] R" Wiki="MISSING" />
+    <colorShade1_g AltName="Color Shade [1] G" Wiki="MISSING" />
+    <colorShade1_b AltName="Color Shade [1] B" Wiki="MISSING" />
+    <colorShade2_r AltName="Color Shade [2] R" Wiki="MISSING" />
+    <colorShade2_g AltName="Color Shade [1] G" Wiki="MISSING" />
+    <colorShade2_b AltName="Color Shade [1] B" Wiki="MISSING" />
+    <flatSplitType AltName="Plane Split Type" Wiki="MISSING" Enum="GRASS_FLAT_SPLIT_TYPE_ENUM" />
+    <flatBladeCount AltName="Number of Planes" Wiki="MISSING" />
+    <flatSlant AltName="Plane Angle" Wiki="MISSING" />
+    <flatRadius AltName="Plane Distance" Wiki="MISSING" />
+    <castShadow AltName="Cast Shadow" Wiki="MISSING" Enum="GRASS_SHADOW_TYPE_ENUM" />
+    <windAmplitude AltName="Wind Amplitude" Wiki="MISSING" />
+    <pad1 AltName=""/>
+    <windCycle AltName="Wind Speed" Wiki="MISSING" />
+    <orientationAngle AltName="Direction" Wiki="Random for -1" />
+    <orientationRange AltName="Direction Range" Wiki="MISSING" />
+    <spacing AltName="Model Spacing" Wiki="MISSING" />
+    <dithering AltName="Dithering" Wiki="MISSING" Enum="GRASS_DITHERING_TYPE_ENUM" />
+    <pad AltName=""/>
+    <simpleModelName AltName="Simple Model Name" Wiki="MISSING" />
+    <model1Name AltName="Model Name [1]" Wiki="MISSING" />
+  </Field>
   <Self />
 </PARAMMETA>

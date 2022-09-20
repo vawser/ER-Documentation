@@ -1,5 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PARAMMETA XmlVersion="0">
-  <Field></Field>
+  <Enums>
+  </Enums>
+  <Field>
+    <MinFadeLeaf AltName="Leaf - Min Fade" Wiki="MISSING" />
+    <MinFadeFrond AltName="Frond - Min Fade" Wiki="MISSING" />
+    <MinFadeBranch AltName="Branch - Min Fade" Wiki="MISSING" />
+    <MinTranslucencyLeaf AltName="Leaf - Min Translucency" Wiki="MISSING" />
+    <MaxTranslucencyLeaf AltName="Leaf - Max Translucency" Wiki="MISSING" />
+    <MinTranslucencyFrond AltName="Frond - Min Translucency" Wiki="MISSING" />
+    <MaxTranslucencyFrond AltName="Frond - Max Translucency" Wiki="MISSING" />
+    <MinTranslucencyBranch AltName="Branch - Min Translucency" Wiki="MISSING" />
+    <MaxTranslucencyBranch AltName="Branch - Max Translucency" Wiki="MISSING" />
+    <BillboardBackSpecularWeakenParam AltName="Billboard Specular Suppression Value" Wiki="MISSING" />
+  </Field>
   <Self />
 </PARAMMETA>
