@@ -406,6 +406,57 @@
       <Option Value="5" Name="Bullet" />
     </Enum>
     <Enum Name="GOODS_USE_ANIM" type="u8">
+      <Option Value="0" Name="Consume Item" />
+      <Option Value="1" Name="Weapon Grease" />
+      <Option Value="2" Name="Throw Kukri" />
+      <Option Value="3" Name="Throw Pot #1" />
+      <Option Value="4" Name="Telescope" />
+      <Option Value="5" Name="Soap" />
+      <Option Value="6" Name="Memory of Grace" />
+      <Option Value="7" Name="Drop Item" />
+      <Option Value="8" Name="Finger" />
+      <Option Value="9" Name="Crush Rune" />
+      <Option Value="10" Name="Flask of Crimson Tears" />
+      <Option Value="16" Name="Quick Weapon Grease" />
+      <Option Value="17" Name="Throw Dart" />
+      <Option Value="19" Name="Flask of Cerulean Tears" />
+      <Option Value="20" Name="Throw Pot Backwards" />
+      <Option Value="26" Name="Consume Flesh" />
+      <Option Value="27" Name="Lantern" />
+      <Option Value="28" Name="Flask of Wondrous Physick" />
+      <Option Value="31" Name="Prattling Pate" />
+      <Option Value="32" Name="Spectral Steed Whistle" />
+      <Option Value="34" Name="Spirit Summon" />
+      <Option Value="36" Name="Finger Remedy" />
+      <Option Value="37" Name="Finger Severer" />
+      <Option Value="38" Name="Taunter's Tongue" />
+      <Option Value="39" Name="Lucent Baldachin's Blessing" />
+      <Option Value="40" Name="Copher Ring" />
+      <Option Value="41" Name="Effigy" />
+      <Option Value="42" Name="Throw Pot #2" />
+      <Option Value="43" Name="Miquella's Needle" />
+      <Option Value="44" Name="Baldachin's Blessing" />
+      <Option Value="50" Name="Shield Grease" />
+      <Option Value="51" Name="Wraith Calling Bell" />
+      <Option Value="52" Name="Mimic's Veil" />
+      <Option Value="54" Name="Scriptstone" />
+      <Option Value="55" Name="Ancestral Infant's Head" />
+      <Option Value="56" Name="Raisin" />
+      <Option Value="57" Name="Glintstone Scrap" />
+      <Option Value="58" Name="Gravity Stone Chunk" />
+      <Option Value="59" Name="Gravity Stone Fan" />
+      <Option Value="60" Name="Miranda's Prayer" />
+      <Option Value="61" Name="Bewitching Branch" />
+      <Option Value="62" Name="Blasphemous Claw" />
+      <Option Value="63" Name="Omen Bairn" />
+      <Option Value="64" Name="Shackle" />
+      <Option Value="65" Name="Rune Arc" />
+      <Option Value="66" Name="Soft Cotton" />v
+      <Option Value="90" Name="Spark Aromatic" />
+      <Option Value="91" Name="Uplifting Aromatic" />
+      <Option Value="92" Name="Phnatom Great Rune" />
+      <Option Value="93" Name="Bloodboil Aromatic" />
+      <Option Value="94" Name="Spraymist" />
     </Enum>
     <Enum Name="GOODS_OPEN_MENU" type="u8">
       <Option Value="0" Name="None" />
@@ -429,19 +480,47 @@
         <Option Value="2" Name="Type 2" />
     </Enum>
     <Enum Name="REPLACE_CATEGORY" type="u8">
+        <Option Value="0" Name="Type 0" />
     </Enum>
     <Enum Name="GOODS_SUPPLE_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2 - Crimson Flask" />
+        <Option Value="3" Name="Type 3 - Cerulean Flask" />
     </Enum>
     <Enum Name="AUTO_REPLENISH_TYPE" type="u8">
-      <Option Value="0" Name="None" />
-      <Option Value="1" Name="Crimson Tear" />
-      <Option Value="2" Name="Cerulean Tear" />
+      <Option Value="0" Name="Type 0" />
+      <Option Value="1" Name="Type 1 - Rune/Material" />
+      <Option Value="2" Name="Type 2 - Consumable" />
     </Enum>
     <Enum Name="GET_DIALOG_CONDITION_TYPE" type="u8">
+      <Option Value="0" Name="Type 0" />
+      <Option Value="2" Name="Type 2" />
     </Enum>
     <Enum Name="RARITY" type="u8">
+      <Option Value="0" Name="Default" />
+      <Option Value="1" Name="Common" />
+      <Option Value="2" Name="Rare" />
+      <Option Value="3" Name="Legendary" />
     </Enum>
     <Enum Name="GOODS_USELIMIT_SUMMONBUDDY" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+    </Enum>
+    <Enum Name="DISPLAY_CATEGORY_ID" type="u8">
+      <Option Value="10" Name="Group 10" />
+      <Option Value="20" Name="Group 20" />
+      <Option Value="30" Name="Group 30" />
+      <Option Value="40" Name="Group 40" />
+      <Option Value="50" Name="Group 50" />
+      <Option Value="60" Name="Group 60" />
+      <Option Value="70" Name="Group 70" />
+      <Option Value="80" Name="Group 80" />
+      <Option Value="90" Name="Group 90" />
+      <Option Value="100" Name="Group 100" />
+      <Option Value="110" Name="Group 110" />
+      <Option Value="120" Name="Group 120" />
+      <Option Value="255" Name="None" />
     </Enum>
   </Enums>
   <Field>
@@ -531,7 +610,7 @@
     <enableRiding AltName="Enabled while Riding" Wiki="Can it be used while riding?" IsBool="" />
     <disableRiding AltName="Disabled while Riding" Wiki="Is it prohibited to use while not riding?" IsBool="" />
     <maxRepositoryNum AltName="Max Number Stored in Itembox" Wiki="Number of warehouses" />
-    <sortGroupId AltName="Sort Group ID" Wiki="Sort item type ID. In the sort Item type order, the same ID is displayed together as the same group." />
+    <sortGroupId AltName="Sort Group ID" Wiki="Sort item type ID. In the sort Item type order, the same ID is displayed together as the same group." Enum="DISPLAY_CATEGORY_ID" />
     <isUseNoAttackRegion AltName="Enabled in No Attack Region" Wiki="Can it be used in an attack-prohibited area?" IsBool="" />
     <pad1 AltName=""/>
     <saleValue AltName="Sale Value" Wiki="Selling price" />

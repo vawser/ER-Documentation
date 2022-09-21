@@ -8,17 +8,17 @@
     </Enum>
     <Enum Name="BEHAVIOR_CATEGORY" type="u8">
       <Option Value="0" Name="No Category" />
-      <Option Value="1" Name="PCRight-Hand" />
-      <Option Value="2" Name="PCLeft-hand" />
+      <Option Value="1" Name="PC Right-Hand" />
+      <Option Value="2" Name="PC Left-hand" />
       <Option Value="3" Name="Magic" />
       <Option Value="4" Name="Magic" />
       <Option Value="5" Name="Basic" />
-      <Option Value="6" Name="NPCRight-hand" />
-      <Option Value="7" Name="NPCLeft-hand" />
+      <Option Value="6" Name="NPC Right-hand" />
+      <Option Value="7" Name="NPC Left-hand" />
       <Option Value="9" Name="Kick" />
-      <Option Value="10" Name="PCBoth-hand" />
-      <Option Value="11" Name="PCBoth-hand" />
-      <Option Value="12" Name="PCRight-hand #2" />
+      <Option Value="10" Name="PC Both-hand" />
+      <Option Value="11" Name="PC Both-hand" />
+      <Option Value="12" Name="PC Right-hand #2" />
     </Enum>
     <Enum Name="STATE_BEHAVIOR_TYPE" type="u8">
       <Option Value="0" Name="None" />

@@ -2,35 +2,88 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="ATKPARAM_ATKATTR_TYPE" type="u8">
+        <Option Value="0" Name="Slash" />
+        <Option Value="1" Name="Strike" />
+        <Option Value="2" Name="Thrust" />
+        <Option Value="3" Name="Standard" />
     </Enum>
     <Enum Name="ATKPARAM_SPATTR_TYPE" type="u8">
+        <Option Value="0" Name="None" />
+        <Option Value="10" Name="Magic" />
+        <Option Value="11" Name="Fire" />
+        <Option Value="12" Name="Lightning" />
+        <Option Value="13" Name="Holy" />
+        <Option Value="20" Name="Poison" />
+        <Option Value="21" Name="Scarlet Rot" />
+        <Option Value="22" Name="Hemorrhage" />
+        <Option Value="23" Name="Frostbite" />
+        <Option Value="24" Name="Sleep" />
+        <Option Value="25" Name="Madness" />
+        <Option Value="26" Name="Blight" />
     </Enum>
     <Enum Name="BEHAVIOR_ATK_TYPE" type="u8">
+        <Option Value="0" Name="Slash" />
+        <Option Value="1" Name="Strike" />
+        <Option Value="2" Name="Thrust" />
+        <Option Value="3" Name="Standard" />
     </Enum>
     <Enum Name="WEP_MATERIAL_ATK" type="u8">
-        <Option Value="0" Name="Unknown" />
-        <Option Value="1" Name="Unknown" />
-        <Option Value="2" Name="Unknown" />
-        <Option Value="3" Name="Unknown" />
-        <Option Value="4" Name="Unknown" />
-        <Option Value="6" Name="Unknown" />
-        <Option Value="254" Name="Unknown" />
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
+        <Option Value="4" Name="Type 4" />
+        <Option Value="6" Name="Type 6" />
+        <Option Value="254" Name="Type 254" />
     </Enum>
     <Enum Name="BULLET_LAUNCH_CONDITION_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
+        <Option Value="4" Name="Type 4" />
+        <Option Value="5" Name="Type 5" />
+        <Option Value="6" Name="Type 6" />
     </Enum>
     <Enum Name="BULLET_FOLLOW_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
+        <Option Value="4" Name="Type 4" />
+        <Option Value="5" Name="Type 5" />
     </Enum>
     <Enum Name="BULLET_EMITTE_POS_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
+        <Option Value="4" Name="Type 4" />
+        <Option Value="5" Name="Type 5" />
+        <Option Value="6" Name="Type 6" />
     </Enum>
     <Enum Name="DMG_CALC_SIDE_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
     </Enum>
     <Enum Name="BULLET_SFX_DELETE_TYPE" type="s8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
     <Enum Name="BULLET_SFX_CREATE_POSTURE_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
     </Enum>
     <Enum Name="BULLET_BALLISTIC_CALC_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
     <Enum Name="BULLET_ATTACH_EFFECT_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
+        <Option Value="4" Name="Type 4" />
     </Enum>
   </Enums>
   <Field>

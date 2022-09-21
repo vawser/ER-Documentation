@@ -2,6 +2,8 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="NPC_THINK_CARAVAN_ROLE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
     <Enum Name="NPC_THINK_GOAL_ACTION" type="u8">
       <Option Value="0" Name="Wait for Battle Start Distance" />
@@ -11,16 +13,29 @@
       <Option Value="4" Name="Immediate Battle AI" />
     </Enum>
     <Enum Name="NPC_THINK_REPLY_BEHAVIOR_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
     <Enum Name="NPC_THINK_ACTTYPE_ON_FAILEDPATH" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
     <Enum Name="NPC_THINK_ACTTYPE_ON_NONBTL_FAILEDPATH" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
     <Enum Name="NPC_THINK_JUMPUSEREDGE_USE_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
     </Enum>
     <Enum Name="NPC_THINK_CHANGE_STATE_ACTION" type="u8">
+        <Option Value="0" Name="Action 0" />
     </Enum>
     <Enum Name="NPC_THINK_BackToHomeStuckAct" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
   </Enums>
   <Field>
@@ -56,7 +71,7 @@
     <BackHome_LookTargetTime AltName="Retreat Home - Look for Target Time" Wiki="When returning home: Time to look at the target [sec]" />
     <BackHome_LookTargetDist AltName="Retreat Home - Look for Target Distance" Wiki="When returning home: Distance to see the target [m]" />
     <SoundTargetForgetTime AltName="Sound Target - Forget Time" Wiki="Time to forget the sound target." />
-    <BattleStartDist AltName="Battle - Start Distance" Wiki="MISSING" />
+    <BattleStartDist AltName="Battle - Start Distance" Wiki="" />
     <callHelp_MyPeerId AltName="Call Help - My Peer ID" Wiki="My fellow group ID" />
     <callHelp_CallPeerId AltName="Call Help - Call Peer ID" Wiki="Companion group ID to call a companion" />
     <targetSys_DmgEffectRate AltName="Target System - Damage Effect Rate" Wiki="Damage impact rate acquisition (target system evaluation information)" />

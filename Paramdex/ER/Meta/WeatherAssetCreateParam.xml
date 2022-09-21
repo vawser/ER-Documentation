@@ -5,17 +5,15 @@
         <Option Value="0" Name="Type 0" />
         <Option Value="1" Name="Type 1" />
     </Enum>
-    <Enum Name="WEATHER_TYPE" type="s16">
-    </Enum>
   </Enums>
   <Field>
     <AssetId AltName="Asset ID" Wiki="Specify the asset ID to generate. AEG999_999-> 999999" />
     <SlotNo AltName="Slot Number" Wiki="This is the number for generation control. Only one asset can be generated in the same slot. You can control whether you want to generate duplicates or not." />
     <CreateConditionType AltName="Create Condition Type" Wiki="The type of condition of occurrence" Enum="WEATHER_ASSET_CREATE_CONDITION_TYPE" />
     <padding0 AltName=""/>
-    <TransitionSrcWeather AltName="Transition Source Weather" Wiki="Specify the transition source weather. It is referenced only when the occurrence condition is transition." Enum="WEATHER_TYPE" />
-    <TransitionDstWeather AltName="Transition Destination Weather" Wiki="Specify the transition destination weather. It is referenced only when the occurrence condition is transition." Enum="WEATHER_TYPE" />
-    <ElapsedTimeCheckweather AltName="Check Weather Elapsed Time" Wiki="Specify the weather to check the elapsed time." Enum="WEATHER_TYPE" />
+    <TransitionSrcWeather AltName="Transition Source Weather" Wiki="Specify the transition source weather. It is referenced only when the occurrence condition is transition." Refs="WeatherParam" />
+    <TransitionDstWeather AltName="Transition Destination Weather" Wiki="Specify the transition destination weather. It is referenced only when the occurrence condition is transition." Refs="WeatherParam" />
+    <ElapsedTimeCheckweather AltName="Check Weather Elapsed Time" Wiki="Specify the weather to check the elapsed time." Refs="WeatherParam" />
     <padding1 AltName=""/>
     <ElapsedTime AltName="Elapsed Time" Wiki="Specify the elapsed time. It is referenced only when the occurrence condition is time elapsed. Real time Specify in seconds." />
     <CreateDelayTime AltName="Create Delay Time" Wiki="Specifies the time to delay after the generation is determined. The created slot will be in use while it is delayed. Created immediately with 0 or less." />

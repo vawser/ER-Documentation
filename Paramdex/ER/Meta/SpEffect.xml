@@ -2,6 +2,49 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="ATK_SUB_CATEGORY" type="u8">
+      <Option Value="0" Name="None" />
+      <Option Value="1" Name="Full Moon Spell" />
+      <Option Value="2" Name="Carian Sword Spell" />
+      <Option Value="3" Name="Glintblade Spell" />
+      <Option Value="4" Name="Stonedigger Spell" />
+      <Option Value="5" Name="Crystalian Spell" />
+      <Option Value="6" Name="Karolos Spell" />
+      <Option Value="7" Name="Olivinus Spell" />
+      <Option Value="8" Name="Lava Spell" />
+      <Option Value="9" Name="Thorn Spell" />
+      <Option Value="10" Name="Death Spell" />
+      <Option Value="11" Name="Gravity Spell" />
+      <Option Value="12" Name="Night Spell" />
+      <Option Value="13" Name="Ranni Spell" />
+      <Option Value="14" Name="Azur Spell" />
+      <Option Value="15" Name="Lusat Spell" />
+      <Option Value="20" Name="Black Flame Spell" />
+      <Option Value="21" Name="Flame Spell" />
+      <Option Value="22" Name="Dragon Cult Spell" />
+      <Option Value="23" Name="Bestial Spell" />
+      <Option Value="24" Name="Golden Order Spell" />
+      <Option Value="25" Name="Dragon Communion Spell" />
+      <Option Value="26" Name="Frenzied Flame Spell" />
+      <Option Value="27" Name="Godslayer Spell" />
+      <Option Value="28" Name="Primordial Crucible Spell" />
+      <Option Value="100" Name="Charge Attack" />
+      <Option Value="101" Name="Horseback Attack" />
+      <Option Value="102" Name="Jump Attack" />
+      <Option Value="103" Name="Guard Counter Attack" />
+      <Option Value="104" Name="Final Chain Attack" />
+      <Option Value="105" Name="Ammunition Attack" />
+      <Option Value="106" Name="Roar Attack" />
+      <Option Value="107" Name="Breath Attack" />
+      <Option Value="108" Name="Pot Item Attack" />
+      <Option Value="109" Name="Perfume Item Attack" />
+      <Option Value="110" Name="Charged Attack" />
+      <Option Value="111" Name="Charged Skill Attack" />
+      <Option Value="112" Name="Skill Attack" />
+      <Option Value="113" Name="Ranged Skill Attack" />
+      <Option Value="114" Name="Vapor Attack" />
+      <Option Value="116" Name="Unknown Attack" />
+      <Option Value="117" Name="Wraith Attack" />
+      <Option Value="118" Name="Ammunition OnHit Attack" />
     </Enum>
     <Enum Name="SP_EFFECT_SPCATEGORY" type="u16">
         <Option Value="0" Name="None" />
@@ -75,10 +118,39 @@
 
     </Enum>
     <Enum Name="ATKPARAM_REP_DMGTYPE" type="s8">
+        <Option Value="0" Name="None" />
+        <Option Value="1" Name="No Stagger" />
+        <Option Value="2" Name="Short Stagger" />
+        <Option Value="3" Name="Long Stagger" />
+        <Option Value="4" Name="Stagger to Floor" />
+        <Option Value="5" Name="Stagger Backwards" />
+        <Option Value="6" Name="Faceplant" />
+        <Option Value="7" Name="Stagger to Floor" />
+        <Option Value="8" Name="Faceplant" />
+        <Option Value="9" Name="Air Juggle Stagger" />
+        <Option Value="10" Name="Push" />
+        <Option Value="11" Name="Strong Stagger" />
+        <Option Value="12" Name="Stagger Backwards" />
     </Enum>
     <Enum Name="ATKPARAM_ATKATTR_TYPE" type="u8">
+        <Option Value="0" Name="Slash" />
+        <Option Value="1" Name="Strike" />
+        <Option Value="2" Name="Thrust" />
+        <Option Value="3" Name="Standard" />
     </Enum>
     <Enum Name="ATKPARAM_SPATTR_TYPE" type="u8">
+        <Option Value="0" Name="None" />
+        <Option Value="10" Name="Magic" />
+        <Option Value="11" Name="Fire" />
+        <Option Value="12" Name="Lightning" />
+        <Option Value="13" Name="Holy" />
+        <Option Value="20" Name="Poison" />
+        <Option Value="21" Name="Scarlet Rot" />
+        <Option Value="22" Name="Hemorrhage" />
+        <Option Value="23" Name="Frostbite" />
+        <Option Value="24" Name="Sleep" />
+        <Option Value="25" Name="Madness" />
+        <Option Value="26" Name="Blight" />
     </Enum>
     <Enum Name="SP_EFFECT_TYPE" type="u16">
         <Option Value="0" Name="None" />
@@ -454,6 +526,11 @@
         <Option Value="1001" Name="SkipSpCategoryCheck2" />
     </Enum>
     <Enum Name="SP_EFE_WEP_CHANGE_PARAM" type="u8">
+        <Option Value="0" Name="None" />
+        <Option Value="1" Name="Right-hand" />
+        <Option Value="2" Name="Left-hand" />
+        <Option Value="3" Name="Self" />
+        <Option Value="4" Name="Kick" />
     </Enum>
     <Enum Name="SP_EFFECT_MOVE_TYPE" type="u8">
         <Option Value="0" Name="Type 0" />
@@ -620,7 +697,7 @@
     <registBloodChangeRate AltName="Aux Resist %: Hemorrhage" Wiki="Multiply the bleeding resistance value by the set magnification" />
     <registCurseChangeRate AltName="Aux Resist %: Blight" Wiki="Multiply the spell resistance value by the set multiplier" />
     <soulStealRate AltName="Soul Steal %" Wiki="Defense against HP robbed by NPCs in Soul Steel" />
-    <lifeReductionRate AltName="Effect Duration %" Wiki="MISSING" />
+    <lifeReductionRate AltName="Effect Duration %" Wiki="" />
     <hpRecoverRate AltName="HP Recovery Effectiveness %" Wiki="It doesn't work when HP decreases." />
     <replaceSpEffectId AltName="Chain SpEffect ID" Wiki="Special effect ID added at the end of life (-1 is ignored)" Refs="SpEffectParam"/>
     <cycleOccurrenceSpEffectId AltName="Cycle SpEffect ID" Wiki="Special effect ID that occurs in each activation cycle (-1 is ignored)" Refs="SpEffectParam"/>
@@ -657,7 +734,7 @@
     <stateInfo AltName="State Info" Wiki="State change judgment flag" Enum="SP_EFFECT_TYPE" />
     <wepParamChange AltName="Weapon Parameter Change" Wiki="Specify which weapon is effective. If there is no limit, all attacks and defenses including enemies are targeted" Enum="SP_EFE_WEP_CHANGE_PARAM" />
     <moveType AltName="Move Type" Wiki="Movement type. Change the movement speed." Enum="SP_EFFECT_MOVE_TYPE" />
-    <lifeReductionType AltName="Effect Duration Multiplier - State Info" Wiki="MISSING" Enum="SP_EFFECT_TYPE" />
+    <lifeReductionType AltName="Effect Duration Multiplier - State Info" Wiki="" Enum="SP_EFFECT_TYPE" />
     <throwCondition AltName="Throw Trigger" Wiki="Throwing conditions. Affects the throwing mask." Enum="SP_EFFECT_THROW_CONDITION_TYPE" />
     <addBehaviorJudgeId_condition AltName="Add Behavior Judge ID - Trigger" Wiki="Condition value to add a value to the action judgment ID (Def: -1)" />
     <freezeDamageRate AltName="Damage Correction %: Frostbite" Wiki="Correction value used only for point damage and% damage of state change type [cold air]" />
@@ -896,7 +973,7 @@ Requires State Info 66" />
     <fakeTargetIgnoreAjin AltName="Ignore Fake Target - Human" Wiki="You will not be caught by the fake target of the subhuman system that occurred" IsBool="" />
     <fakeTargetIgnoreMirageArts AltName="Ignore Fake Target - Phantom" Wiki="You will not be caught by the fake target of the phantom arts system that occurred" IsBool="" />
     <requestForceJoinBlackSOS_B AltName="Force Invasion" Wiki="If checked, issue an intrusion_B request when activated" IsBool="" />
-    <unk353_4 AltName="Blank" Wiki="MISSING" IsBool="" />
+    <unk353_4 AltName="Blank" Wiki="" IsBool="" />
     <pad2 AltName=""/>
     <changeSuperArmorPoint AltName="Poise +" Wiki="Value to add to the super armor value" />
     <changeSaPoint AltName="Apply Poise Damage +" Wiki="Set how many points to subtract (or add) with one activation" />

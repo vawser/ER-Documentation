@@ -10,8 +10,6 @@
       <Option Value="5" Name="Ash of War" />
       <Option Value="6" Name="Custom Weapon" />
     </Enum>
-    <Enum Name="ITEMLOT_ROUND_COUNT" type="s8">
-    </Enum>
   </Enums>
   <Field>
     <lotItemId01 AltName="Item ID [1]" Wiki="Item ID that can be obtained" Refs="EquipParamAccessory,EquipParamCustomWeapon,EquipParamGem,EquipParamGoods,EquipParamProtector,EquipParamWeapon" />
@@ -82,7 +80,7 @@
     <cumulateReset06 AltName="Accumulate Reset [6]" Wiki="Whether to reset cumulatively" IsBool="" />
     <cumulateReset07 AltName="Accumulate Reset [7]" Wiki="Whether to reset cumulatively" IsBool="" />
     <cumulateReset08 AltName="Accumulate Reset [8]" Wiki="Whether to reset cumulatively" IsBool="" />
-    <GameClearOffset AltName="Game Clear Offset" Wiki="Offset during lap play" Enum="ITEMLOT_ROUND_COUNT" />
+    <GameClearOffset AltName="Game Clear Offset" Wiki="Offset during lap play" />
     <canExecByFriendlyGhost AltName="Can Friendly Phantom Acquire" Wiki="Do you draw lots even when you are a cooperating spirit?" IsBool="" />
     <canExecByHostileGhost AltName="Can Hostile Phantom Acquire" Wiki="Do you draw lots even when you are a hostile spirit?" IsBool="" />
     <PAD1 AltName="Blank" Wiki="PAD1" />

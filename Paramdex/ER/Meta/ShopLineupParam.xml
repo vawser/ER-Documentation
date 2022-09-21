@@ -2,8 +2,18 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="SHOP_LINEUP_EQUIPTYPE" type="u8">
+        <Option Value="0" Name="Weapon" />
+        <Option Value="1" Name="Protector" />
+        <Option Value="2" Name="Accessory" />
+        <Option Value="3" Name="Good" />
+        <Option Value="4" Name="Ashes" />
     </Enum>
     <Enum Name="SHOP_LINEUP_COSTTYPE" type="u8">
+        <Option Value="0" Name="Runes" />
+        <Option Value="1" Name="Dragon Heart" />
+        <Option Value="2" Name="Starlight Shard" />
+        <Option Value="3" Name="Unknown" />
+        <Option Value="4" Name="Lost Ashes of War" />
     </Enum>
   </Enums>
   <Field>

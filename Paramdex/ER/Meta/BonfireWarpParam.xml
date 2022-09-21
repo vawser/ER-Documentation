@@ -2,6 +2,8 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="WORLD_MAP_POINT_TEXT_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
   </Enums>
   <Field>
@@ -67,23 +69,23 @@
     <noIgnitionSfxId_0 AltName="Bonfire Ignition - SFX ID [0]" Wiki="SFX ID issued before bonfire ignition. It goes out when ignited. In case of -1, SFX is not issued." />
     <noIgnitionSfxDmypolyId_1 AltName="Bonfire Ignition - Dummy Poly ID [1]" Wiki="Damipoli ID that issues SFX before bonfire ignition" />
     <noIgnitionSfxId_1 AltName="Bonfire Ignition - SFX ID [1]" Wiki="SFX ID issued before bonfire ignition. It goes out when ignited. In case of -1, SFX is not issued." />
-    <unkA8 AltName="unkA8" Wiki="MISSING" />
-    <unkAC AltName="unkAC" Wiki="MISSING" />
-    <unkB0 AltName="unkB0" Wiki="MISSING" />
-    <unkB4 AltName="unkB4" Wiki="MISSING" />
-    <unkB8 AltName="unkB8" Wiki="MISSING" />
-    <unkBC AltName="unkBC" Wiki="MISSING" />
-    <unkC0 AltName="unkC0" Wiki="MISSING" />
-    <unkC4 AltName="unkC4" Wiki="MISSING" />
-    <unkC8 AltName="unkC8" Wiki="MISSING" />
-    <unkCC AltName="unkCC" Wiki="MISSING" />
-    <unkD0 AltName="unkD0" Wiki="MISSING" />
-    <unkD4 AltName="unkD4" Wiki="MISSING" />
-    <unkD8 AltName="unkD8" Wiki="MISSING" />
-    <unkDC AltName="unkDC" Wiki="MISSING" />
-    <unkE0 AltName="unkE0" Wiki="MISSING" />
-    <unkE4 AltName="unkE4" Wiki="MISSING" />
-    <unkE8 AltName="unkE8" Wiki="MISSING" />
+    <unkA8 AltName="unkA8" Wiki="" />
+    <unkAC AltName="unkAC" Wiki="" />
+    <unkB0 AltName="unkB0" Wiki="" />
+    <unkB4 AltName="unkB4" Wiki="" />
+    <unkB8 AltName="unkB8" Wiki="" />
+    <unkBC AltName="unkBC" Wiki="" />
+    <unkC0 AltName="unkC0" Wiki="" />
+    <unkC4 AltName="unkC4" Wiki="" />
+    <unkC8 AltName="unkC8" Wiki="" />
+    <unkCC AltName="unkCC" Wiki="" />
+    <unkD0 AltName="unkD0" Wiki="" />
+    <unkD4 AltName="unkD4" Wiki="" />
+    <unkD8 AltName="unkD8" Wiki="" />
+    <unkDC AltName="unkDC" Wiki="" />
+    <unkE0 AltName="unkE0" Wiki="" />
+    <unkE4 AltName="unkE4" Wiki="" />
+    <unkE8 AltName="unkE8" Wiki="" />
   </Field>
   <Self />
 </PARAMMETA>

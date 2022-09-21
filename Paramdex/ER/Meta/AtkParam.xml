@@ -2,155 +2,278 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="ATK_SUB_CATEGORY" type="u8">
+      <Option Value="0" Name="None" />
+      <Option Value="1" Name="Full Moon Spell" />
+      <Option Value="2" Name="Carian Sword Spell" />
+      <Option Value="3" Name="Glintblade Spell" />
+      <Option Value="4" Name="Stonedigger Spell" />
+      <Option Value="5" Name="Crystalian Spell" />
+      <Option Value="6" Name="Karolos Spell" />
+      <Option Value="7" Name="Olivinus Spell" />
+      <Option Value="8" Name="Lava Spell" />
+      <Option Value="9" Name="Thorn Spell" />
+      <Option Value="10" Name="Death Spell" />
+      <Option Value="11" Name="Gravity Spell" />
+      <Option Value="12" Name="Night Spell" />
+      <Option Value="13" Name="Ranni Spell" />
+      <Option Value="14" Name="Azur Spell" />
+      <Option Value="15" Name="Lusat Spell" />
+      <Option Value="20" Name="Black Flame Spell" />
+      <Option Value="21" Name="Flame Spell" />
+      <Option Value="22" Name="Dragon Cult Spell" />
+      <Option Value="23" Name="Bestial Spell" />
+      <Option Value="24" Name="Golden Order Spell" />
+      <Option Value="25" Name="Dragon Communion Spell" />
+      <Option Value="26" Name="Frenzied Flame Spell" />
+      <Option Value="27" Name="Godslayer Spell" />
+      <Option Value="28" Name="Primordial Crucible Spell" />
+      <Option Value="100" Name="Charge Attack" />
+      <Option Value="101" Name="Horseback Attack" />
+      <Option Value="102" Name="Jump Attack" />
+      <Option Value="103" Name="Guard Counter Attack" />
+      <Option Value="104" Name="Final Chain Attack" />
+      <Option Value="105" Name="Ammunition Attack" />
+      <Option Value="106" Name="Roar Attack" />
+      <Option Value="107" Name="Breath Attack" />
+      <Option Value="108" Name="Pot Item Attack" />
+      <Option Value="109" Name="Perfume Item Attack" />
+      <Option Value="110" Name="Charged Attack" />
+      <Option Value="111" Name="Charged Skill Attack" />
+      <Option Value="112" Name="Skill Attack" />
+      <Option Value="113" Name="Ranged Skill Attack" />
+      <Option Value="114" Name="Vapor Attack" />
+      <Option Value="116" Name="Unknown Attack" />
+      <Option Value="117" Name="Wraith Attack" />
+      <Option Value="118" Name="Ammunition OnHit Attack" />
     </Enum>
     <Enum Name="ATK_PARAM_HIT_TYPE" type="u8">
+        <Option Value="0" Name="Ignore Collision" />
+        <Option Value="2" Name="Invoke Collision" />
     </Enum>
     <Enum Name="ATKPARAM_REP_DMGTYPE_UINT" type="u8">
+        <Option Value="0" Name="None" />
+        <Option Value="1" Name="No Stagger" />
+        <Option Value="2" Name="Short Stagger" />
+        <Option Value="3" Name="Long Stagger" />
+        <Option Value="4" Name="Stagger to Floor" />
+        <Option Value="5" Name="Stagger Backwards" />
+        <Option Value="6" Name="Faceplant" />
+        <Option Value="7" Name="Stagger to Floor" />
+        <Option Value="8" Name="Faceplant" />
+        <Option Value="9" Name="Air Juggle Stagger" />
+        <Option Value="10" Name="Push" />
+        <Option Value="11" Name="Strong Stagger" />
+        <Option Value="12" Name="Stagger Backwards" />
     </Enum>
     <Enum Name="ATK_PARAM_MAP_HIT" type="u8">
+        <Option Value="0" Name="Default" />
+        <Option Value="1" Name="Projectile" />
+        <Option Value="2" Name="Hazard" />
     </Enum>
     <Enum Name="ATKPARAM_ATKATTR_TYPE" type="u8">
+        <Option Value="0" Name="Slash" />
+        <Option Value="1" Name="Strike" />
+        <Option Value="2" Name="Thrust" />
+        <Option Value="3" Name="Standard" />
     </Enum>
     <Enum Name="ATKPARAM_SPATTR_TYPE" type="u8">
+        <Option Value="0" Name="None" />
+        <Option Value="10" Name="Magic" />
+        <Option Value="11" Name="Fire" />
+        <Option Value="12" Name="Lightning" />
+        <Option Value="13" Name="Holy" />
+        <Option Value="20" Name="Poison" />
+        <Option Value="21" Name="Scarlet Rot" />
+        <Option Value="22" Name="Hemorrhage" />
+        <Option Value="23" Name="Frostbite" />
+        <Option Value="24" Name="Sleep" />
+        <Option Value="25" Name="Madness" />
+        <Option Value="26" Name="Blight" />
     </Enum>
     <Enum Name="BEHAVIOR_ATK_TYPE" type="u8">
+        <Option Value="0" Name="Slash" />
+        <Option Value="1" Name="Strike" />
+        <Option Value="2" Name="Thrust" />
+        <Option Value="3" Name="Standard" />
     </Enum>
     <Enum Name="WEP_MATERIAL_ATK" type="u8">
-        <Option Value="0" Name="Unknown" />
-        <Option Value="1" Name="Unknown" />
-        <Option Value="2" Name="Unknown" />
-        <Option Value="3" Name="Unknown" />
-        <Option Value="4" Name="Unknown" />
-        <Option Value="6" Name="Unknown" />
-        <Option Value="254" Name="Unknown" />
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
+        <Option Value="4" Name="Type 4" />
+        <Option Value="6" Name="Type 6" />
+        <Option Value="254" Name="Type 254" />
     </Enum>
     <Enum Name="ATKPARAM_GUARD_RANGE_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
     <Enum Name="WEP_MATERIAL_DEF" type="u16">
-        <Option Value="0" Name="Unknown" />
-        <Option Value="50" Name="Unknown" />
-        <Option Value="100" Name="Unknown" />
-        <Option Value="102" Name="Unknown" />
-        <Option Value="103" Name="Unknown" />
-        <Option Value="104" Name="Unknown" />
-        <Option Value="105" Name="Unknown" />
-        <Option Value="106" Name="Unknown" />
-        <Option Value="107" Name="Unknown" />
-        <Option Value="108" Name="Unknown" />
-        <Option Value="109" Name="Unknown" />
-        <Option Value="110" Name="Unknown" />
-        <Option Value="111" Name="Unknown" />
-        <Option Value="112" Name="Unknown" />
-        <Option Value="113" Name="Unknown" />
-        <Option Value="114" Name="Unknown" />
-        <Option Value="116" Name="Unknown" />
-        <Option Value="117" Name="Unknown" />
-        <Option Value="119" Name="Unknown" />
-        <Option Value="122" Name="Unknown" />
-        <Option Value="123" Name="Unknown" />
-        <Option Value="124" Name="Unknown" />
-        <Option Value="126" Name="Unknown" />
-        <Option Value="127" Name="Unknown" />
-        <Option Value="129" Name="Unknown" />
-        <Option Value="139" Name="Unknown" />
-        <Option Value="141" Name="Unknown" />
-        <Option Value="143" Name="Unknown" />
-        <Option Value="144" Name="Unknown" />
-        <Option Value="145" Name="Unknown" />
-        <Option Value="146" Name="Unknown" />
-        <Option Value="148" Name="Unknown" />
-        <Option Value="149" Name="Unknown" />
-        <Option Value="150" Name="Unknown" />
-        <Option Value="151" Name="Unknown" />
-        <Option Value="152" Name="Unknown" />
-        <Option Value="153" Name="Unknown" />
-        <Option Value="154" Name="Unknown" />
-        <Option Value="155" Name="Unknown" />
-        <Option Value="156" Name="Unknown" />
-        <Option Value="157" Name="Unknown" />
-        <Option Value="158" Name="Unknown" />
-        <Option Value="159" Name="Unknown" />
-        <Option Value="160" Name="Unknown" />
-        <Option Value="161" Name="Unknown" />
-        <Option Value="162" Name="Unknown" />
-        <Option Value="164" Name="Unknown" />
-        <Option Value="165" Name="Unknown" />
-        <Option Value="171" Name="Unknown" />
-        <Option Value="172" Name="Unknown" />
-        <Option Value="173" Name="Unknown" />
-        <Option Value="255" Name="Unknown" />
+        <Option Value="0" Name="Type 0" />
+        <Option Value="50" Name="Type 50" />
+        <Option Value="100" Name="Type 100" />
+        <Option Value="102" Name="Type 102" />
+        <Option Value="103" Name="Type 103" />
+        <Option Value="104" Name="Type 104" />
+        <Option Value="105" Name="Type 105" />
+        <Option Value="106" Name="Type 106" />
+        <Option Value="107" Name="Type 107" />
+        <Option Value="108" Name="Type 108" />
+        <Option Value="109" Name="Type 109" />
+        <Option Value="110" Name="Type 110" />
+        <Option Value="111" Name="Type 111" />
+        <Option Value="112" Name="Type 112" />
+        <Option Value="113" Name="Type 113" />
+        <Option Value="114" Name="Type 114" />
+        <Option Value="116" Name="Type 116" />
+        <Option Value="117" Name="Type 117" />
+        <Option Value="119" Name="Type 119" />
+        <Option Value="122" Name="Type 122" />
+        <Option Value="123" Name="Type 123" />
+        <Option Value="124" Name="Type 124" />
+        <Option Value="126" Name="Type 126" />
+        <Option Value="127" Name="Type 127" />
+        <Option Value="129" Name="Type 129" />
+        <Option Value="139" Name="Type 139" />
+        <Option Value="141" Name="Type 141" />
+        <Option Value="143" Name="Type 143" />
+        <Option Value="144" Name="Type 144" />
+        <Option Value="145" Name="Type 145" />
+        <Option Value="146" Name="Type 146" />
+        <Option Value="148" Name="Type 148" />
+        <Option Value="149" Name="Type 149" />
+        <Option Value="150" Name="Type 150" />
+        <Option Value="151" Name="Type 151" />
+        <Option Value="152" Name="Type 152" />
+        <Option Value="153" Name="Type 153" />
+        <Option Value="154" Name="Type 154" />
+        <Option Value="155" Name="Type 155" />
+        <Option Value="156" Name="Type 156" />
+        <Option Value="157" Name="Type 157" />
+        <Option Value="158" Name="Type 158" />
+        <Option Value="159" Name="Type 159" />
+        <Option Value="160" Name="Type 160" />
+        <Option Value="161" Name="Type 161" />
+        <Option Value="162" Name="Type 162" />
+        <Option Value="164" Name="Type 164" />
+        <Option Value="165" Name="Type 165" />
+        <Option Value="171" Name="Type 171" />
+        <Option Value="172" Name="Type 172" />
+        <Option Value="173" Name="Type 173" />
+        <Option Value="255" Name="Type 255" />
     </Enum>
     <Enum Name="ATK_PARAM_HIT_SOURCE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
     <Enum Name="ATK_PATAM_THROWFLAG_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
     </Enum>
     <Enum Name="ATKPARAM_SFX_ATK_POW" type="s8">
+        <Option Value="0" Name="Power 0" />
+        <Option Value="1" Name="Power 1" />
+        <Option Value="2" Name="Power 2" />
+        <Option Value="4" Name="Power 4" />
     </Enum>
     <Enum Name="ATKPARAM_SFX_ATK_DIR" type="s8">
+        <Option Value="0" Name="Dir 0" />
+        <Option Value="1" Name="Dir 1" />
+        <Option Value="2" Name="Dir 2" />
+        <Option Value="3" Name="Dir 3" />
+        <Option Value="4" Name="Dir 4" />
     </Enum>
     <Enum Name="ATKPARAM_BEHAVIOR_ID" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
+        <Option Value="4" Name="Type 4" />
+        <Option Value="5" Name="Type 5" />
+        <Option Value="6" Name="Type 6" />
+        <Option Value="7" Name="Type 7" />
+        <Option Value="8" Name="Type 8" />
+        <Option Value="9" Name="Type 9" />
     </Enum>
     <Enum Name="ATKPARAM_SE_ATK_POW" type="s8">
+        <Option Value="0" Name="Power 0" />
+        <Option Value="1" Name="Power 1" />
     </Enum>
     <Enum Name="WEP_MATERIAL_DEF_SFX" type="u16">
-        <Option Value="0" Name="Unknown" />
-        <Option Value="50" Name="Unknown" />
-        <Option Value="100" Name="Unknown" />
-        <Option Value="102" Name="Unknown" />
-        <Option Value="103" Name="Unknown" />
-        <Option Value="104" Name="Unknown" />
-        <Option Value="105" Name="Unknown" />
-        <Option Value="106" Name="Unknown" />
-        <Option Value="107" Name="Unknown" />
-        <Option Value="108" Name="Unknown" />
-        <Option Value="109" Name="Unknown" />
-        <Option Value="110" Name="Unknown" />
-        <Option Value="111" Name="Unknown" />
-        <Option Value="112" Name="Unknown" />
-        <Option Value="113" Name="Unknown" />
-        <Option Value="114" Name="Unknown" />
-        <Option Value="116" Name="Unknown" />
-        <Option Value="117" Name="Unknown" />
-        <Option Value="119" Name="Unknown" />
-        <Option Value="122" Name="Unknown" />
-        <Option Value="123" Name="Unknown" />
-        <Option Value="124" Name="Unknown" />
-        <Option Value="126" Name="Unknown" />
-        <Option Value="127" Name="Unknown" />
-        <Option Value="128" Name="Unknown" />
-        <Option Value="129" Name="Unknown" />
-        <Option Value="139" Name="Unknown" />
-        <Option Value="141" Name="Unknown" />
-        <Option Value="142" Name="Unknown" />
-        <Option Value="143" Name="Unknown" />
-        <Option Value="144" Name="Unknown" />
-        <Option Value="145" Name="Unknown" />
-        <Option Value="146" Name="Unknown" />
-        <Option Value="148" Name="Unknown" />
-        <Option Value="149" Name="Unknown" />
-        <Option Value="150" Name="Unknown" />
-        <Option Value="151" Name="Unknown" />
-        <Option Value="152" Name="Unknown" />
-        <Option Value="153" Name="Unknown" />
-        <Option Value="154" Name="Unknown" />
-        <Option Value="155" Name="Unknown" />
-        <Option Value="156" Name="Unknown" />
-        <Option Value="157" Name="Unknown" />
-        <Option Value="158" Name="Unknown" />
-        <Option Value="159" Name="Unknown" />
-        <Option Value="160" Name="Unknown" />
-        <Option Value="161" Name="Unknown" />
-        <Option Value="162" Name="Unknown" />
-        <Option Value="164" Name="Unknown" />
-        <Option Value="165" Name="Unknown" />
-        <Option Value="171" Name="Unknown" />
-        <Option Value="172" Name="Unknown" />
-        <Option Value="173" Name="Unknown" />
-        <Option Value="255" Name="Unknown" />
+        <Option Value="0" Name="Type 0" />
+        <Option Value="50" Name="Type 50" />
+        <Option Value="100" Name="Type 100" />
+        <Option Value="102" Name="Type 102" />
+        <Option Value="103" Name="Type 103" />
+        <Option Value="104" Name="Type 104" />
+        <Option Value="105" Name="Type 105" />
+        <Option Value="106" Name="Type 106" />
+        <Option Value="107" Name="Type 107" />
+        <Option Value="108" Name="Type 108" />
+        <Option Value="109" Name="Type 109" />
+        <Option Value="110" Name="Type 110" />
+        <Option Value="111" Name="Type 111" />
+        <Option Value="112" Name="Type 112" />
+        <Option Value="113" Name="Type 113" />
+        <Option Value="114" Name="Type 114" />
+        <Option Value="116" Name="Type 116" />
+        <Option Value="117" Name="Type 117" />
+        <Option Value="119" Name="Type 119" />
+        <Option Value="122" Name="Type 122" />
+        <Option Value="123" Name="Type 123" />
+        <Option Value="124" Name="Type 124" />
+        <Option Value="126" Name="Type 126" />
+        <Option Value="127" Name="Type 127" />
+        <Option Value="129" Name="Type 129" />
+        <Option Value="139" Name="Type 139" />
+        <Option Value="141" Name="Type 141" />
+        <Option Value="143" Name="Type 143" />
+        <Option Value="144" Name="Type 144" />
+        <Option Value="145" Name="Type 145" />
+        <Option Value="146" Name="Type 146" />
+        <Option Value="148" Name="Type 148" />
+        <Option Value="149" Name="Type 149" />
+        <Option Value="150" Name="Type 150" />
+        <Option Value="151" Name="Type 151" />
+        <Option Value="152" Name="Type 152" />
+        <Option Value="153" Name="Type 153" />
+        <Option Value="154" Name="Type 154" />
+        <Option Value="155" Name="Type 155" />
+        <Option Value="156" Name="Type 156" />
+        <Option Value="157" Name="Type 157" />
+        <Option Value="158" Name="Type 158" />
+        <Option Value="159" Name="Type 159" />
+        <Option Value="160" Name="Type 160" />
+        <Option Value="161" Name="Type 161" />
+        <Option Value="162" Name="Type 162" />
+        <Option Value="164" Name="Type 164" />
+        <Option Value="165" Name="Type 165" />
+        <Option Value="171" Name="Type 171" />
+        <Option Value="172" Name="Type 172" />
+        <Option Value="173" Name="Type 173" />
+        <Option Value="255" Name="Type 255" />
     </Enum>
     <Enum Name="ATKPARAM_REP_DMGTYPE" type="s8">
+        <Option Value="0" Name="None" />
+        <Option Value="1" Name="No Stagger" />
+        <Option Value="2" Name="Short Stagger" />
+        <Option Value="3" Name="Long Stagger" />
+        <Option Value="4" Name="Stagger to Floor" />
+        <Option Value="5" Name="Stagger Backwards" />
+        <Option Value="6" Name="Faceplant" />
+        <Option Value="7" Name="Stagger to Floor" />
+        <Option Value="8" Name="Faceplant" />
+        <Option Value="9" Name="Air Juggle Stagger" />
+        <Option Value="10" Name="Push" />
+        <Option Value="11" Name="Strong Stagger" />
+        <Option Value="12" Name="Stagger Backwards" />
     </Enum>
     <Enum Name="ATKPARAM_THROWATTR_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
   </Enums>
   <Field>

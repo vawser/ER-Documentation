@@ -2,6 +2,8 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="RUNTIME_BONE_CONTROL_TYPE" type="u8">
+        <Option Value="0" Name="Type 1" />
+        <Option Value="1" Name="Type 2" />
     </Enum>
   </Enums>
   <Field>

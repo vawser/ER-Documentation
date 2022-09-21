@@ -3,12 +3,12 @@
   <Enums>
   </Enums>
   <Field>
-    <LOD0_range AltName="LOD 0 - Distance" Wiki="MISSING" />
-    <LOD0_play AltName="LOD 0 - Play" Wiki="MISSING" />
-    <LOD1_range AltName="LOD 1 - Distance" Wiki="MISSING" />
-    <LOD1_play AltName="LOD 1 - Play" Wiki="MISSING" />
-    <LOD2_range AltName="LOD 2 - Distance" Wiki="MISSING" />
-    <LOD2_play AltName="LOD 2 - Play" Wiki="MISSING" />
+    <LOD0_range AltName="LOD 0 - Distance" Wiki="" />
+    <LOD0_play AltName="LOD 0 - Play" Wiki="" />
+    <LOD1_range AltName="LOD 1 - Distance" Wiki="" />
+    <LOD1_play AltName="LOD 1 - Play" Wiki="" />
+    <LOD2_range AltName="LOD 2 - Distance" Wiki="" />
+    <LOD2_play AltName="LOD 2 - Play" Wiki="" />
   </Field>
   <Self />
 </PARAMMETA>

@@ -2,10 +2,36 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="CHARMAKEMENU_CMD_TYPE" type="s32">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
+        <Option Value="4" Name="Type 4" />
+        <Option Value="10" Name="Type 10" />
+        <Option Value="11" Name="Type 11" />
+        <Option Value="12" Name="Type 12" />
+        <Option Value="14" Name="Type 14" />
+        <Option Value="15" Name="Type 15" />
+        <Option Value="20" Name="Type 20" />
+        <Option Value="21" Name="Type 21" />
+        <Option Value="22" Name="Type 22" />
+        <Option Value="23" Name="Type 23" />
+        <Option Value="24" Name="Type 24" />
+        <Option Value="25" Name="Type 25" />
+        <Option Value="26" Name="Type 26" />
+        <Option Value="99" Name="Type 99" />
     </Enum>
     <Enum Name="CHARMAKEMENU_VIEW_CONDITION" type="s32">
+        <Option Value="0" Name="Condition 0" />
+        <Option Value="3" Name="Condition 3" />
+        <Option Value="4" Name="Condition 4" />
+        <Option Value="5" Name="Condition 5" />
+        <Option Value="6" Name="Condition 6" />
     </Enum>
     <Enum Name="CHARMAKEMENU_PREVIEW_MODE" type="s8">
+        <Option Value="0" Name="Mode 0" />
+        <Option Value="1" Name="Mode 1" />
+        <Option Value="2" Name="Mode 2" />
     </Enum>
   </Enums>
   <Field>

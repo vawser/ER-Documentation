@@ -2,6 +2,9 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="BUDDY_PC_FOLLOW_TYPE" type="u8">
+        <Option Value="0" Name="Default" />
+        <Option Value="1" Name="Putrid Corpse" />
+        <Option Value="2" Name="Latenna" />
     </Enum>
   </Enums>
   <Field>

@@ -2,6 +2,10 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="GX_QUALITY_LEVEL_ENUM" type="u8">
+        <Option Value="1" Name="Level 1" />
+        <Option Value="2" Name="Level 2" />
+        <Option Value="3" Name="Level 3" />
+        <Option Value="4" Name="Level 4" />
     </Enum>
   </Enums>
   <Field>

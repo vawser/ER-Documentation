@@ -2,8 +2,20 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="EQUIP_MODEL_CATEGORY" type="u8">
+        <Option Value="0" Name="None" />
+        <Option Value="1" Name="Arms" />
+        <Option Value="2" Name="Body" />
+        <Option Value="4" Name="Hair" />
+        <Option Value="5" Name="Head" />
+        <Option Value="6" Name="Legs" />
+        <Option Value="7" Name="Weapon" />
     </Enum>
     <Enum Name="EQUIP_MODEL_GENDER" type="u8">
+        <Option Value="0" Name="None" />
+        <Option Value="1" Name="Male" />
+        <Option Value="2" Name="Female" />
+        <Option Value="3" Name="Unknown" />
+        <Option Value="4" Name="No Gender" />
     </Enum>
     <Enum Name="WEAPON_CATEGORY" type="u8">
         <Option Value="0" Name="Default" />
@@ -59,71 +71,72 @@
         <Option Value="52" Name="Ballista" />
     </Enum>
     <Enum Name="GUARDMOTION_CATEGORY" type="u8">
+        <Option Value="0" Name="Medium Shield" />
+        <Option Value="1" Name="Greatshield" />
+        <Option Value="2" Name="Small Shield" />
     </Enum>
     <Enum Name="WEP_MATERIAL_ATK" type="u8">
-        <Option Value="0" Name="Unknown" />
-        <Option Value="1" Name="Unknown" />
-        <Option Value="2" Name="Unknown" />
-        <Option Value="3" Name="Unknown" />
-        <Option Value="4" Name="Unknown" />
-        <Option Value="6" Name="Unknown" />
-        <Option Value="254" Name="Unknown" />
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
+        <Option Value="3" Name="Type 3" />
+        <Option Value="4" Name="Type 4" />
+        <Option Value="6" Name="Type 6" />
+        <Option Value="254" Name="Type 254" />
     </Enum>
     <Enum Name="WEP_MATERIAL_DEF" type="u16">
-        <Option Value="0" Name="Unknown" />
-        <Option Value="50" Name="Unknown" />
-        <Option Value="100" Name="Unknown" />
-        <Option Value="102" Name="Unknown" />
-        <Option Value="103" Name="Unknown" />
-        <Option Value="104" Name="Unknown" />
-        <Option Value="105" Name="Unknown" />
-        <Option Value="106" Name="Unknown" />
-        <Option Value="107" Name="Unknown" />
-        <Option Value="108" Name="Unknown" />
-        <Option Value="109" Name="Unknown" />
-        <Option Value="110" Name="Unknown" />
-        <Option Value="111" Name="Unknown" />
-        <Option Value="112" Name="Unknown" />
-        <Option Value="113" Name="Unknown" />
-        <Option Value="114" Name="Unknown" />
-        <Option Value="116" Name="Unknown" />
-        <Option Value="117" Name="Unknown" />
-        <Option Value="119" Name="Unknown" />
-        <Option Value="122" Name="Unknown" />
-        <Option Value="123" Name="Unknown" />
-        <Option Value="124" Name="Unknown" />
-        <Option Value="126" Name="Unknown" />
-        <Option Value="127" Name="Unknown" />
-        <Option Value="129" Name="Unknown" />
-        <Option Value="139" Name="Unknown" />
-        <Option Value="141" Name="Unknown" />
-        <Option Value="143" Name="Unknown" />
-        <Option Value="144" Name="Unknown" />
-        <Option Value="145" Name="Unknown" />
-        <Option Value="146" Name="Unknown" />
-        <Option Value="148" Name="Unknown" />
-        <Option Value="149" Name="Unknown" />
-        <Option Value="150" Name="Unknown" />
-        <Option Value="151" Name="Unknown" />
-        <Option Value="152" Name="Unknown" />
-        <Option Value="153" Name="Unknown" />
-        <Option Value="154" Name="Unknown" />
-        <Option Value="155" Name="Unknown" />
-        <Option Value="156" Name="Unknown" />
-        <Option Value="157" Name="Unknown" />
-        <Option Value="158" Name="Unknown" />
-        <Option Value="159" Name="Unknown" />
-        <Option Value="160" Name="Unknown" />
-        <Option Value="161" Name="Unknown" />
-        <Option Value="162" Name="Unknown" />
-        <Option Value="164" Name="Unknown" />
-        <Option Value="165" Name="Unknown" />
-        <Option Value="171" Name="Unknown" />
-        <Option Value="172" Name="Unknown" />
-        <Option Value="173" Name="Unknown" />
-        <Option Value="255" Name="Unknown" />
-    </Enum>
-    <Enum Name="WEP_CORRECT_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="50" Name="Type 50" />
+        <Option Value="100" Name="Type 100" />
+        <Option Value="102" Name="Type 102" />
+        <Option Value="103" Name="Type 103" />
+        <Option Value="104" Name="Type 104" />
+        <Option Value="105" Name="Type 105" />
+        <Option Value="106" Name="Type 106" />
+        <Option Value="107" Name="Type 107" />
+        <Option Value="108" Name="Type 108" />
+        <Option Value="109" Name="Type 109" />
+        <Option Value="110" Name="Type 110" />
+        <Option Value="111" Name="Type 111" />
+        <Option Value="112" Name="Type 112" />
+        <Option Value="113" Name="Type 113" />
+        <Option Value="114" Name="Type 114" />
+        <Option Value="116" Name="Type 116" />
+        <Option Value="117" Name="Type 117" />
+        <Option Value="119" Name="Type 119" />
+        <Option Value="122" Name="Type 122" />
+        <Option Value="123" Name="Type 123" />
+        <Option Value="124" Name="Type 124" />
+        <Option Value="126" Name="Type 126" />
+        <Option Value="127" Name="Type 127" />
+        <Option Value="129" Name="Type 129" />
+        <Option Value="139" Name="Type 139" />
+        <Option Value="141" Name="Type 141" />
+        <Option Value="143" Name="Type 143" />
+        <Option Value="144" Name="Type 144" />
+        <Option Value="145" Name="Type 145" />
+        <Option Value="146" Name="Type 146" />
+        <Option Value="148" Name="Type 148" />
+        <Option Value="149" Name="Type 149" />
+        <Option Value="150" Name="Type 150" />
+        <Option Value="151" Name="Type 151" />
+        <Option Value="152" Name="Type 152" />
+        <Option Value="153" Name="Type 153" />
+        <Option Value="154" Name="Type 154" />
+        <Option Value="155" Name="Type 155" />
+        <Option Value="156" Name="Type 156" />
+        <Option Value="157" Name="Type 157" />
+        <Option Value="158" Name="Type 158" />
+        <Option Value="159" Name="Type 159" />
+        <Option Value="160" Name="Type 160" />
+        <Option Value="161" Name="Type 161" />
+        <Option Value="162" Name="Type 162" />
+        <Option Value="164" Name="Type 164" />
+        <Option Value="165" Name="Type 165" />
+        <Option Value="171" Name="Type 171" />
+        <Option Value="172" Name="Type 172" />
+        <Option Value="173" Name="Type 173" />
+        <Option Value="255" Name="Type 255" />
     </Enum>
     <Enum Name="ATKPARAM_SPATTR_TYPE" type="u8">
       <Option Value="0" Name="Physical" />
@@ -221,74 +234,81 @@
         <Option Value="236" Name="Full Moon Crossbow" />
     </Enum>
     <Enum Name="ATKPARAM_ATKATTR_TYPE" type="u8">
+        <Option Value="0" Name="Slash" />
+        <Option Value="1" Name="Strike" />
+        <Option Value="2" Name="Thrust" />
+        <Option Value="3" Name="Standard" />
     </Enum>
     <Enum Name="WEP_BASE_CHANGE_CATEGORY" type="u8">
         <Option Value="0" Name="Category 0" />
         <Option Value="4" Name="Category 4" />
     </Enum>
     <Enum Name="GET_DIALOG_CONDITION_TYPE" type="u8">
+      <Option Value="0" Name="Type 0" />
+      <Option Value="2" Name="Type 2" />
     </Enum>
     <Enum Name="WEP_MATERIAL_DEF_SFX" type="u16">
-        <Option Value="0" Name="Unknown" />
-        <Option Value="50" Name="Unknown" />
-        <Option Value="100" Name="Unknown" />
-        <Option Value="102" Name="Unknown" />
-        <Option Value="103" Name="Unknown" />
-        <Option Value="104" Name="Unknown" />
-        <Option Value="105" Name="Unknown" />
-        <Option Value="106" Name="Unknown" />
-        <Option Value="107" Name="Unknown" />
-        <Option Value="108" Name="Unknown" />
-        <Option Value="109" Name="Unknown" />
-        <Option Value="110" Name="Unknown" />
-        <Option Value="111" Name="Unknown" />
-        <Option Value="112" Name="Unknown" />
-        <Option Value="113" Name="Unknown" />
-        <Option Value="114" Name="Unknown" />
-        <Option Value="116" Name="Unknown" />
-        <Option Value="117" Name="Unknown" />
-        <Option Value="119" Name="Unknown" />
-        <Option Value="122" Name="Unknown" />
-        <Option Value="123" Name="Unknown" />
-        <Option Value="124" Name="Unknown" />
-        <Option Value="126" Name="Unknown" />
-        <Option Value="127" Name="Unknown" />
-        <Option Value="128" Name="Unknown" />
-        <Option Value="129" Name="Unknown" />
-        <Option Value="139" Name="Unknown" />
-        <Option Value="141" Name="Unknown" />
-        <Option Value="142" Name="Unknown" />
-        <Option Value="143" Name="Unknown" />
-        <Option Value="144" Name="Unknown" />
-        <Option Value="145" Name="Unknown" />
-        <Option Value="146" Name="Unknown" />
-        <Option Value="148" Name="Unknown" />
-        <Option Value="149" Name="Unknown" />
-        <Option Value="150" Name="Unknown" />
-        <Option Value="151" Name="Unknown" />
-        <Option Value="152" Name="Unknown" />
-        <Option Value="153" Name="Unknown" />
-        <Option Value="154" Name="Unknown" />
-        <Option Value="155" Name="Unknown" />
-        <Option Value="156" Name="Unknown" />
-        <Option Value="157" Name="Unknown" />
-        <Option Value="158" Name="Unknown" />
-        <Option Value="159" Name="Unknown" />
-        <Option Value="160" Name="Unknown" />
-        <Option Value="161" Name="Unknown" />
-        <Option Value="162" Name="Unknown" />
-        <Option Value="164" Name="Unknown" />
-        <Option Value="165" Name="Unknown" />
-        <Option Value="171" Name="Unknown" />
-        <Option Value="172" Name="Unknown" />
-        <Option Value="173" Name="Unknown" />
-        <Option Value="255" Name="Unknown" />
+        <Option Value="0" Name="Type 0" />
+        <Option Value="50" Name="Type 50" />
+        <Option Value="100" Name="Type 100" />
+        <Option Value="102" Name="Type 102" />
+        <Option Value="103" Name="Type 103" />
+        <Option Value="104" Name="Type 104" />
+        <Option Value="105" Name="Type 105" />
+        <Option Value="106" Name="Type 106" />
+        <Option Value="107" Name="Type 107" />
+        <Option Value="108" Name="Type 108" />
+        <Option Value="109" Name="Type 109" />
+        <Option Value="110" Name="Type 110" />
+        <Option Value="111" Name="Type 111" />
+        <Option Value="112" Name="Type 112" />
+        <Option Value="113" Name="Type 113" />
+        <Option Value="114" Name="Type 114" />
+        <Option Value="116" Name="Type 116" />
+        <Option Value="117" Name="Type 117" />
+        <Option Value="119" Name="Type 119" />
+        <Option Value="122" Name="Type 122" />
+        <Option Value="123" Name="Type 123" />
+        <Option Value="124" Name="Type 124" />
+        <Option Value="126" Name="Type 126" />
+        <Option Value="127" Name="Type 127" />
+        <Option Value="129" Name="Type 129" />
+        <Option Value="139" Name="Type 139" />
+        <Option Value="141" Name="Type 141" />
+        <Option Value="143" Name="Type 143" />
+        <Option Value="144" Name="Type 144" />
+        <Option Value="145" Name="Type 145" />
+        <Option Value="146" Name="Type 146" />
+        <Option Value="148" Name="Type 148" />
+        <Option Value="149" Name="Type 149" />
+        <Option Value="150" Name="Type 150" />
+        <Option Value="151" Name="Type 151" />
+        <Option Value="152" Name="Type 152" />
+        <Option Value="153" Name="Type 153" />
+        <Option Value="154" Name="Type 154" />
+        <Option Value="155" Name="Type 155" />
+        <Option Value="156" Name="Type 156" />
+        <Option Value="157" Name="Type 157" />
+        <Option Value="158" Name="Type 158" />
+        <Option Value="159" Name="Type 159" />
+        <Option Value="160" Name="Type 160" />
+        <Option Value="161" Name="Type 161" />
+        <Option Value="162" Name="Type 162" />
+        <Option Value="164" Name="Type 164" />
+        <Option Value="165" Name="Type 165" />
+        <Option Value="171" Name="Type 171" />
+        <Option Value="172" Name="Type 172" />
+        <Option Value="173" Name="Type 173" />
+        <Option Value="255" Name="Type 255" />
     </Enum>
     <Enum Name="WEP_COLLIDABLE_TYPE" type="u8">
         <Option Value="1" Name="Light" />
         <Option Value="2" Name="Heavy" />
     </Enum>
     <Enum Name="AUTO_REPLENISH_TYPE" type="u8">
+      <Option Value="0" Name="Type 0" />
+      <Option Value="1" Name="Type 1 - Rune/Material" />
+      <Option Value="2" Name="Type 2 - Consumable" />
     </Enum>
     <Enum Name="WEAPON_DERIVATION_LEVEL_TYPE" type="u8">
         <Option Value="0" Name="Type 0" />
@@ -354,6 +374,38 @@
     <Enum Name="GEM_MOUNT_TYPE" type="u8">
       <Option Value="0" Name="Prevent Change" />
       <Option Value="2" Name="Allow Change" />
+    </Enum>
+    <Enum Name="DISPLAY_CATEGORY_ID" type="u8">
+      <Option Value="10" Name="Dagger - Torch - Shortbow - Arrow" />
+      <Option Value="20" Name="Straight Sword - Small Shield - Longbow - Great Arrow" />
+      <Option Value="30" Name="Greatswrod - Medium Shield - Greatbow - Bolt" />
+      <Option Value="40" Name="Ultra Greatsword - Greatshield - Crossbow - Greatbolt" />
+      <Option Value="50" Name="Thrusting Sword - Ballista" />
+      <Option Value="60" Name="Heavy Thrusting Sword - Staff" />
+      <Option Value="70" Name="Curved Sword - Seal" />
+      <Option Value="80" Name="Curved Greatsword" />
+      <Option Value="90" Name="Katana" />
+      <Option Value="100" Name="Twinblade" />
+      <Option Value="110" Name="Axe" />
+      <Option Value="120" Name="Greataxe" />
+      <Option Value="130" Name="Hammer" />
+      <Option Value="140" Name="Flail" />
+      <Option Value="150" Name="Great Hammer" />
+      <Option Value="160" Name="Colossal Weapon" />
+      <Option Value="170" Name="Spear" />
+      <Option Value="180" Name="Heavy Spear" />
+      <Option Value="190" Name="Halberd" />
+      <Option Value="200" Name="Scythe" />
+      <Option Value="210" Name="Whip" />
+      <Option Value="220" Name="Fist Weapon" />
+      <Option Value="230" Name="Claw Weapon" />
+      <Option Value="255" Name="None" />
+    </Enum>
+    <Enum Name="RARITY" type="u8">
+      <Option Value="0" Name="Default" />
+      <Option Value="1" Name="Common" />
+      <Option Value="2" Name="Rare" />
+      <Option Value="3" Name="Legendary" />
     </Enum>
   </Enums>
   <Field>
@@ -432,7 +484,7 @@
     <guardmotionCategory AltName="Guard Motion Category" Wiki="Guard motion category" Enum="GUARDMOTION_CATEGORY" />
     <atkMaterial AltName="Attack Material" Wiki="Attack material used from attack para" Enum="WEP_MATERIAL_ATK" />
     <defSeMaterial1 AltName="Defence SE Material [1]" Wiki="Defense SE material used from attack para 1" Enum="WEP_MATERIAL_DEF" />
-    <correctType_Physics AltName="Correction Type: Physical" Wiki="Correcting physical attack power by primary parameters Determines the type of graph" Enum="WEP_CORRECT_TYPE" />
+    <correctType_Physics AltName="Correction Type: Physical" Wiki="Correcting physical attack power by primary parameters Determines the type of graph" Refs="CalcCorrectGraph" />
     <spAttribute AltName="Speical Attribute" Wiki="Weapon special attribute value" Enum="ATKPARAM_SPATTR_TYPE" />
     <spAtkcategory AltName="Special Motion Category" Wiki="Special attack category (possible from 50 to 999)" Enum="WEPMOTION_OVERRIDE_CATEGORY" />
     <wepmotionOneHandId AltName="Weapon Motion Position - 1H" Wiki="Basic motion ID when equipped with one hand." />
@@ -529,20 +581,20 @@
     <isEnableEmergencyStep AltName="Is Emergency Avoidance Possible" Wiki="Is it an emergency avoidable weapon? Pass it to the behavior script." IsBool="" />
     <invisibleOnRemo AltName="Is Hidden in Cutscene" Wiki="Is it hidden during cutscenes?" IsBool="" />
     <pad2 AltName=""/>
-    <correctType_Magic AltName="Correction Type: Magic" Wiki="Determining the type of magic attack power correction graph with primary parameters" Enum="WEP_CORRECT_TYPE" />
-    <correctType_Fire AltName="Correction Type: Fire" Wiki="Determine the type of flame attack power correction graph with primary parameters" Enum="WEP_CORRECT_TYPE" />
-    <correctType_Thunder AltName="Correction Type: Lightning" Wiki="Determine the type of lightning attack power correction graph with primary parameters" Enum="WEP_CORRECT_TYPE" />
+    <correctType_Magic AltName="Correction Type: Magic" Wiki="Determining the type of magic attack power correction graph with primary parameters" Refs="CalcCorrectGraph" />
+    <correctType_Fire AltName="Correction Type: Fire" Wiki="Determine the type of flame attack power correction graph with primary parameters" Refs="CalcCorrectGraph" />
+    <correctType_Thunder AltName="Correction Type: Lightning" Wiki="Determine the type of lightning attack power correction graph with primary parameters" Refs="CalcCorrectGraph" />
     <weakE_DamageRate AltName="Damage Multiplier %: Type E" Wiki="Damage multiplier for special attack E" />
     <weakF_DamageRate AltName="Damage Multiplier %: Type F" Wiki="Damage multiplier for special attack F" />
     <darkGuardCutRate AltName="Guard Absorption: Holy" Wiki="How much to cut the dark attack?" />
     <attackBaseDark AltName="Damage: Holy" Wiki="Basic value of darkness attack that damages the enemy's HP" />
-    <correctType_Dark AltName="Correction Type: Holy" Wiki="Determine the type of darkness attack power correction graph with primary parameters" Enum="WEP_CORRECT_TYPE" />
-    <correctType_Poison AltName="Correction Type: Poison" Wiki="Determining the type of poison attack power correction graph with primary parameters" Enum="WEP_CORRECT_TYPE" />
-    <sortGroupId AltName="Sort Group ID" Wiki="Sort item type ID. In the sort Item type order, the same ID is displayed together as the same group." />
+    <correctType_Dark AltName="Correction Type: Holy" Wiki="Determine the type of darkness attack power correction graph with primary parameters" Refs="CalcCorrectGraph" />
+    <correctType_Poison AltName="Correction Type: Poison" Wiki="Determining the type of poison attack power correction graph with primary parameters" Refs="CalcCorrectGraph" />
+    <sortGroupId AltName="Sort Group ID" Wiki="Sort item type ID. In the sort Item type order, the same ID is displayed together as the same group." Enum="DISPLAY_CATEGORY_ID" />
     <atkAttribute2 AltName="Attack Attribute [2]" Wiki="Physical attribute 2" Enum="ATKPARAM_ATKATTR_TYPE" />
     <sleepGuardResist AltName="Guard Resist: Sleep" Wiki="How much to cut the attack power (set as a special effect parameter) to sleep" />
     <madnessGuardResist AltName="Guard Resist: Madness" Wiki="How much to cut the attack power (set to the special effect parameter) that makes you go mad" />
-    <correctType_Blood AltName="Correction Type: Hemorrhage" Wiki="Determine the type of bleeding attack power correction graph with primary parameters" Enum="WEP_CORRECT_TYPE" />
+    <correctType_Blood AltName="Correction Type: Hemorrhage" Wiki="Determine the type of bleeding attack power correction graph with primary parameters" Refs="CalcCorrectGraph" />
     <properLuck AltName="Requirement: ARC" Wiki="Equipment appropriate value." />
     <freezeGuardResist AltName="Guard Resist: Frostbite" Wiki="How much to cut the attack power (set to the special effect parameter) to cool down" />
     <autoReplenishType AltName="Auto Replenish Type" Wiki="Controls whether or not to automatically replenish and default settings" Enum="AUTO_REPLENISH_TYPE" />
@@ -600,9 +652,9 @@
     <wepSeIdOffset AltName="Weapon SE ID Offset" Wiki="SEID offset value" />
     <baseChangePrice AltName="Affinity Price" Wiki="Evolution price" />
     <levelSyncCorrectId AltName="Level Sync Correction ID" Wiki="Level sync correction ID" />
-    <correctType_Sleep AltName="Correction Type: Sleep" Wiki="Determine the type of sleep attack correction graph with primary parameters" Enum="WEP_CORRECT_TYPE" />
-    <correctType_Madness AltName="Correction Type: Mandesss" Wiki="Determining the type of mad attack power correction graph with primary parameters" Enum="WEP_CORRECT_TYPE" />
-    <rarity AltName="Rarity" Wiki="Rarity used in item acquisition logs" />
+    <correctType_Sleep AltName="Correction Type: Sleep" Wiki="Determine the type of sleep attack correction graph with primary parameters" Refs="CalcCorrectGraph" />
+    <correctType_Madness AltName="Correction Type: Mandesss" Wiki="Determining the type of mad attack power correction graph with primary parameters" Refs="CalcCorrectGraph" />
+    <rarity AltName="Rarity" Wiki="Rarity used in item acquisition logs" Enum="RARITY" />
     <gemMountType AltName="Ash of War Type" Wiki="Is it possible to attach magic stones?" Enum="GEM_MOUNT_TYPE" />
     <wepRegainHp AltName="Weapon Regain HP Amount" Wiki="Weapon regain amount" />
     <spEffectMsgId0 AltName="SpEffect Message ID [0]" Wiki="Effect text ID 00 (Weapon_Effect). Weapon-specific effect text to display in status" />

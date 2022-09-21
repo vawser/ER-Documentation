@@ -10,10 +10,10 @@
     </Enum>
   </Enums>
   <Field>
-    <attribute1 AltName="Attribute [1]" Wiki="MISSING" Enum="WAYPOINT_ATTRIBUTE" />
-    <attribute2 AltName="Attribute [2]" Wiki="MISSING" Enum="WAYPOINT_ATTRIBUTE" />
-    <attribute3 AltName="Attribute [3]" Wiki="MISSING" Enum="WAYPOINT_ATTRIBUTE" />
-    <attribute4 AltName="Attribute [4]" Wiki="MISSING" Enum="WAYPOINT_ATTRIBUTE" />
+    <attribute1 AltName="Attribute [1]" Wiki="" Enum="WAYPOINT_ATTRIBUTE" />
+    <attribute2 AltName="Attribute [2]" Wiki="" Enum="WAYPOINT_ATTRIBUTE" />
+    <attribute3 AltName="Attribute [3]" Wiki="" Enum="WAYPOINT_ATTRIBUTE" />
+    <attribute4 AltName="Attribute [4]" Wiki="" Enum="WAYPOINT_ATTRIBUTE" />
     <padding4 AltName=""/>
   </Field>
   <Self />

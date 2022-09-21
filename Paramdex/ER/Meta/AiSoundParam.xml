@@ -2,10 +2,26 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="AI_SOUND_RATE_TYPE" type="u8">
+        <Option Value="0" Name="None" />
+        <Option Value="1" Name="Default" />
+        <Option Value="2" Name="Collision Based" />
     </Enum>
     <Enum Name="AI_SOUND_RANK" type="u8">
+        <Option Value="0" Name="Rank 0" />
+        <Option Value="1" Name="Rank 1" />
+        <Option Value="2" Name="Rank 2" />
+        <Option Value="3" Name="Rank 3" />
+        <Option Value="4" Name="Rank 4" />
+        <Option Value="5" Name="Rank 5" />
+        <Option Value="6" Name="Rank 6" />
+        <Option Value="7" Name="Rank 7" />
+        <Option Value="8" Name="Rank 8" />
+        <Option Value="9" Name="Rank 9" />
     </Enum>
     <Enum Name="AI_SOUND_REPLANNING_STATE_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
     </Enum>
   </Enums>
   <Field>

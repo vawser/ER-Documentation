@@ -1,16 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PARAMMETA XmlVersion="0">
   <Enums>
-    <Enum Name="WEATHER_TYPE" type="s16">
-    </Enum>
   </Enums>
   <Field>
     <mapId AltName="Map ID" Wiki="Specify the map number in 8 digits. Only open and legacy celestial sphere placement maps can be specified" />
-    <TransitionSrcWeather AltName="Transition Source Weather" Wiki="Specifies the assets that will be valid in this weather." Enum="WEATHER_TYPE" />
+    <TransitionSrcWeather AltName="Transition Source Weather" Wiki="Specifies the assets that will be valid in this weather." Refs="WeatherParam" />
     <padding0 AltName=""/>
     <isFireAsh AltName="Is Burning Ash" Wiki="Specifies whether or not to adapt to the fire ash state of the map." IsBool="" />
     <padding1 AltName=""/>
-    <reserved2 AltName="reserved2" Wiki="MISSING" />
+    <reserved2 AltName="reserved2" Wiki="" />
     <AssetId0 AltName="Asset ID [0]" Wiki="-1: Invalid Specify the asset ID to generate. AEG999_999 999999" />
     <AssetId1 AltName="Asset ID [1]" Wiki="-1: Invalid Specify the asset ID to generate. AEG999_999 999999" />
     <AssetId2 AltName="Asset ID [2]" Wiki="-1: Invalid Specify the asset ID to generate. AEG999_999 999999" />

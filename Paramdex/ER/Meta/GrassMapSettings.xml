@@ -3,9 +3,9 @@
   <Enums>
   </Enums>
   <Field>
-    <grassType0 AltName="Grass Type [0]" Wiki="MISSING" />
-    <grassType1 AltName="Grass Type [1]" Wiki="MISSING" />
-    <grassType2 AltName="Grass Type [2]" Wiki="MISSING" />
+    <grassType0 AltName="Grass Type [0]" Wiki="" />
+    <grassType1 AltName="Grass Type [1]" Wiki="" />
+    <grassType2 AltName="Grass Type [2]" Wiki="" />
   </Field>
   <Self />
 </PARAMMETA>

@@ -2,6 +2,8 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="MULTI_PLAY_CORRECTION_OVERRIDE_TYPE" type="u8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
     </Enum>
   </Enums>
   <Field>

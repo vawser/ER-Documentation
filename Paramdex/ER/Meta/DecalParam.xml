@@ -2,10 +2,17 @@
 <PARAMMETA XmlVersion="0">
   <Enums>
     <Enum Name="DECAL_PARAM_BLEND_MODE" type="s8">
+        <Option Value="1" Name="Mode 1" />
+        <Option Value="2" Name="Mode 2" />
     </Enum>
     <Enum Name="DECAL_PARAM_DIR_TYPE" type="s8">
+        <Option Value="0" Name="Type 0" />
+        <Option Value="1" Name="Type 1" />
+        <Option Value="2" Name="Type 2" />
     </Enum>
     <Enum Name="DECAL_PARAM_THIN_OUT_MODE" type="s8">
+        <Option Value="0" Name="Mode 0" />
+        <Option Value="1" Name="Mode 1" />
     </Enum>
   </Enums>
   <Field>
@@ -83,7 +90,7 @@
     <randVaria_Diffuse AltName="Random Variation - Diffuse" Wiki="Number of random variations of albedo texture (including 0th, 2 for 2 textures)" />
     <randVaria_Mask AltName="Random Variation - Mask" Wiki="Number of random variations of mask texture (including 0th, 2 for 2 textures)" />
     <randVaria_Reflec AltName="Random Variation - Reflect" Wiki="Number of random variations of reflex textures (including 0th, 2 for 2 textures)" />
-    <pad_12 AltName="Padding" Wiki="MISSING" />
+    <pad_12 AltName="Padding" Wiki="" />
     <randVaria_Normal AltName="Random Variation - Normal" Wiki="Number of random variations of normal texture (including 0th, 2 for 2 textures)" />
     <randVaria_Height AltName="Random Variation - Height" Wiki="Number of random variations of height texture (including 0th, 2 for 2 textures)" />
     <randVaria_Emissive AltName="Random Variation - Emissive" Wiki="Number of random variations of emissive textures (including 0th, 2 for 2 textures)" />

@@ -51,6 +51,8 @@
         <Option Value="1" Name="Friendly" />
     </Enum>
     <Enum Name="ROLE_NAME_COLOR_TYPE" type="u8">
+        <Option Value="1" Name="Friendly" />
+        <Option Value="2" Name="Hostile" />
     </Enum>
   </Enums>
   <Field>
