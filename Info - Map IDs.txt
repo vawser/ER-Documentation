@@ -477,9 +477,3 @@ m60_27_28_01
 m60_54_56_00 Mountaintops of the Giants - Southeast Freezing Lake
 m60_54_57_00 Mountaintops of the Giants - Northeast Freezing Lake
 
-#----------------------------------------
-# Associations
-#----------------------------------------
-BonfireWarpParam is linked to WorldMapPointParam via ROW ID.
-
-unk2C  - Spirit Summon Zone ID?
