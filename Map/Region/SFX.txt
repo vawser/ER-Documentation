@@ -1,9 +1,10 @@
 ﻿#----------------------------------------
-# Hitset
+# SFX
 #----------------------------------------
-Used to setup a hitset.
+Used to setup in-map visual effects.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?
+EffectID:                   The FFX ID to play
+UnkT04:                     ?

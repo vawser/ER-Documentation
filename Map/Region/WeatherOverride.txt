@@ -1,9 +1,9 @@
 ﻿#----------------------------------------
-# Hitset
+# WeatherOverride
 #----------------------------------------
-Used to setup a hitset.
+Used to setup a weather override region.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?
+UnkT00:                     WeatherLotParam row id to use.

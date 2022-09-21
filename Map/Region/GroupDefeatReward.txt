@@ -3,7 +3,9 @@
 #----------------------------------------
 Used to setup a group defeat reward.
 
+#-------------------------
 # Unique Properties
+#-------------------------
 UnkT00:             ?
 UnkT04:             ?
 UnkT08:             ?

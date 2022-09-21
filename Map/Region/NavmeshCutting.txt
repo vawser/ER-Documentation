@@ -1,9 +1,8 @@
 ﻿#----------------------------------------
-# Hitset
+# NavmeshCutting
 #----------------------------------------
-Used to setup a hitset.
+Define an area to cut the navmesh at.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?

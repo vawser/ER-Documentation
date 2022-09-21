@@ -1,9 +1,8 @@
 ﻿#----------------------------------------
-# Hitset
+# WindArea
 #----------------------------------------
-Used to setup a hitset.
+Used to setup a wind area.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?

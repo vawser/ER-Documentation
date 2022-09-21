@@ -1,9 +1,16 @@
 ﻿#----------------------------------------
-# Hitset
+# MapPiece
 #----------------------------------------
-Used to setup a hitset.
+Used to setup map pieces.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?
+
+#-------------------------
+# Structs
+#-------------------------
+UnkStruct7
+UnkStruct8
+UnkStruct9
+UnkStruct11

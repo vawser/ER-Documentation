@@ -8,6 +8,11 @@ Large   = Field Sixed
 Huge    = Geographical Feature 
 
 #---------------------------------
+AEG099
+
+_630  Chest
+
+#---------------------------------
 AEG007 - Structures
 
 _000    Rocky Floating Outcrop (Large)

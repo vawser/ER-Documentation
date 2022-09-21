@@ -1,9 +1,11 @@
 ﻿#----------------------------------------
-# Hitset
+# MufflingPortal
 #----------------------------------------
-Used to setup a hitset.
+Used to setup a muffling portal for sound.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?
+UnkA[0]                     ?
+UnkB[]                      ?
+UnkT00:                     ?

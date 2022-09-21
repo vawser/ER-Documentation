@@ -1,9 +1,9 @@
 ﻿#----------------------------------------
-# Hitset
+# InvasionPoint
 #----------------------------------------
-Used to setup a hitset.
+Used to define an hostile invasion point.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?
+Priority:                   The rate at which this point is picked over others.

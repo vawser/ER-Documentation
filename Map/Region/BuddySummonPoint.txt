@@ -1,9 +1,9 @@
 ﻿#----------------------------------------
-# Hitset
+# BuddySummonPoint
 #----------------------------------------
-Used to setup a hitset.
+Used to define an spirit summon point.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?
+

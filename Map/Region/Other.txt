@@ -1,9 +1,8 @@
 ﻿#----------------------------------------
-# Hitset
+# Other
 #----------------------------------------
-Used to setup a hitset.
+Used to setup a generic region point.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?

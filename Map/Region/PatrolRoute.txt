@@ -1,7 +1,7 @@
 ﻿#----------------------------------------
-# Hitset
+# PatrolRoute
 #----------------------------------------
-Used to setup a hitset.
+Used to setup a specific patrol point.
 
 #-------------------------
 # Unique Properties

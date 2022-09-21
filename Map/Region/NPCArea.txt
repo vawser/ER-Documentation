@@ -1,9 +1,9 @@
 ﻿#----------------------------------------
-# Hitset
+# NPCArea
 #----------------------------------------
-Used to setup a hitset.
+Used to setup a NPC area.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?
+UnkT00:                     ?

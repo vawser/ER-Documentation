@@ -3,7 +3,9 @@
 #----------------------------------------
 Used to setup the environmental effect for the map.
 
+#-------------------------
 # Unique Properties
+#-------------------------
 EnableDist:         ?
 TransitionDist:     ?
 UnkT08:             ?

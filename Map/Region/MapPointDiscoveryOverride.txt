@@ -1,9 +1,8 @@
 ﻿#----------------------------------------
-# Hitset
+# MapPointDiscoveryOverride
 #----------------------------------------
-Used to setup a hitset.
+Used to setup a map point discovery override.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?

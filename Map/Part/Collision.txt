@@ -1,0 +1,36 @@
+﻿#----------------------------------------
+# Collision
+#----------------------------------------
+Used to setup collison.
+
+#-------------------------
+# Unique Properties
+#-------------------------
+UnkT00:                 ?
+UnkT01:                 ?
+UnkT02:                 ?
+UnkT03:                 Bool
+UnkT04:                 ?
+UnkT14:                 ?
+UnkT18:                 ?
+UnkT1C:                 ?
+PlayRegonID:            The play region used by this collision
+UnkT24:                 ?
+UnkT26:                 ?
+UnkT30:                 ?
+UnkT34:                 ?
+UnkT35:                 ?
+DisableTorrent:         Disable usage of Torrent on this collision
+UnkT3C:                 ?
+UnkT3E:                 ?
+UnkT40:                 ?
+UnkT48:                 ?
+UnkT4C:                 ?
+UnkT4E:                 ?
+
+#-------------------------
+# Structs
+#-------------------------
+UnkStruct11
+
+

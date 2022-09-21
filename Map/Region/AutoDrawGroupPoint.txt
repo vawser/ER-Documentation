@@ -1,9 +1,10 @@
 ﻿#----------------------------------------
-# Hitset
+# AutoDrawGroupPoint
 #----------------------------------------
-Used to setup a hitset.
+Used to define an auto draw group point.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?
+UnkT00:                     ?
+

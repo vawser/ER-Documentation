@@ -3,7 +3,9 @@
 #----------------------------------------
 Used to setup the environmental effect for the map.
 
+#-------------------------
 # Unique Properties
+#-------------------------
 UnkT00:             ?
 UnkT04:             ?
 UnkT0D:             Bool

@@ -1,9 +1,9 @@
 ﻿#----------------------------------------
-# Hitset
+# MapNameOverride
 #----------------------------------------
-Used to setup a hitset.
+Used to define an map name override area.
 
 #-------------------------
 # Unique Properties
 #-------------------------
-UnkT00:             ?
+UnkT00:                     ?

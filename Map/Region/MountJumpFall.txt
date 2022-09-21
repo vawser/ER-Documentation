@@ -3,5 +3,7 @@
 #----------------------------------------
 Used to add the fall portion of a Spiritspring.
 
+#-------------------------
 # Unique Properties
+#-------------------------
 
