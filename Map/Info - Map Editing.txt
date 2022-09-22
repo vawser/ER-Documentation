@@ -5,6 +5,8 @@ XX means the first set of 2 digits of the map
 YY means the second set of 2 digits of the map
 ZZ means the third set of 2 digits of the map
 
+For m60_ maps, the XX is 10
+
 #----------------------------------------
 # Adding a Grace
 #----------------------------------------
@@ -12,7 +14,7 @@ Requirements:
 - Enemy: controls the interaction portion of the grace
 - Player: controls the spawn location of the player at the grace
 - Asset: is the grace asset
-- EMEVD: registered the grace as active
+- EMEVD: registers the grace as active
 - Param: setups the grace
 
 # Enemy properties
@@ -100,6 +102,7 @@ Requirements:
 - Other: composite region to cover boss arena
     - Other: sub-regions should be boxes
 - Asset: AEG099_501_9000
+- Player: define the spawn point of the statue
 
 # RetryPoint properties
 RetryPartName:      AEG099_501_9000
@@ -112,6 +115,9 @@ EntityID:           <XXYY>1940
 
 # Region properties
 The regions need no specific property changes.
+
+# Player properties
+EntityID needs to be <XXYY>1940 - 970 
 
 If you do not need a composite region to cover the boss arena, use a box region directly.
 
@@ -145,9 +151,27 @@ UnkE08:     255
 MapID:      -1
 UnkS04:     0
 UnkS0C:     -1
-EntityID:   10<YYZZ>500
+EntityID:   <XXYYZZ>500
   
 # Asset properties:
-EntityID: 10<YYZZ>1250
+EntityID:  <XXYYZZ>1250
 UnkPartNames[4]: should match Name
 UnkPartNames[5]: should match Name
+
+#----------------------------------------
+# Adding a Spirit Summon Spot
+#----------------------------------------
+Requirements:
+- Enemy
+- Param
+
+# Enemy properties
+ModelName:              c1000
+NPCParamID:             10001000
+TalkID:                 2000
+EntityID:               <XXYYZZ>0100
+
+# Param: BuddyStoneParam
+talkChrEntityId:                    <XXYYZZ>0100
+eliminateTargetEntityId:            <XXYYZZ>5100
+summonedEventFlagId:                <XXYYZZ>2100
