@@ -39,7 +39,10 @@ UnkStruc11
 
 # AssetUnkStruct1
 Unk00:                  ?
-Unk04:                  ?
+Unk04:                  Affects behavior on touch: 
+                        0 is normal, 
+                        1 is used by the breakable barriers,
+                        256 causes dismount/horse prohibition
 Unk1C:                  ?
 Unk24:                  ?
 Unk26:                  ?

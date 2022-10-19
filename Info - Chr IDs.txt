@@ -5,7 +5,7 @@ c2010 Blaidd
 c2030 Rennala
 c2031 Rennala
 c2040 Rennala Student
-c2041 Rennala Student - Bug Form
+c2041 Small Pest
 c2050 Snow Witch Ranni 
 c2051 Snow Witch Ranni 
 c2060 The Two Fingers
