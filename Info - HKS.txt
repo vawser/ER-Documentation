@@ -210,14 +210,37 @@ Returns TRUE or FALSE.
 359 GetWeaponSwitchState 			    
 360 IsEquipmentMenuOpen 			    
 361 GetRemainingArrowCount 		
+362 
+    <int>
+365 
+366 [Guess] Get Spiritspring Jump Height
+
+# Group 400
+400 
+404 [Guess] Get Equipment Type (Mount)
+409 
+    <int> 
 
 # Group 500
 500 [Guess] Is Riding Mount
 504 
 505 [Guess] Can Ride 
 506 [Guess] Cannot Ride
-539 [Guess] Has Landed from Mount Jump
-552
+530 Get Mount Damage Level
+533 Get Mount Damage Angle
+534 Get Mount Damage Type
+535 Is Mount Damaged
+537 [Guess] Is Mount Falling
+538 [Guess] Get Mount Fall Height
+539 [Guess] Is Mount Landing from Jump
+540 [Guess] Is Mount Truly Landing
+543 Get Mount Special Attribute
+545 
+548 
+549 Get Mount SpEffect
+552 [Guess] Is Mount Move Type
+    <int> 
+555
 
 # Group 1000
 1000 GetHP 			                    
@@ -426,15 +449,25 @@ Returns TRUE or FALSE.
 2022 DisableMagicIDSwitching             # 魔法ID切り替え無効
 2023 DisableToolIDSwitching              # 道具ID切り替え無効
 2024 UseItemDecision
-
+2025 [Guess] Use Equipment (Mount)
+2050 [Guess] Jump Attack State
+    <int>
+    <int>
+    
 # Group 3000
 3000 [Guess] Mount Creature
 3001
 3002
 3003 [Guess] Play Torrent Anim
-3004 Ride Feed Add Blend
+3004 Apply Blend Anim
     <blend anim>
     <rate>
+3005 
+3007 Apply Damage Flag
+    <DAMAGE_FLAG_ENUM>
+    
+# Group 4000
+4002 [Guess] Jump Attack related
     
 # Group 9000
 9000 DebugLogOutput                 # デバッグログ出力
