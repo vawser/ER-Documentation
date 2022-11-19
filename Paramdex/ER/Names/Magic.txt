@@ -1,4 +1,4 @@
-4000 [Sorcery] Glintstone Pebble [Generator]
+4000 [Sorcery] Glintstone Pebble
 4001 [Sorcery] Great Glintstone Shard
 4010 [Sorcery] Swift Glintstone Shard
 4020 [Sorcery] Glintstone Cometshard
@@ -32,7 +32,7 @@
 4420 [Sorcery] Freezing Mist
 4430 [Sorcery] Carian Greatsword
 4431 [Sorcery] Adula's Moonblade
-4440 [Sorcery] Carian Slicer [Generator]
+4440 [Sorcery] Carian Slicer
 4450 [Sorcery] Carian Piercer
 4460 [Sorcery] Scholar's Armament
 4470 [Sorcery] Scholar's Shield
@@ -41,7 +41,7 @@
 4500 [Sorcery] Shattering Crystal
 4510 [Sorcery] Crystal Release
 4520 [Sorcery] Crystal Torrent
-4600 [Sorcery] Ambush Shard [Generator]
+4600 [Sorcery] Ambush Shard
 4610 [Sorcery] Night Shard
 4620 [Sorcery] Night Comet
 4630 [Sorcery] Thops's Barrier
@@ -70,7 +70,7 @@
 5040 [Incantation] Death Lightning
 5100 [Sorcery] Oracle Bubbles
 5110 [Sorcery] Great Oracular Bubble
-6000 [Incantation] Catch Flame [Generator]
+6000 [Incantation] Catch Flame
 6001 [Incantation] O, Flame!
 6010 [Incantation] Flame Sling
 6020 [Incantation] Flame, Fall Upon Them
@@ -124,7 +124,7 @@
 6760 [Incantation] Law of Causality
 6770 [Incantation] Order's Blade
 6780 [Incantation] Order Healing
-6800 [Incantation] Bestial Sling [Generator]
+6800 [Incantation] Bestial Sling
 6810 [Incantation] Stone of Gurranq
 6820 [Incantation] Beast Claw
 6830 [Incantation] Gurranq's Beast Claw
@@ -134,7 +134,7 @@
 6910 [Incantation] Ancient Dragons' Lightning Strike
 6920 [Incantation] Lightning Strike
 6921 [Incantation] Frozen Lightning Spear
-6930 [Incantation] Honed Bolt [Generator]
+6930 [Incantation] Honed Bolt
 6940 [Incantation] Ancient Dragons' Lightning Spear
 6941 [Incantation] Fortissax's Lightning Spear
 6950 [Incantation] Lansseax's Glaive

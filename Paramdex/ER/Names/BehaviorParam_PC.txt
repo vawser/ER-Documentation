@@ -4819,25 +4819,25 @@
 105031856 Bloodbone Arrow
 105031870 Bloodbone Arrow
 105031875 Bloodbone Arrow
-105032300 Blightbone Arrow
-105032310 Blightbone Arrow
-105032400 Blightbone Arrow
-105032810 Blightbone Arrow
-105032811 Blightbone Arrow
-105032815 Blightbone Arrow
-105032816 Blightbone Arrow
-105032820 Blightbone Arrow
-105032825 Blightbone Arrow
-105032830 Blightbone Arrow
-105032835 Blightbone Arrow
-105032840 Blightbone Arrow
-105032845 Blightbone Arrow
-105032850 Blightbone Arrow
-105032851 Blightbone Arrow
-105032855 Blightbone Arrow
-105032856 Blightbone Arrow
-105032870 Blightbone Arrow
-105032875 Blightbone Arrow
+105032300 Coldbone Arrow (Fletched)
+105032310 Coldbone Arrow (Fletched)
+105032400 Coldbone Arrow (Fletched)
+105032810 Coldbone Arrow (Fletched)
+105032811 Coldbone Arrow (Fletched)
+105032815 Coldbone Arrow (Fletched)
+105032816 Coldbone Arrow (Fletched)
+105032820 Coldbone Arrow (Fletched)
+105032825 Coldbone Arrow (Fletched)
+105032830 Coldbone Arrow (Fletched)
+105032835 Coldbone Arrow (Fletched)
+105032840 Coldbone Arrow (Fletched)
+105032845 Coldbone Arrow (Fletched)
+105032850 Coldbone Arrow (Fletched)
+105032851 Coldbone Arrow (Fletched)
+105032855 Coldbone Arrow (Fletched)
+105032856 Coldbone Arrow (Fletched)
+105032870 Coldbone Arrow (Fletched)
+105032875 Coldbone Arrow (Fletched)
 105033300 Coldbone Arrow
 105033310 Coldbone Arrow
 105033400 Coldbone Arrow

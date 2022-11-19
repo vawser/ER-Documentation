@@ -1,6 +1,6 @@
 0 Grafted Blade Greatsword
 1010 Impact
-40000 Glintstone Pebble [Generator]
+40000 Glintstone Pebble
 40010 Great Glintstone Shard
 40070 Glintstone Arc
 40100 Swift Glintstone Shard
@@ -126,12 +126,12 @@
 44317 Adula's Moonblade
 44318 Adula's Moonblade
 44319 Adula's Moonblade
-44400 Carian Slicer [Generator]
-44401 Carian Slicer [Generator]
-44405 Carian Slicer [Generator]
-44406 Carian Slicer [Generator]
-44407 Carian Slicer [Generator]
-44408 Carian Slicer [Generator]
+44400 Carian Slicer
+44401 Carian Slicer
+44405 Carian Slicer
+44406 Carian Slicer
+44407 Carian Slicer
+44408 Carian Slicer
 44500 Carian Piercer
 44501 Carian Piercer
 44505 Carian Piercer [Charged]
@@ -147,7 +147,7 @@
 45101 Crystal Release
 45200 Crystal Torrent
 45201 Crystal Torrent
-46000 Ambush Shard [Generator]
+46000 Ambush Shard
 46100 Night Shard
 46200 Night Comet
 46201 Night Comet [Charged]
@@ -219,8 +219,8 @@
 51005 Oracle Bubbles [Charged]
 51010 Great Oracular Bubble
 51015 Great Oracular Bubble [Charged]
-60000 Catch Flame [Generator]
-60001 Catch Flame [Generator]
+60000 Catch Flame
+60001 Catch Flame
 60010 O, Flame!
 60011 O, Flame!
 60015 O, Flame! [Charged]
@@ -311,7 +311,7 @@
 67600 Law of Causality
 67601 Law of Causality
 67800 Order Healing
-68000 Bestial Sling [Generator]
+68000 Bestial Sling
 68100 Stone of Gurranq
 68101 Stone of Gurranq
 68200 Beast Claw
@@ -333,8 +333,8 @@
 69210 Frozen Lightning Spear
 69211 Frozen Lightning Spear
 69212 Frozen Lightning Spear
-69300 Honed Bolt [Generator]
-69301 Honed Bolt [Generator]
+69300 Honed Bolt
+69301 Honed Bolt
 69400 Ancient Dragons' Lightning Spear
 69401 Ancient Dragons' Lightning Spear
 69402 Ancient Dragons' Lightning Spear

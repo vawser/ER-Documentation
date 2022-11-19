@@ -174,8 +174,8 @@
 2730 Dragonscale Blade
 2731 Dragonscale Blade
 2732 Dragonscale Blade
-2740 A
-2741 A
+2740 Dragonscale Blade
+2741 Dragonscale Blade
 2745 Vyke's War Spear
 2746 Vyke's War Spear
 2747 Vyke's War Spear
@@ -4052,8 +4052,8 @@
 10443111 Adula's Moonblade
 10443120 Adula's Moonblade
 10443121 Adula's Moonblade
-10443130 Adula's Moonblade (Deprecated)
-10443131 Adula's Moonblade (Deprecated)
+10443130 Adula's Moonblade
+10443131 Adula's Moonblade
 10448000 Lucidity
 10448001 Lucidity
 10450000 Shattering Crystal
