@@ -13,7 +13,7 @@
 21000000 Black Knife Assassin
 21000052 Black Knife Assassin
 21100000 Beast Clergyman
-21101000 Maliketh the Black Blade
+21101000 Maliketh, the Black Blade
 21102000 Beast Clergyman
 21300000 Morgott
 21300500 Morgott
@@ -104,7 +104,7 @@
 31800020 Dog
 31810000 Red Wolf of Radagon
 31810052 Red Wolf of Radagon
-32000000 Nomad Trader - Merchant Kal
+32000000 Nomad Trader - Merchant Kalé
 32009000 Nomad Trader
 32010000 Nomad Trader
 32100000 Nomad Mule
@@ -757,7 +757,7 @@
 170001000 Greatshield Soldier
 170002000 Archer
 523000000 Tanith Volcano Manor Proprietress
-523010000 White Mask Varr
+523010000 White Mask Varré
 523040000 Festering Fingerprint Vyke
 523070000 Preceptor Seluvis
 523090000 Patches

@@ -214,8 +214,8 @@
 4601 Armored Troll Knight (Blade)
 4602 Troll Knight
 4603 Troll Knight (Club)
-4604 Troll Knight (Covered Face Club and Book)
-4620 Astel Stars of Darkness
+4604 Troll Knight (Covered Face, Club and Book)
+4620 Astel, Stars of Darkness
 4630 Runebear
 4640 Ulcerated Tree Spirit
 4650 Dragonkin Soldier
@@ -223,7 +223,7 @@
 4670 Ancestor Spirit
 4680 Falling-star Beast
 4690 Grafted Scion
-4710 God-Devouring Serpent / Rykard Lord of Blasphemy
+4710 God-Devouring Serpent / Rykard, Lord of Blasphemy
 4711 Writhing Mass
 4720 Bestial Knight (Greataxe)
 4721 Bare-chested Champion
@@ -232,8 +232,8 @@
 4751 Godrick (Head and Torso)
 4760 Fire Giant
 4770 Gargoyle
-4800 Mohg The Omen
-4801 Mohg The Omen - Dead
+4800 Mohg, The Omen
+4801 Mohg, The Omen - Dead
 4810 Erdtree Avatar
 4811 Erdtree Avatar
 4820 Omenkiller

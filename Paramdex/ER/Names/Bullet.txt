@@ -4314,7 +4314,7 @@
 10600101 O Flame!
 10600105 O Flame!
 10600106 O Flame!
-10600150 O Flame! [Charged]
+10600150 O, Flame! [Charged]
 10600151 O Flame!
 10600155 O Flame!
 10600156 O Flame!
@@ -4325,11 +4325,11 @@
 10602000 Flame Fall Upon Them
 10602001 Flame Fall Upon Them
 10602002 Flame Fall Upon Them
-10602050 Flame Fall Upon Them [Charged]
+10602050 Flame, Fall Upon Them [Charged]
 10602051 Flame Fall Upon Them
 10602052 Flame Fall Upon Them
 10603000 Whirl O Flame!
-10603050 Whirl O Flame! [Charged]
+10603050 Whirl, O Flame! [Charged]
 10603099 Whirl O Flame!
 10604000 Flame Cleanse Me
 10604001 Flame Cleanse Me
@@ -4354,7 +4354,7 @@
 10612003 Burn O Flame!
 10612004 Burn O Flame!
 10612005 Burn O Flame!
-10612050 Burn O Flame! [Charged]
+10612050 Burn, O Flame! [Charged]
 10612051 Burn O Flame!
 10612052 Burn O Flame!
 10612053 Burn O Flame!

@@ -221,10 +221,10 @@
 51015 Great Oracular Bubble [Charged]
 60000 Catch Flame [Generator]
 60001 Catch Flame [Generator]
-60010 O Flame!
-60011 O Flame!
-60015 O Flame! [Charged]
-60016 O Flame!
+60010 O, Flame!
+60011 O, Flame!
+60015 O, Flame! [Charged]
+60016 O, Flame!
 60100 Flame Sling
 60101 Flame Sling
 60102 Flame Sling [Charged]

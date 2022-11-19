@@ -910,8 +910,8 @@
 112044 Ash of War: Glintblade Phalanx
 112045 Ash of War: Glintstone Pebble
 112046 Ash of War: Gravitas
-112047 Ash of War: Carian Greatsword
-112048 X
+112047 Ash of War: Carian Grandeur
+112048 Ash of War: Carian Greatsword
 112049 Ash of War: Waves of Darkness
 112050 Ash of War: Cragblade
 112051 Ash of War: Sacred Blade

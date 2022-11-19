@@ -7,7 +7,7 @@
 4900 Mending Rune of Perfect Order
 4910 Mending Rune of the Death-Prince
 4920 Mending Rune of the Fell Curse
-5000 Flask of Crimson Tears Flask of Crimson Tears +5 Flask of Crimson Tears +10 Flask of Cerulean Tears Oil Pot
+5000 Flask of Crimson Tears, Flask of Crimson Tears +5, Flask of Crimson Tears +10, Flask of Cerulean Tears, Oil Pot
 5010 Small Golden Effigy
 5040 Immunizing Cured Meat
 5280 Tarnished's Furled Finger
@@ -643,7 +643,7 @@
 110301 Festering Bloody Finger
 110400 [Corpse - Unknown]
 110401 Perfume Bottle
-110410 Kal's Bell Bearing
+110410 Kalé's Bell Bearing
 110500 Gostoc's Bell Bearing
 110501 Glass Shard
 110502 Silver-Pickled Fowl Foot
@@ -805,44 +805,44 @@
 996810 Altus Bloom
 996820 Fire Blossom
 996830 Golden Sunflower
-996840 Fulgurbloom Fulgurbloom Fulgurbloom
+996840 Fulgurbloom, Fulgurbloom, Fulgurbloom
 996850 Tarnished Golden Sunflower
-996870 Fulgurbloom Fulgurbloom Fulgurbloom
-996900 Herba Herba Herba
+996870 Fulgurbloom, Fulgurbloom, Fulgurbloom
+996900 Herba, Herba, Herba
 996910 Arteria Leaf
 996960 Arteria Leaf
-997100 Dewkissed Herba Dewkissed Herba Dewkissed Herba
-997200 Rowa Fruit Rowa Fruit Rowa Fruit Rowa Fruit
-997210 Golden Rowa Golden Rowa Golden Rowa Golden Rowa
-997220 Rimed Rowa Rimed Rowa Rimed Rowa Rimed Rowa
-997230 Bloodrose Bloodrose
-997300 Rowa Fruit Rowa Fruit Rowa Fruit Rowa Fruit
+997100 Dewkissed Herba, Dewkissed Herba, Dewkissed Herba
+997200 Rowa Fruit, Rowa Fruit, Rowa Fruit, Rowa Fruit
+997210 Golden Rowa, Golden Rowa, Golden Rowa, Golden Rowa
+997220 Rimed Rowa, Rimed Rowa, Rimed Rowa, Rimed Rowa
+997230 Bloodrose, Bloodrose
+997300 Rowa Fruit, Rowa Fruit, Rowa Fruit, Rowa Fruit
 997400 Eye of Yelough
-997500 Crystal Bud Crystal Bud Crystal Bud
-997510 Rimed Crystal Bud Rimed Crystal Bud Rimed Crystal Bud
+997500 Crystal Bud, Crystal Bud, Crystal Bud
+997510 Rimed Crystal Bud, Rimed Crystal Bud, Rimed Crystal Bud
 997530 Sacramental Bud
-997600 Mushroom Mushroom Mushroom
-997610 Melted Mushroom Melted Mushroom Melted Mushroom
-997700 Toxic Mushroom Toxic Mushroom Toxic Mushroom
-997750 Root Resin Root Resin Root Resin
-997800 Cracked Crystal Cracked Crystal Cracked Crystal
+997600 Mushroom, Mushroom, Mushroom
+997610 Melted Mushroom, Melted Mushroom, Melted Mushroom
+997700 Toxic Mushroom, Toxic Mushroom, Toxic Mushroom
+997750 Root Resin, Root Resin, Root Resin
+997800 Cracked Crystal, Cracked Crystal, Cracked Crystal
 997950 Sanctuary Stone
 997960 Ruin Fragment
 998000 Nascent Butterfly
 998010 Aeonian Butterfly
-998020 Smoldering Butterfly Smoldering Butterfly Smoldering Butterfly
+998020 Smoldering Butterfly, Smoldering Butterfly, Smoldering Butterfly
 998100 Silver Firefly
 998110 Gold Firefly
 998120 Glintstone Firefly
 998200 Golden Centipede
 998250 Silver Tear Husk
-998300 Gold-Tinged Excrement Gold-Tinged Excrement Gold-Tinged Excrement
-998310 Blood-Tainted Excrement Blood-Tainted Excrement Blood-Tainted Excrement
-998400 Cave Moss Cave Moss Cave Moss
-998410 Budding Cave Moss Budding Cave Moss Budding Cave Moss
-998420 Crystal Cave Moss Crystal Cave Moss Crystal Cave Moss
+998300 Gold-Tinged Excrement, Gold-Tinged Excrement, Gold-Tinged Excrement
+998310 Blood-Tainted Excrement, Blood-Tainted Excrement, Blood-Tainted Excrement
+998400 Cave Moss, Cave Moss, Cave Moss
+998410 Budding Cave Moss, Budding Cave Moss, Budding Cave Moss
+998420 Crystal Cave Moss, Crystal Cave Moss, Crystal Cave Moss
 998450 Yellow Ember
-998500 Volcanic Stone Volcanic Stone Volcanic Stone
+998500 Volcanic Stone, Volcanic Stone, Volcanic Stone
 998520 Formic Rock
 998550 Gravel Stone
 998600 Smithing Stone [1]
@@ -1164,7 +1164,7 @@
 11001988 [LD - Leyndell] Raging Wolf Greaves
 11050000 [Incantation] Erdtree Heal
 11050001 [Incantation] Blessing of the Erdtree
-11050010 Leyndell Ashen - Somber Ancient Dragon Smithing Stone
+11050010 Leyndell, Ashen - Somber Ancient Dragon Smithing Stone
 11050020 Tarnished Golden Sunflower
 11050030 Rune Arc
 11050040 Golden Sunflower

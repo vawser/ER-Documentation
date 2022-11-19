@@ -41,22 +41,22 @@
 23161 Sorceress Sellen
 23162 Sorceress Sellen
 23163 Sorceress Sellen
-23180 Yura Hunter of Bloody Fingers
-23181 Yura Hunter of Bloody Fingers
+23180 Yura, Hunter of Bloody Fingers
+23181 Yura, Hunter of Bloody Fingers
 23182 Shabriri
-23183 Yura Hunter of Bloody Fingers
-23184 Yura Hunter of Bloody Fingers
-23190 D Hunter of the Dead
-23191 D Hunter of the Dead
-23192 D Hunter of the Dead
-23193 D Hunter of the Dead
-23194 D Hunter of the Dead
-23195 D Hunter of the Dead
+23183 Yura, Hunter of Bloody Fingers
+23184 Yura, Hunter of Bloody Fingers
+23190 D, Hunter of the Dead
+23191 D, Hunter of the Dead
+23192 D, Hunter of the Dead
+23193 D, Hunter of the Dead
+23194 D, Hunter of the Dead
+23195 D, Hunter of the Dead
 23200 Roderika
-23201 Roderika Spirit Tuner
+23201 Roderika, Spirit Tuner
 23210 Kenneth Haight
-23221 Fia Deathbed Companion
-23222 Fia Deathbed Companion
+23221 Fia, Deathbed Companion
+23222 Fia, Deathbed Companion
 23230 Dung Eater
 23231 Dung Eater
 23232 Dung Eater Puppet
@@ -76,8 +76,8 @@
 23260 Knight Bernahl
 23261 Recusant Bernahl
 23262 Recusant Bernahl
-23270 Eleonora Violet Bloody Finger
-23271 Eleonora Violet Bloody Finger
+23270 Eleonora, Violet Bloody Finger
+23271 Eleonora, Violet Bloody Finger
 23290 Lionel the Lionhearted
 23291 Human
 23310 Blackguard
@@ -113,13 +113,13 @@
 23510 Brother Corhyn
 23520 Preceptor Miriam
 23521 Preceptor Miriam
-23530 Anastasia Tarnished-Eater
-23531 Anastasia Tarnished-Eater
-23532 Anastasia Tarnished-Eater
+23530 Anastasia, Tarnished-Eater
+23531 Anastasia, Tarnished-Eater
+23532 Anastasia, Tarnished-Eater
 23550 Bloody Finger Okina
 23551 Okina
-23560 Adan Thief of Fire
-23590 Moongrum Carian Knight
+23560 Adan, Thief of Fire
+23590 Moongrum, Carian Knight
 23600 Vargram the Raging Wolf
 23610 Fia's Champion 1
 23611 Fia's Champion
@@ -135,7 +135,7 @@
 23632 Finger Maiden Therolina
 23640 Dolores the Sleeping Arrow
 23650 Jarwight Puppet
-23670 Inaba Disciple of Okina
+23670 Inaba, Disciple of Okina
 23680 Silver Tear
 23681 Silver Tear
 23682 Silver Tear
@@ -194,12 +194,12 @@
 23830 Flame Guardian
 23840 Inquisitor Ghiza
 23850 Mad Tongue Alberich
-23860 Esgar Priest of Blood
-23870 Mary Eldest Sister
-23880 Maureen Second Sister
-23890 Amy Third Sister
-23900 Polyanna Youngest Sister
-23901 Polyanna Youngest Sister
+23860 Esgar, Priest of Blood
+23870 Mary, Eldest Sister
+23880 Maureen, Second Sister
+23890 Amy, Third Sister
+23900 Polyanna, Youngest Sister
+23901 Polyanna, Youngest Sister
 24010 Stray Mimic Tear
 24020 Mimic Tear
 26050 Mimic Tear

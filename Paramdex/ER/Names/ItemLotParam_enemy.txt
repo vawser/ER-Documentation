@@ -1,6 +1,6 @@
 0 Head
 1 Neutralizing Boluses
-2 Flask of Crimson Tears +5 Flask of Crimson Tears +5 Flask of Crimson Tears +6 Flask of Crimson Tears +6 Flask of Crimson Tears +11 Flask of Crimson Tears Flask of Crimson Tears
+2 Flask of Crimson Tears +5, Flask of Crimson Tears +5, Flask of Crimson Tears +6, Flask of Crimson Tears +6, Flask of Crimson Tears +11, Flask of Crimson Tears, Flask of Crimson Tears
 10 Neutralizing Boluses
 20 Old Fang
 30 Miranda's Prayer
@@ -3144,7 +3144,7 @@
 460000400 [Troll Knight] Troll Knight's Sword
 460000500 [Troll Knight] None
 460021400 [Troll Knight] Troll Knight's Sword
-462000000 [Astel Stars of Darkness] None
+462000000 [Astel, Stars of Darkness] None
 463000000 [Runebear] Hefty Beast Bone
 463000001 [Runebear] Beast Blood
 463000002 [Runebear] Lump of Flesh
@@ -3244,7 +3244,7 @@
 477000000 [Gargoyle] Gargoyle's Twinblade
 477000100 [Gargoyle] Gargoyle's Greatsword
 477000200 [Gargoyle] None
-480000000 [Mohg The Omen] None
+480000000 [Mohg, The Omen] None
 481000000 [Erdtree Avatar] Rotten Staff
 482000000 [Omenkiller] None
 482000400 [Omenkiller] Omensmirk Mask
@@ -3256,61 +3256,61 @@
 491000000 [Magma Wyrm] None
 496000000 [Giant Skeleton Torso] None
 496000100 [Giant Skeleton Torso] None
-600000000 [Hawk] Flight Pinion Flight Pinion Flight Pinion
+600000000 [Hawk] Flight Pinion, Flight Pinion, Flight Pinion
 600000001 [Hawk] Four-Toed Fowl Foot
 601000000 [Deer] Sliver of Meat
 601000001 [Deer] Beast Liver
-601000002 [Deer] Thin Beast Bones Thin Beast Bones Thin Beast Bones
+601000002 [Deer] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
 601000003 [Deer] Budding Horn
 601065000 [Deer] None
 603000000 [Bear] Lump of Flesh
-603000001 [Bear] Hefty Beast Bone Hefty Beast Bone Hefty Beast Bone
+603000001 [Bear] Hefty Beast Bone, Hefty Beast Bone, Hefty Beast Bone
 603000002 [Bear] Beast Blood
 604000000 [Owl] Slumbering Egg
 605000000 [Boar] Lump of Flesh
-605000001 [Boar] Hefty Beast Bone Hefty Beast Bone Hefty Beast Bone
+605000001 [Boar] Hefty Beast Bone, Hefty Beast Bone, Hefty Beast Bone
 605000002 [Boar] Old Fang
 605000003 [Boar] Gold-Tinged Excrement
 605000100 [Boar] Lump of Flesh
-605000101 [Boar] Hefty Beast Bone Hefty Beast Bone Hefty Beast Bone
+605000101 [Boar] Hefty Beast Bone, Hefty Beast Bone, Hefty Beast Bone
 605000102 [Boar] Beast Blood
 605000103 [Boar] Old Fang
 605000104 [Boar] Gold-Tinged Excrement
 606000000 [Goat] Sliver of Meat
 606000001 [Goat] Beast Liver
-606000002 [Goat] Thin Beast Bones Thin Beast Bones Thin Beast Bones
+606000002 [Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
 606000003 [Goat] Budding Horn
 606000010 [Goat] Sliver of Meat
 606000011 [Goat] Beast Liver
-606000012 [Goat] Thin Beast Bones Thin Beast Bones Thin Beast Bones
+606000012 [Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
 606000013 [Goat] Budding Horn
 606000014 [Goat] Fulgurbloom
 606000100 [Goat] Sliver of Meat
 606000101 [Goat] Beast Liver
-606000102 [Goat] Thin Beast Bones Thin Beast Bones Thin Beast Bones
+606000102 [Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
 606000103 [Goat] Budding Horn
 606000110 [Goat] Sliver of Meat
 606000111 [Goat] Beast Liver
-606000112 [Goat] Thin Beast Bones Thin Beast Bones Thin Beast Bones
+606000112 [Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
 606000113 [Goat] Budding Horn
 606000114 [Goat] Fulgurbloom
 606000200 [Goat] Sliver of Meat
 606000201 [Goat] Beast Liver
 606000202 [Goat]  Budding Horn
-606000203 [Goat] Thin Beast Bones Thin Beast Bones Thin Beast Bones
+606000203 [Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
 606000210 [Goat] Sliver of Meat
 606000211 [Goat] Beast Liver
 606000212 [Goat] Budding Horn
 606000213 [Goat] Fulgurbloom
-606000214 [Goat] Thin Beast Bones Thin Beast Bones Thin Beast Bones
-607000000 [Gull] Flight Pinion Flight Pinion Flight Pinion
+606000214 [Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+607000000 [Gull] Flight Pinion, Flight Pinion, Flight Pinion
 607000001 [Gull] Four-Toed Fowl Foot
 607200000 [Gull] None
 608000000 [Dragonfly] Great Dragonfly Head
 608000100 [Dragonfly] Great Dragonfly Head
 609000000 [Turtle] Turtle Neck Meat
 609000001 [Turtle] Strip of White Flesh
-610000000 [Rabbitgaroo] Thin Beast Bones Thin Beast Bones Thin Beast Bones
+610000000 [Rabbitgaroo] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
 610000001 [Rabbitgaroo] Sliver of Meat
 610000002 [Rabbitgaroo] Beast Liver
 700000000 [Fallen Hawk Soldier] Iron Spear

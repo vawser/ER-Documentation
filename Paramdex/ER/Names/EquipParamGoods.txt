@@ -339,18 +339,18 @@
 5100 [Sorcery] Oracle Bubbles
 5110 [Sorcery] Great Oracular Bubble
 6000 [Incantation] Catch Flame
-6001 [Incantation] O Flame!
+6001 [Incantation] O, Flame!
 6010 [Incantation] Flame Sling
-6020 [Incantation] Flame Fall Upon Them
-6030 [Incantation] Whirl O Flame!
-6040 [Incantation] Flame Cleanse Me
-6050 [Incantation] Flame Grant Me Strength
-6060 [Incantation] Flame Protect Me
+6020 [Incantation] Flame, Fall Upon Them
+6030 [Incantation] Whirl, O Flame!
+6040 [Incantation] Flame, Cleanse Me
+6050 [Incantation] Flame, Grant Me Strength
+6060 [Incantation] Flame, Protect Me
 6100 [Incantation] Giantsflame Take Thee
 6110 [Incantation] Flame of the Fell God
-6120 [Incantation] Burn O Flame!
+6120 [Incantation] Burn, O Flame!
 6210 [Incantation] Black Flame
-6220 [Incantation] Surge O Flame!
+6220 [Incantation] Surge, O Flame!
 6230 [Incantation] Scouring Black Flame
 6240 [Incantation] Black Flame Ritual
 6250 [Incantation] Black Flame Blade
@@ -463,7 +463,7 @@
 8143 Seluvis's Introduction
 8144 Sellen's Primal Glintstone
 8146 Miniature Ranni
-8147 Asimi Silver Tear
+8147 Asimi, Silver Tear
 8148 Godrick's Great Rune
 8149 Radahn's Great Rune
 8150 Morgott's Great Rune
@@ -503,7 +503,7 @@
 8192 Asimi's Husk
 8193 Seedbed Curse
 8194 The Stormhawk King
-8195 Asimi Silver Chrysalid
+8195 Asimi, Silver Chrysalid
 8196 Unalloyed Gold Needle
 8197 Sewer-Gaol Key
 8198 Meeting Place Map
@@ -524,19 +524,19 @@
 8227 Weathered Map
 8500 Crafting Kit
 8590 Whetstone Knife
-8600 Map: Limgrave West
+8600 Map: Limgrave, West
 8601 Map: Weeping Peninsula
-8602 Map: Limgrave East
-8603 Map: Liurnia East
-8604 Map: Liurnia North
-8605 Map: Liurnia West
+8602 Map: Limgrave, East
+8603 Map: Liurnia, East
+8604 Map: Liurnia, North
+8605 Map: Liurnia, West
 8606 Map: Altus Plateau
-8607 Map: Leyndell Royal Capital
+8607 Map: Leyndell, Royal Capital
 8608 Map: Mt. Gelmir
 8609 Map: Caelid
 8610 Map: Dragonbarrow
-8611 Map: Mountaintops of the Giants West
-8612 Map: Mountaintops of the Giants East
+8611 Map: Mountaintops of the Giants, West
+8612 Map: Mountaintops of the Giants, East
 8613 Map: Ainsel River
 8614 Map: Lake of Rot
 8615 Map: Siofra River
@@ -860,7 +860,7 @@
 10918 Ghost Glovewort [9]
 10919 Great Ghost Glovewort
 11000 Crimsonspill Crystal Tear
-11001 Viridianspill Crystal Tear
+11001 Greenspill Crystal Tear
 11002 Crimson Crystal Tear
 11003 Crimson Crystal Tear
 11004 Cerulean Crystal Tear
@@ -869,7 +869,7 @@
 11007 Crimson Bubbletear
 11008 Opaline Bubbletear
 11009 Crimsonburst Crystal Tear
-11010 Viridianburst Crystal Tear
+11010 Greenburst Crystal Tear
 11011 Opaline Hardtear
 11012 Winged Crystal Tear
 11013 Thorny Cracked Tear
