@@ -5,13 +5,13 @@
 90 Consumable
 91 Reusable
 100 S
-101 A+
-102 A
-103 A-
-104 B+
-105 B
-106 B-
-110 D+
+101 A
+102 B
+103 C
+104 D
+105 E
+106 -
+110 -
 120 Dagger
 121 Straight Sword
 122 Greatsword
@@ -60,11 +60,11 @@
 402 Keen
 403 Quality
 404 Magic
-405 Magma
-406 Fell
-407 Bolt
+405 Fire
+406 Flame Art
+407 Lightning
 408 Sacred
-409 Night
-410 Fire
-411 Lightning
-412 Blessed
+409 Poison
+410 Blood
+411 Cold
+412 Occult

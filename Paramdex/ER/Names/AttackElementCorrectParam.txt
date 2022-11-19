@@ -1,1 +1,1 @@
-10100 Fire Arcane Phys Arcane
+10100 Arcane - Split Scaling

@@ -46,8 +46,8 @@
 4620 [Sorcery] Night Comet
 4630 [Sorcery] Thops's Barrier
 4640 [Sorcery] Carian Retaliation
-4641 [Sorcery] Carian Retaliation Lvl 2
-4642 [Sorcery] Carian Retaliation Lvl 3
+4641 [Sorcery] Carian Retaliation - 1
+4642 [Sorcery] Carian Retaliation - 2
 4650 [Sorcery] Eternal Darkness
 4660 [Sorcery] Unseen Blade
 4670 [Sorcery] Unseen Form
@@ -67,7 +67,7 @@
 5010 [Sorcery] Explosive Ghostflame
 5020 [Sorcery] Fia's Mist
 5030 [Sorcery] Tibia's Summons
-5040 [Incantation] Death Lightning
+5040 [Sorcery] Death Lightning
 5100 [Sorcery] Oracle Bubbles
 5110 [Sorcery] Great Oracular Bubble
 6000 [Incantation] Catch Flame
@@ -109,7 +109,7 @@
 6470 [Incantation] Lightning Fortification
 6480 [Incantation] Divine Fortification
 6490 [Incantation] Lord's Divine Fortification
-6500 [Sorcery] Night Maiden's Mist
+6500 [Incantation] Night Maiden's Mist
 6510 [Incantation] Assassin's Approach
 6520 [Incantation] Shadow Bait
 6530 [Incantation] Darkness
@@ -128,7 +128,7 @@
 6810 [Incantation] Stone of Gurranq
 6820 [Incantation] Beast Claw
 6830 [Incantation] Gurranq's Beast Claw
-6840 [Incantation] Bestial Vitality Heal
+6840 [Incantation] Bestial Vitality
 6850 [Incantation] Bestial Constitution
 6900 [Incantation] Lightning Spear
 6910 [Incantation] Ancient Dragons' Lightning Strike

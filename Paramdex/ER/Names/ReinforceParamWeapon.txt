@@ -128,32 +128,32 @@
 423 Fire +23
 424 Fire +24
 425 Fire +25
-500 Fell
-501 Fell
-502 Fell
-503 Fell
-504 Fell
-505 Fell
-506 Fell
-507 Fell
-508 Fell
-509 Fell
-510 Fell
-511 Fell
-512 Fell
-513 Fell
-514 Fell
-515 Fell
-516 Fell
-517 Fell
-518 Fell
-519 Fell
-520 Fell
-521 Fell
-522 Fell
-523 Fell
-524 Fell
-525 Fell
+500 Flame Art +0
+501 Flame Art +1
+502 Flame Art +2
+503 Flame Art +3
+504 Flame Art +4
+505 Flame Art +5
+506 Flame Art +6
+507 Flame Art +7
+508 Flame Art +8
+509 Flame Art +9
+510 Flame Art +10
+511 Flame Art +11
+512 Flame Art +12
+513 Flame Art +13
+514 Flame Art +14
+515 Flame Art +15
+516 Flame Art +16
+517 Flame Art +17
+518 Flame Art +18
+519 Flame Art +19
+520 Flame Art +20
+521 Flame Art +21
+522 Flame Art +22
+523 Flame Art +23
+524 Flame Art +24
+525 Flame Art +25
 600 Lightning +0
 601 Lightning +1
 602 Lightning +2

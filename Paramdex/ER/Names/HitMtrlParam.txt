@@ -10,7 +10,7 @@
 12 Scarlet Mushroom
 14 Bone
 21 Water
-23 Poison Swamp
+23 Shallow Poison Swamp
 24 Poison Swamp
 44 Rain Dirt
 46 Scarlet Swamp

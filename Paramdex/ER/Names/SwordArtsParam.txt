@@ -5,8 +5,8 @@
 103 Spinning Slash
 104 %null%
 105 Charge Forth
-106 Stomp (Upward Cut)
-107 Stomp (Sweep)
+106 Stamp (Upward Cut)
+107 Stamp (Sweep)
 108 Blood Tax
 109 Repeating Thrust
 110 Wild Strikes
@@ -165,7 +165,7 @@
 1177 Corpse Piler
 1178 Transient Moonlight
 1179 Bloodblade Dance
-1180 Dragon Smasher
+1180 %null%
 1181 %null%
 1182 Knowledge Above All
 1183 Devourer of Worlds
@@ -184,4 +184,4 @@
 1196 Golden Retaliation
 1197 Contagious Fury
 1198 Ordovis's Vortex
-1199 Spinning Staff
+1199 Spinning Weapon
