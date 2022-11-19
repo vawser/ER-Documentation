@@ -1,82 +1,11 @@
-100000010 Mimic Tear
-100000020 Nepheli Loux Puppet
-100000030 Dung Eater Puppet
-100000040 Finger Maiden Therolina Puppet
-100000050 Dolores the Sleeping Arrow
-100000060 Jarwight Puppet
-121000000 Black Knife Tiche
-130101000 Banished Knight Oleg
-130102000 Banished Knight Engvall
-130800000 Fanged Imps
-131700000 Latenna the Albinauric
-132010000 Nomad
-133100000 Nightmaiden
-133101000 Swordstress
-133200000 Mimic Tear - Blob
-133500000 Crystalian
-133600500 Ancestral Follower
-134501000 Winged Misbegotten
-134701000 Albinauric Ashes
-135000000 Skeletal Militiaman
-135004000 Skeletal Bandit
-136100000 Oracle Envoy
-136610000 Putrid Corpse
-137000000 Depraved Perfumer
-137010000 Perfumer Tricia
-137020100 Glintstone Sorcerer / Twinsage Sorcerer
-137030000 Page Ashes
-137040000 Battlemage Hugues
-137502000 Clayman
-138001000 Cleanrot Knight Finlay
-138100000 Kindred of Rot
-138500000 Marionette Soldier
-138601000 Avionette Soldier
-139000000 Fire Monk
-139011000 Blackflame Monk
-139500000 Man-Serpent
-139701000 Azula Beastman
-140500000 Kaiden Sellsword
-140700000 Lone Wolf
-140800000 Giant Rat
-141000000 Demi-Human 1
-141001000 Demi-Human 2
-141002000 Demi-Human 3
-141010000 Demi-Human 4
-141100000 Demi-Human 5
-141660000 Rotten Stray
-141800000 Spirit Jellyfish
-142100000 Warhawk / Stormhawk
-142900000 Bloodhound Knight Floh
-143000000 Wandering Noble 1
-143001000 Wandering Noble 2
-143002000 Noble Sorcerer
-143005000 Wandering Noble 3
-143110000 Godrick Soldier 1
-143112000 Godrick Soldier 2
-143122000 Raya Lucaria Soldier
-143133000 Leyndell Soldier
-143140100 Radahn Soldier 1
-143142000 Radahn Soldier 2
-143150000 Mausoleum Soldier 1
-143151000 Mausoleum Soldier 2
-143152000 Mausoleum Soldier 3
-143210000 Vulgar Militia
-143410000 Mad Pumpkin Head
-143531000 Ancient Dragon Knight Kristoff
-143542000 Redmane Knight Ogha
-143551000 Lhutel the Headless
-143720000 Raya Lucaria Soldier
-143760000 Haligtree Soldier
-144400000 Land Squirt
-144810000 Miranda Sprout
-144910000 Soldjars of Fortune
-148200000 Omenkiller
-170001000 Greatshield Soldier
-170002000 Archer
 20100000 Blaidd the Half-Wolf
 20108000 Blaidd the Half-Wolf
 20108500 Baleful Shadow
 20109000 Blaidd the Half-Wolf
+20300000 Rennala Queen of the Full Moon
+20300100 Rennala Queen of the Full Moon
+20310000 Rennala Queen of the Full Moon
+20310100 Rennala Queen of the Full Moon
 20400000 Rennala Student
 20410000 Rennala Student - Bug Form
 20500000 Ranni the Witch
@@ -84,7 +13,7 @@
 21000000 Black Knife Assassin
 21000052 Black Knife Assassin
 21100000 Beast Clergyman
-21101000 Maliketh, the Black Blade
+21101000 Maliketh the Black Blade
 21102000 Beast Clergyman
 21300000 Morgott
 21300500 Morgott
@@ -175,7 +104,7 @@
 31800020 Dog
 31810000 Red Wolf of Radagon
 31810052 Red Wolf of Radagon
-32000000 Nomad Trader - Merchant Kal�
+32000000 Nomad Trader - Merchant Kal
 32009000 Nomad Trader
 32010000 Nomad Trader
 32100000 Nomad Mule
@@ -310,8 +239,8 @@
 37030000 Noble's Page
 37040000 Battlemage
 37040020 Battlemage
-37100000 Crystallized Battlemage
-37200000 Orbhead Sorcerer
+37100000 Master Azur
+37200000 Master Lusat
 37300000 Orb of Many Faces
 37500000 Clayman
 37501000 Clayman
@@ -417,11 +346,11 @@
 42100200 Warhawk
 42200000 Giant Land Octopus
 42300000 Small Land Octopus
-42400000 Giant Enchanted Hand
-42400020 Giant Enchanted Hand
-42400100 Giant Enchanted Hand
-42410000 Giant Enchanted Hand
-42500000 Small Enchanted Hand
+42400000 Giant Fingercreeper
+42400020 Giant Fingercreeper
+42400100 Giant Fingercreeper
+42410000 Giant Fingercreeper
+42500000 Small Fingercreeper
 42600000 Burial Watchdog
 42601000 Burial Watchdog
 42601100 Burial Watchdog
@@ -661,6 +590,12 @@
 46021000 Troll Knight
 46030000 Troll Knight (Club)
 46040000 Troll Knight (Confessor)
+46200000 Astel Stars of Darkness
+46201000 Astel Stars of Darkness
+46209000 Astel Stars of Darkness
+46209100 Astel Stars of Darkness
+46209200 Astel Stars of Darkness
+46209300 Astel Stars of Darkness
 46300000 Runebear
 46300010 Runebear
 46300020 Runebear
@@ -686,7 +621,9 @@
 46900000 Grafted Scion
 46900007 Grafted Scion
 46900032 Grafted Scion
+47100000 God-Devouring Serpent / Rykard Lord of Blasphemy
 47110000 Writhing Mass
+47200000 Godfrey First Elden Lord
 47210000 Hoarah Loux
 47300000 Starscourge Radahn
 47500000 Godrick the Grafted
@@ -697,6 +634,8 @@
 47701000 Gargoyle
 47701200 Gargoyle
 47702000 Gargoyle
+48000000 Mohg The Omen
+48001000 Mohg The Omen
 48100000 Erdtree Avatar
 48100100 Erdtree Avatar
 48110000 Erdtree Avatar
@@ -708,82 +647,6 @@
 49600000 Giant Skeleton Torso
 49600050 Giant Skeleton Torso
 49800000 Death Rite Bird
-523010000 White Mask Varr�
-523040000 Festering Fingerprint Vyke
-523070000 Preceptor Seluvis
-523090000 Patches
-523090010 Patches
-523100000 Irina of Morne
-523110000 Castellan Edgar
-523120000 Castellan Jerren
-523120040 Castellan Jerren
-523130000 Rya the Scout
-523140000 Knight Diallos
-523160000 Sorceress Sellen
-523200000 Heartbroken Maiden
-523230000 Dung Eater
-523250000 Sorcerer Rogier
-523260000 Knight Bernahl
-523310000 Blackguard
-523330000 Sorcerer Thops
-523350000 Reeling Rico
-523360000 Vyke's Finger Maiden
-523380000 Finger Maiden
-523390000 Ensha of the Royal Remains
-523400000 Bloody Finger Ravenmount Assassin
-523420000 Sanguine Noble
-523430000 Bloody Finger Nerijus
-523440000 Great Horned Tragoth
-523450000 Old Knight Istvan
-523460000 Rileigh the Idle
-523480000 Millicent
-523480040 Millicent
-523490000 Sage Gowry
-523510000 Scribe Corhyn
-523520000 Preceptor Miriam
-523550000 Okina
-523600000 Vargram the Raging Wolf
-523610000 Fia's Champion
-523630000 Finger Maiden Therolina
-523640000 Dolores the Sleeping Arrow
-523650000 Jarwight
-523680000 Silver Tear
-523690000 Recusant Henricus
-523700000 Fia's Champion
-523710000 Fia's Champion
-523730000 Knight of the Great Jar
-523740000 Knight of the Great Jar
-523750000 Knight of the Great Jar
-523760000 Necromancer Garris
-523770000 Nameless White Mask
-523800000 Errant Sorcerer Wilhelm
-523820000 Chief Guardian Arghanthy
-523830000 Flame Guardian
-523840000 Inquisitor Ghiza
-523850000 Mad Tongue Alberich
-533040100 Roundtable Knight Vyke
-533090000 Patches
-533110000 Castellan Edgar
-533120000 Witch-Hunter Jerren
-533160000 Sorceress Sellen
-533250000 Sorcerer Rogier
-533260000 Knight Bernahl
-533290000 Recusant Bernahl
-533310000 Blackguard
-533350000 Reeling Rico
-533440000 Great Horned Tragoth
-533450000 Old Knight Istvan
-533480000 Millicent
-533481000 Millicent
-533550000 Okina
-533630000 Finger Maiden Therolina
-543110000 Edgar the Revenger
-543260000 Knight Bernahl
-543390000 Ensha of the Royal Remains
-543430000 Bloody Finger Nerijus
-543480000 Millicent
-543690000 Sage Gowry
-543850000 Mad Tongue Alberich
 60010000 Hawk
 60010050 Hawk
 60100000 Deer
@@ -812,9 +675,187 @@
 70002000 Fallen Hawk Soldier
 70003000 Fallen Hawk Soldier
 70003100 Fallen Hawk Soldier
-71000000 White Mask Assailant
-71000050 White Mask Assailant
+71000000 Ancient Hero
+71000050 Ancient Hero
 80000000 Torrent
 81000000 Ballista
 81100000 Dragon-faced Flamethrower
 81200000 Merciless Chariot
+100000010 Mimic Tear
+100000020 Nepheli Loux Puppet
+100000030 Dung Eater Puppet
+100000040 Finger Maiden Therolina Puppet
+100000050 Dolores the Sleeping Arrow
+100000060 Jarwight Puppet
+121000000 Black Knife Tiche
+130101000 Banished Knight Oleg
+130102000 Banished Knight Engvall
+130800000 Fanged Imps
+131700000 Latenna the Albinauric
+132010000 Nomad
+133100000 Nightmaiden
+133101000 Swordstress
+133200000 Mimic Tear - Blob
+133500000 Crystalian
+133600500 Ancestral Follower
+134501000 Winged Misbegotten
+134701000 Albinauric Ashes
+135000000 Skeletal Militiaman
+135004000 Skeletal Bandit
+136100000 Oracle Envoy
+136610000 Putrid Corpse
+137000000 Depraved Perfumer
+137010000 Perfumer Tricia
+137020100 Glintstone Sorcerer / Twinsage Sorcerer
+137030000 Page Ashes
+137040000 Battlemage Hugues
+137502000 Clayman
+138001000 Cleanrot Knight Finlay
+138100000 Kindred of Rot
+138500000 Marionette Soldier
+138601000 Avionette Soldier
+139000000 Fire Monk
+139011000 Blackflame Monk
+139500000 Man-Serpent
+139701000 Azula Beastman
+140500000 Kaiden Sellsword
+140700000 Lone Wolf
+140800000 Giant Rat
+141000000 Demi-Human 1
+141001000 Demi-Human 2
+141002000 Demi-Human 3
+141010000 Demi-Human 4
+141100000 Demi-Human 5
+141660000 Rotten Stray
+141800000 Spirit Jellyfish
+142100000 Warhawk / Stormhawk
+142900000 Bloodhound Knight Floh
+143000000 Wandering Noble 1
+143001000 Wandering Noble 2
+143002000 Noble Sorcerer
+143005000 Wandering Noble 3
+143110000 Godrick Soldier 1
+143112000 Godrick Soldier 2
+143122000 Raya Lucaria Soldier
+143133000 Leyndell Soldier
+143140100 Radahn Soldier 1
+143142000 Radahn Soldier 2
+143150000 Mausoleum Soldier 1
+143151000 Mausoleum Soldier 2
+143152000 Mausoleum Soldier 3
+143210000 Vulgar Militia
+143410000 Mad Pumpkin Head
+143531000 Ancient Dragon Knight Kristoff
+143542000 Redmane Knight Ogha
+143551000 Lhutel the Headless
+143720000 Raya Lucaria Soldier
+143760000 Haligtree Soldier
+144400000 Land Squirt
+144810000 Miranda Sprout
+144910000 Soldjars of Fortune
+148200000 Omenkiller
+170001000 Greatshield Soldier
+170002000 Archer
+523000000 Tanith Volcano Manor Proprietress
+523010000 White Mask Varr
+523040000 Festering Fingerprint Vyke
+523070000 Preceptor Seluvis
+523090000 Patches
+523090010 Patches
+523100000 Irina of Morne
+523110000 Castellan Edgar
+523120000 Castellan Jerren
+523120040 Castellan Jerren
+523130000 Rya the Scout
+523140000 Knight Diallos
+523160000 Sorceress Sellen
+523180000 Yura Hunter of Bloody Fingers
+523190000 D Hunter of the Dead
+523200000 Heartbroken Maiden
+523210000 Kenneth Haight Limgrave Heir
+523220000 Fia Deathbed Companion
+523230000 Dung Eater
+523240000 Sir Gideon Ofnir the All-Knowing
+523250000 Sorcerer Rogier
+523260000 Knight Bernahl
+523270000 Eleonora Violet Bloody Finger
+523310000 Blackguard
+523330000 Sorcerer Thops
+523340000 Nepheli Loux Warrior
+523350000 Reeling Rico
+523360000 Vyke's Finger Maiden
+523380000 Finger Maiden
+523390000 Ensha of the Royal Remains
+523400000 Bloody Finger Ravenmount Assassin
+523420000 Sanguine Noble
+523430000 Bloody Finger Nerijus
+523440000 Great Horned Tragoth
+523450000 Old Knight Istvan
+523460000 Rileigh the Idle
+523470000 Juno Hoslow Knight of Blood
+523480000 Millicent
+523480040 Millicent
+523490000 Sage Gowry
+523510000 Scribe Corhyn
+523520000 Preceptor Miriam
+523530000 Anastasia Tarnished-Eater
+523550000 Okina
+523560000 Adan Thief of Fire
+523590000 Moongrum Carian Knight
+523600000 Vargram the Raging Wolf
+523610000 Fia's Champion
+523630000 Finger Maiden Therolina
+523640000 Dolores the Sleeping Arrow
+523650000 Jarwight
+523670000 Inaba Disciple of Okina
+523680000 Silver Tear
+523690000 Recusant Henricus
+523700000 Fia's Champion
+523710000 Fia's Champion
+523720000 Maleigh Marais Shaded Castle Castellan
+523730000 Knight of the Great Jar
+523740000 Knight of the Great Jar
+523750000 Knight of the Great Jar
+523760000 Necromancer Garris
+523770000 Nameless White Mask
+523800000 Errant Sorcerer Wilhelm
+523820000 Chief Guardian Arghanthy
+523830000 Flame Guardian
+523840000 Inquisitor Ghiza
+523850000 Mad Tongue Alberich
+523870000 Mary Eldest Sister
+523880000 Maureen Second Sister
+523890000 Amy Third Sister
+523900000 Polyanna Youngest Sister
+533040100 Roundtable Knight Vyke
+533090000 Patches
+533110000 Castellan Edgar
+533120000 Witch-Hunter Jerren
+533160000 Sorceress Sellen
+533180000 Yura Hunter of Bloody Fingers
+533181000 Yura Hunter of Bloody Fingers
+533190000 D Hunter of the Dead
+533250000 Sorcerer Rogier
+533260000 Knight Bernahl
+533290000 Recusant Bernahl
+533310000 Blackguard
+533340000 Nepheli Loux Warrior
+533350000 Reeling Rico
+533440000 Great Horned Tragoth
+533450000 Old Knight Istvan
+533480000 Millicent
+533481000 Millicent
+533550000 Okina
+533630000 Finger Maiden Therolina
+533870000 Mary Eldest Sister
+533880000 Maureen Second Sister
+533890000 Amy Third Sister
+533900000 Polyanna Youngest Sister
+543110000 Edgar the Revenger
+543260000 Knight Bernahl
+543270000 Eleonora Violet Bloody Finger
+543390000 Ensha of the Royal Remains
+543430000 Bloody Finger Nerijus
+543480000 Millicent
+543690000 Sage Gowry
+543850000 Mad Tongue Alberich

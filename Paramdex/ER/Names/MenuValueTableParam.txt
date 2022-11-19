@@ -1,3 +1,9 @@
+50 Light Load
+51 Med. Load
+52 Heavy Load
+53 Overloaded
+90 Consumable
+91 Reusable
 100 S
 101 A+
 102 A
@@ -62,9 +68,3 @@
 410 Fire
 411 Lightning
 412 Blessed
-50 Light Load
-51 Med. Load
-52 Heavy Load
-53 Overloaded
-90 Consumable
-91 Reusable

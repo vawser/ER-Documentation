@@ -1,3 +1,23 @@
+2400 Gift - None
+2401 Gift - Crimson Amber Medallion
+2402 Gift - Lands Between Rune
+2403 Gift - Golden Seed
+2404 Gift - Fanged Imp Ashes
+2405 Gift - Cracked Pot
+2406 Gift - Stonesword Key
+2407 Gift - Bewitching Branch
+2408 Gift - Boiled Prawn
+2409 Gift - Shabriri's Woe
+3000 Class - Vagabond
+3001 Class - Warrior
+3002 Class - Hero
+3003 Class - Bandit
+3004 Class - Astrologer
+3005 Class - Prophet
+3006 Class - Confessor
+3007 Class - Samurai
+3008 Class - Prisoner
+3009 Class - Wretch
 20000 Human
 23000 Tanith
 23010 White Mask Varre
@@ -21,22 +41,22 @@
 23161 Sorceress Sellen
 23162 Sorceress Sellen
 23163 Sorceress Sellen
-23180 Yura, Hunter of Bloody Fingers
-23181 Yura, Hunter of Bloody Fingers
+23180 Yura Hunter of Bloody Fingers
+23181 Yura Hunter of Bloody Fingers
 23182 Shabriri
-23183 Yura, Hunter of Bloody Fingers
-23184 Yura, Hunter of Bloody Fingers
-23190 D, Hunter of the Dead
-23191 D, Hunter of the Dead
-23192 D, Hunter of the Dead
-23193 D, Hunter of the Dead
-23194 D, Hunter of the Dead
-23195 D, Hunter of the Dead
+23183 Yura Hunter of Bloody Fingers
+23184 Yura Hunter of Bloody Fingers
+23190 D Hunter of the Dead
+23191 D Hunter of the Dead
+23192 D Hunter of the Dead
+23193 D Hunter of the Dead
+23194 D Hunter of the Dead
+23195 D Hunter of the Dead
 23200 Roderika
-23201 Roderika, Spirit Tuner
+23201 Roderika Spirit Tuner
 23210 Kenneth Haight
-23221 Fia, Deathbed Companion
-23222 Fia, Deathbed Companion
+23221 Fia Deathbed Companion
+23222 Fia Deathbed Companion
 23230 Dung Eater
 23231 Dung Eater
 23232 Dung Eater Puppet
@@ -56,8 +76,8 @@
 23260 Knight Bernahl
 23261 Recusant Bernahl
 23262 Recusant Bernahl
-23270 Eleonora, Violet Bloody Finger
-23271 Eleonora, Violet Bloody Finger
+23270 Eleonora Violet Bloody Finger
+23271 Eleonora Violet Bloody Finger
 23290 Lionel the Lionhearted
 23291 Human
 23310 Blackguard
@@ -93,13 +113,13 @@
 23510 Brother Corhyn
 23520 Preceptor Miriam
 23521 Preceptor Miriam
-23530 Anastasia, Tarnished-Eater
-23531 Anastasia, Tarnished-Eater
-23532 Anastasia, Tarnished-Eater
+23530 Anastasia Tarnished-Eater
+23531 Anastasia Tarnished-Eater
+23532 Anastasia Tarnished-Eater
 23550 Bloody Finger Okina
 23551 Okina
-23560 Adan, Thief of Fire
-23590 Moongrum, Carian Knight
+23560 Adan Thief of Fire
+23590 Moongrum Carian Knight
 23600 Vargram the Raging Wolf
 23610 Fia's Champion 1
 23611 Fia's Champion
@@ -115,7 +135,7 @@
 23632 Finger Maiden Therolina
 23640 Dolores the Sleeping Arrow
 23650 Jarwight Puppet
-23670 Inaba, Disciple of Okina
+23670 Inaba Disciple of Okina
 23680 Silver Tear
 23681 Silver Tear
 23682 Silver Tear
@@ -174,37 +194,17 @@
 23830 Flame Guardian
 23840 Inquisitor Ghiza
 23850 Mad Tongue Alberich
-23860 Esgar, Priest of Blood
-23870 Mary, Eldest Sister
-23880 Maureen, Second Sister
-23890 Amy, Third Sister
-23900 Polyanna, Youngest Sister
-23901 Polyanna, Youngest Sister
-2400 Gift - None
-2401 Gift - Crimson Amber Medallion
+23860 Esgar Priest of Blood
+23870 Mary Eldest Sister
+23880 Maureen Second Sister
+23890 Amy Third Sister
+23900 Polyanna Youngest Sister
+23901 Polyanna Youngest Sister
 24010 Stray Mimic Tear
-2402 Gift - Lands Between Rune
 24020 Mimic Tear
-2403 Gift - Golden Seed
-2404 Gift - Fanged Imp Ashes
-2405 Gift - Cracked Pot
-2406 Gift - Stonesword Key
-2407 Gift - Bewitching Branch
-2408 Gift - Boiled Prawn
-2409 Gift - Shabriri's Woe
 26050 Mimic Tear
 27000 Stormhill Colosseum Silent Spirit
 27001 Caria Manor Silent Spirit
 27002 Dragonbarrow Silent Spirit
 27900 Human
 28500 Human
-3000 Class - Vagabond
-3001 Class - Warrior
-3002 Class - Hero
-3003 Class - Bandit
-3004 Class - Astrologer
-3005 Class - Prophet
-3006 Class - Confessor
-3007 Class - Samurai
-3008 Class - Prisoner
-3009 Class - Wretch

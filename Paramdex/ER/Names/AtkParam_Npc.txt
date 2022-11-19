@@ -1185,7 +1185,7 @@
 3181230 [Red Wolf of Radagon] Sword
 3181240 [Red Wolf of Radagon] Sword
 3181250 [Red Wolf of Radagon] Sword High Jump
-3181501 [Red Wolf of Radagon] Bullet - Glitnblade
+3181501 [Red Wolf of Radagon] Bullet - Glintblade
 3181510 [Red Wolf of Radagon] Bullet - Comet
 3181520 [Red Wolf of Radagon] Bullet - Howl
 3181900 [Red Wolf of Radagon]
@@ -1484,12 +1484,12 @@
 3320200 [Silver Tear] Guard
 3320300 [Silver Tear]
 3320301 [Silver Tear]
-3330100 [Silver Tear Orb]
+3330100 [Silver Tear Orb] Direct Hit
 3330101 [Silver Tear Orb]
-3330102 [Silver Tear Orb]
+3330102 [Silver Tear Orb] Glancing Blow
 3330110 [Silver Tear Orb]
-3330200 [Silver Tear Orb]
-3330201 [Silver Tear Orb]
+3330200 [Silver Tear Orb] Wall Hit
+3330201 [Silver Tear Orb] Wall Hit
 3330300 [Silver Tear Orb]
 3350000 [Crystalian] Ring
 3350001 [Crystalian] Fist

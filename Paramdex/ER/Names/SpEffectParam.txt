@@ -1,5 +1,434 @@
+4 Tarnished's Furled Finger - Create Summon Sign
+7 Finger Severer - Return to World
 10 Duelist's Furled Finger - Create Invasion Sign
+11 Bloody Finger - Attempt Invasion
+16 Festering/Recusant Finger - Attempt Invasion
+31 [Behavior] Counter Frames
+70 Blight Effect
+81 Spectral Steed Whistle
 100 Grace - Restore HP
+101 Grace - Remove All Status
+102 Grace - Remove Hemorrhage
+103 Grace - Remove Poison
+104 Grace - Remove Scarlet Rot
+105 Grace - Remove Frostbite
+106 Grace -
+107 Grace - Remove Madness
+108 Grace - Remove Sleep
+109 Grace - Remove Blight
+125 Torrent
+126 Torrent
+415 Torch Effect
+416 Sentry's Torch - Effect
+420 Oil Pot
+425 Slug - Bullet - Slow
+460 Beast-Repellent Torch Effect
+467 Swarm Pot [Cycle]
+470 Gravity - Pull towards Caster
+473 Swarm Pot
+474 Revenant Heal Damage - Instant
+475 Revenant Heal Damage - Over Time
+481 Shadow Bait
+482 Alluring Pot
+483 Alluring Pot
+484 Beastlure Pot Effect
+490 Rune Arc
+491 Rune Arc
+499 Rune Arc
+500 Hemorrhage [Cycle]
+501 Hemorrhage - Presence
+505 Poison - Presence
+506 Madness [Cycle]
+530 Furlcalling Finger Remedy - Reveal Phantom Signs
+531 White Cipher Ring - Request Aid
+532 Blue Cipher Ring - Answer Aid Request
+533 Taunter's Tongue - Encourage Invasion
+534 Small Golden Effigy - Send Summon Sign to Summoning Pool
+535 Small Red Effigy - Send Invasion Sign to Summoning Pool
+536 Phantom Bloody/Recusant Finger - Attempt Invasion
+860 Ash of War - Corpse Wax Cutter (DoT Destined)
+870 Reduvia - Bullet
+1525 Erdtree Greatshield - Bullet
+1545 Winged Greathorn - Bullet
+1576 Ash of War - Royal Greatsword
+1625 Mohgwyn's Sacred Spear - Bullet
+1768 Commander's Standard - Bullet
+1769 Commander's Standard - Bullet - Allies
+1770 Commander's Standard - Effect
+1789 Ash of War - Death Flare
+1855 Sword of Milos - Bullet
+1856 Sword of Milos - Bullet
+1885 Sword of St. Trina - Bullet
+1896 Devourer's Scepter - Bullet
+1897 Scepter of the All-Knowing - Bullet Knowledge Above All
+1910 Carian Regal Scepter - Boost Damage
+1911 Dark Glintstone Staff - Boost Damage
+1912 Carian Glintblade Staff - Boost Damage
+1913 Digger's Staff - Boost Damage
+1914 Crystal Staff - Boost Damage
+1917 Gelmir Glintstone Staff - Boost Damage
+1918 Staff of the Guilty - Boost Damage
+1919 Prince of Death's Staff - Boost Damage
+1920 Meteorite Staff - Boost Damage
+1921 Staff of Loss - Boost Damage
+1922 Godslayer's Seal - Boost Damage
+1923 Giant's Seal - Boost Damage
+1924 Gravel Stone Seal - Boost Damage
+1925 Clawmark Seal - Boost Damage
+1926 Golden Order Seal - Boost Damage
+1927 Dragon Communion Seal - Boost Damage
+1928 Frenzied Flame Seal - Boost Damage
+1933 Azur's Glintstone Staff - Effect
+1934 Lusat's Glintstone Staff - Effect
+1937 Lion Greatbow
+1938 Serpent Bow
+1939 Serpent Bow [Attack]
+1940 Bow
+3050 Stanching Boluses
+3051 Stanching Boluses [Chain]
+3055 Stimulating Boluses
+3056 Stimulating Boluses [Chain]
+3060 Neutralizing Boluses
+3061 Neutralizing Boluses [Chain]
+3065 Clarifying Boluses
+3066 Clarifying Boluses [Chain]
+3070 Preserving Boluses
+3071 Preserving Boluses [Chain]
+3090 Rejuvenating Boluses
+3091 Rejuvenating Boluses [Chain]
+3092 Thawfrost Boluses
+3093 Thawfrost Boluses [Chain]
+3115 Kukri
+3120 Fetid Pot
+3125 Swarm of Flies - Hemorrhage [Cycle]
+3126 Swarm of Flies  - Hemorrhage
+3140 Freezing Grease
+3141 Freezing Grease [Attack]
+3142 Drawstring Freezing Grease
+3143 Drawstring Freezing Grease [Attack]
+3150 Soporific Grease
+3151 Soporific Grease [Attack]
+3152 Drawstring Soporific Grease
+3153 Drawstring Soporific Grease [Attack]
+3160 Fire Grease - Right
+3161 Drawstring Fire Grease - Right
+3162 Fire Grease - Left
+3163 Drawstring Fire Grease - Left
+3165 Lightning Grease - Right
+3166 Drawstring Lightning Grease - Right
+3167 Lightning Grease - Left
+3168 Drawstring Lightning Grease - Left
+3170 Magic Grease - Right
+3171 Drawstring Magic Grease - Right
+3172 Magic Grease - Left
+3173 Drawstring Magic Grease - Left
+3175 Poison Grease - Right
+3176 Poison Grease - Right [Attack]
+3177 Drawstring Poison Grease - Right
+3178 Drawstring Poison Grease - Right [Attack]
+3179 Poison Grease - Left
+3180 Poison Grease - Left [Attack]
+3181 Drawstring Poison Grease - Left
+3182 Drawstring Poison Grease - Left [Attack]
+3185 Holy Grease - Right
+3186 Drawstring Holy Grease - Right
+3187 Holy Grease - Left
+3188 Drawstring Holy Grease - Left
+3190 Blood Grease - Right
+3191 Blood Grease - Right [Attack]
+3192 Drawstring Blood Grease - Right
+3193 Drawstring Blood Grease - Right [Attack]
+3194 Blood Grease - Left
+3195 Blood Grease - Left [Attack]
+3196 Drawstring Blood Grease - Left
+3197 Drawstring Blood Grease - Left [Attack]
+3200 Holy Water Pot
+3240 Telescope
+3245 Lantern - Right
+3246 Lantern - Left
+3260 Dragonwound Grease - Right
+3262 Dragonwound Grease - Left
+3269 Golden Rune [1]
+3270 Golden Rune [2]
+3271 Golden Rune [3]
+3272 Golden Rune [4]
+3273 Golden Rune [5]
+3274 Golden Rune [6]
+3275 Golden Rune [7]
+3276 Golden Rune [8]
+3277 Golden Rune [9]
+3278 Golden Rune [10]
+3279 Golden Rune [11]
+3280 Golden Rune [12]
+3281 Golden Rune [13]
+3282 Numen's Rune
+3283 Hero's Rune [1]
+3284 Hero's Rune [2]
+3285 Hero's Rune [3]
+3286 Hero's Rune [4]
+3287 Hero's Rune [5]
+3288 Lord's Rune
+3310 Rot Grease - Right
+3311 Rot Grease - Right [Attack]
+3312 Drawstring Rot Grease - Right
+3313 Drawstring Rot Grease - Right [Attack]
+3314 Rot Grease - Left
+3315 Rot Grease - Left [Attack]
+3316 Drawstring Rot Grease - Left
+3317 Drawstring Rot Grease - Left [Attack]
+3360 Warming Stone
+3375 Holy Water Grease - Right
+3376 Holy Water Grease - Left
+3380 Cursed-Blood Pot
+3381 Cursed-Blood Pot
+3382 Cursed-Blood Pot
+3383 Cursed-Blood Pot
+3450 Rune Arc
+3500 Crimsonspill Crystal Tear
+3501 Viridianspill Crystal Tear
+3505 Crimson Crystal Tear
+3506 Cerulean Crystal Tear
+3507 Opaline Bubbletear
+3512 Crimson Bubbletear
+3513 Crimson Bubbletear [Chain]
+3515 Strength-knot Crystal Tear
+3516 Dexterity-knot Crystal Tear
+3517 Intelligence-knot Crystal Tear
+3518 Faith-knot Crystal Tear
+3519 Leaden Hardtear
+3550 Thorny Cracked Tear
+3551 Thorny Cracked Tear [Cycle]
+3552 Thorny Cracked Tear [Cycle]
+3553 Thorny Cracked Tear [Cycle]
+3554 Thorny Cracked Tear [Chain]
+3555 Thorny Cracked Tear [Chain]
+3556 Thorny Cracked Tear [Chain]
+3557 Thorny Cracked Tear [Chain]
+3580 Crimsonwhorl Bubbletear
+3581 Crimsonwhorl Bubbletear [Chain]
+3582 Crimsonwhorl Bubbletear [Chain]
+3583 Crimsonwhorl Bubbletear [Cycle]
+3584 Crimsonwhorl Bubbletear [Chain]
+3600 Lucent Baldachin's Blessing
+3603 Speckled Hardtear
+3604 Speckled Hardtear [Cycle]
+3605 Speckled Hardtear [Chain]
+3606 Speckled Hardtear [Chain]
+3607 Speckled Hardtear [Chain]
+3608 Speckled Hardtear [Chain]
+3609 Speckled Hardtear [Chain]
+3610 Speckled Hardtear [Chain]
+3611 Speckled Hardtear [Chain]
+3612 Speckled Hardtear [Cycle]
+3613 Speckled Hardtear [Cycle]
+3614 Speckled Hardtear [Cycle]
+3615 Speckled Hardtear [Cycle]
+3616 Speckled Hardtear [Cycle]
+3617 Speckled Hardtear [Cycle]
+3618 Speckled Hardtear [Cycle]
+3720 Remembrance of the Grafted
+3721 Remembrance of the Starscourge
+3722 Remembrance of the Omen King
+3723 Remembrance of the Blasphemous
+3724 Remembrance of the Rot Goddess
+3725 Remembrance of the Blood Lord
+3726 Remembrance of the Black Blade
+3727 Remembrance of Hoarah Loux
+3728 Remembrance of the Dragonlord
+3729 Remembrance of the Full Moon Queen
+3730 Remembrance of the Lichdragon
+3731 Remembrance of the Fire Giant
+3732 Remembrance of the Regal Ancestor
+3733 Elden Remembrance
+3734 Remembrance of the Naturalborn
+3910 Spellproof Dried Liver
+3920 Fireproof Dried Liver
+3930 Lightningproof Dried Liver
+3940 Holyproof Dried Liver
+3950 Exalted Flesh
+3953 Pickled Turtle Neck
+3960 Immunizing Cured Meat
+3961 Invigorating Cured Meat
+3962 Clarifying Cured Meat
+3963 Dappled Cured Meat
+3970 Silver-Pickled Fowl Foot
+3971 Gold-Pickled Fowl Foot
+4101 Sanguine Noble
+5300 No Stag
+5301 NPC: Damage Level Override
+5302 NPC: Damage Level Override
+5303 NPC: Damage Level Override
+5304 No Small Stag
+5305 NPC: Damage Level Override
+5306 NPC: Damage Level Override
+5307 NPC: Damage Level Override
+5308 NPC: Damage Level Override
+5309 NPC: Damage Level Override
+5310 NPC: Damage Level Override
+5311 NPC: Damage Level Override
+5320 NPC: Damage Level Override
+5321 NPC: Damage Level Override
+5322 NPC: Damage Level Override
+5323 NPC: Damage Level Override
+5324 NPC: Damage Level Override
+5325 NPC: Damage Level Override
+5326 NPC: Damage Level Override
+5327 NPC: Damage Level Override
+5328 NPC: Damage Level Override
+5329 NPC: Damage Level Override
+5330 NPC: Damage Level Override
+5331 NPC: Damage Level Override
+5332 NPC: Damage Level Override
+5333 NPC: Damage Level Override
+5334 NPC: Damage Level Override
+5335 NPC: Damage Level Override
+5350 NPC: Damage Level Override
+5351 NPC: Damage Level Override
+5352 NPC: Damage Level Override
+5353 NPC: Damage Level Override
+5354 NPC: Damage Level Override
+5360 No Stag
+5361 Light Stag 4 XL Hits + Light 4 Large
+5362 Med Stag 4 XL Hits
+5363 Med Stag 4 XL Hits + Light 4 Large
+5364 Light Stag 4 XL Hits
+5365 X Stag
+5366 Resist Stag
+5367 Heavy Stag 4 XL Hits + Heavy 4 Large
+5368 Same Stag 4 XL Hits
+5369 Heavy Stag 4 XL Hits + Med 4 Large
+5370 No Stag [Armor]
+5371 Light Stag 4 XL Hits + Light 4 Large [Armor]
+5372 Med Stag 4 XL Hits [Armor]
+5373 Med Stag 4 XL Hits + Light 4 Large [Armor]
+5374 Light Stag 4 XL Hits [Armor]
+5600 NPC: Infinite FP
+5601 NPC: Faster Stamina Recovery
+5836 Undead Enemy
+5837 Undead Enemy
+6350 Toughness 1 (Small/Min)
+6351 Toughness 2 (Medium/Push)
+6352 Toughness 3 (Large)
+6353 Toughness 4 (All)
+6354 Toughness 5 (All)
+6400 Hemorrhage - Type 1 - Special 1
+6401 Hemorrhage - Type 1 - Special 2
+6402 Hemorrhage - Type 1 - Special 3
+6403 Hemorrhage - Type 1 - Special 4
+6404 Hemorrhage - Type 1 - Special 5
+6405 Hemorrhage - Type 1 - Special 6
+6406 Hemorrhage - Type 1 - Special 7
+6410 Hemorrhage - Type 2 - Special 1
+6411 Hemorrhage - Type 2 - Special 2
+6412 Hemorrhage - Type 2 - Special 3
+6413 Hemorrhage - Type 2 - Special 4
+6414 Hemorrhage - Type 2 - Special 5
+6415 Hemorrhage - Type 2 - Special 6
+6450 Sleep - Type 1 - Special 1
+6451 Sleep - Type 1 - Special 2
+6452 Sleep - Type 1 - Special 3
+6453 Sleep - Type 1 - Special 4
+6454 Sleep - Type 1 - Special 5
+6455 Sleep - Type 1 - Special 6
+6456 Sleep - Type 1 - Special 7
+6460 Sleep - Type 2 - Special 1
+6500 Poison - Type 1 - Special 1
+6501 Poison - Type 1 - Special 2
+6502 Poison - Type 1 - Special 3
+6503 Poison - Type 1 - Special 4
+6504 Poison - Type 1 - Special 5
+6505 Poison - Type 1 - Special 6
+6510 Poison - Type 2 - Special 1
+6511 Poison - Type 2 - Special 2
+6512 Poison - Type 2 - Special 3
+6513 Poison - Type 2 - Special 4
+6514 Poison - Type 2 - Special 5
+6515 Poison - Type 2 - Special 6
+6600 Scarlet Rot - Type 1 - Special 1
+6601 Scarlet Rot - Type 1 - Special 2
+6602 Scarlet Rot - Type 1 - Special 3
+6603 Scarlet Rot - Type 1 - Special 4
+6604 Scarlet Rot - Type 1 - Special 5
+6605 Scarlet Rot - Type 1 - Special 6
+6700 Frostbite - Type 1 - Special 1
+6701 Frostbite - Type 1 - Special 2
+6702 Frostbite - Type 1 - Special 3
+6703 Frostbite - Type 1 - Special 4
+6704 Frostbite - Type 1 - Special 5
+6705 Frostbite - Type 1 - Special 6
+6750 Madness - Type 1 - Special 1
+6751 Madness - Type 1 - Special 2
+6752 Madness - Type 1 - Special 3
+6753 Madness - Type 1 - Special 4
+6754 Madness - Type 1 - Special 5
+6755 Madness - Type 1 - Special 6
+6800 Blight - Type 1 - Special 1
+6801 Blight - Type 1 - Special 2
+6802 Blight - Type 1 - Special 3
+6803 Blight - Type 1 - Special 4
+6804 Blight - Type 1 - Special 5
+6805 Blight - Type 1 - Special 6
+6845 Black Knife - Bullet
+6850 Destined Death - (DoT Main)
+6930 Crystal Dart
+7000 Area Scaling - Tier 1 (Tutorial Tunnel)
+7010 Area Scaling - Tier 2 (Limgrave Exploration)
+7020 Area Scaling - Tier 3 (South Limgrave Exploration)
+7030 Area Scaling - Tier 4 (North Limgrave Exploration + Bosses)
+7040 Area Scaling - Tier 5 (Stormveil Castle Boss)
+7050 Area Scaling - Tier 6 (Siofra River)
+7060 Area Scaling - Tier 7 (South Liurnia Exploration  + Archives)
+7070 Area Scaling - Tier 8 (North Liurnia Exploration + Archives Latter)
+7080 Area Scaling - Tier 9 (Below Mt. Gelmir + Ainsel River)
+7090 Area Scaling - Tier 10 (Entering Mt. Gelmir + Entering Caelid)
+7100 Area Scaling - Tier 11 (Altus Plateua + Southeast Caelid)
+7110 Area Scaling - Tier 12 (Leyndell + Nokstella)
+7120 Area Scaling - Tier 13 (Volcano Manor + North Caelid)
+7130 Area Scaling - Tier 22 (Leyndell Sewers)
+7140 Area Scaling - Tier 23 (Giant Mountaintops + Farum Azula Weak)
+7150 Area Scaling - Tier 24 (Farum Azula Latter)
+7160 Area Scaling - Tier 25 (Leyndell Ashen + Snowfields)
+7170 Area Scaling - Tier 26 (Final Battle)
+7180 Area Scaling - Tier 27 (Haligtree + Mohgwyn Palace)
+7190 Area Scaling - Tier 28 (Elphael)
+7200 Area Scaling - Tier 29 (Haligtree Roots)
+7210 Area Scaling - Tier 14 (Unusued)
+7220 Area Scaling - Tier 15 (Unusued)
+7230 Area Scaling - Tier 16 (Unusued)
+7240 Area Scaling - Tier 17 (Unusued)
+7250 Area Scaling - Tier 18 (Unusued)
+7260 Area Scaling - Tier 19 (Unusued)
+7270 Area Scaling - Tier 20 (Unusued)
+7280 Area Scaling - Tier 21 (Unusued)
+7400 NG+ Scaling -
+7410 NG+ Scaling -
+7420 NG+ Scaling -
+7430 NG+ Scaling -
+7440 NG+ Scaling -
+7450 NG+ Scaling -
+7460 NG+ Scaling -
+7470 NG+ Scaling -
+7480 NG+ Scaling -
+7490 NG+ Scaling -
+7500 NG+ Scaling -
+7510 NG+ Scaling -
+7520 NG+ Scaling -
+7530 NG+ Scaling -
+7540 NG+ Scaling -
+7550 NG+ Scaling -
+7560 NG+ Scaling -
+7570 NG+ Scaling -
+7580 NG+ Scaling -
+7590 NG+ Scaling -
+7600 NG+ Scaling -
+7610 NG+ Scaling -
+7620 NG+ Scaling -
+7630 NG+ Scaling -
+7640 NG+ Scaling -
+7650 NG+ Scaling -
+7660 NG+ Scaling -
+7670 NG+ Scaling -
+7680 NG+ Scaling -
 10000 Castle Exile - Bullet
 10001 Dog - Bullet
 10002 Demi-human - Bullet
@@ -8,16 +437,350 @@
 10006 Fallen Hawk Soldier - Bullet
 10008 Man-Serpent - Bullet
 10010 Dominula Celebrant - Bullet
-100620 
-100621 
-101 Grace - Remove All Status
 10165 Dragon-faced Flamethrower - Bullet
-102 Grace - Remove Hemorrhage
-103 Grace - Remove Poison
 10317 Fallen Hawk Soldier - Bullet
 10318 Fallen Hawk Soldier - Bullet [Chain]
-104 Grace - Remove Scarlet Rot
-105 Grace - Remove Frostbite
+10690 Mohg - Bullet
+10691 Mohg - Bullet [Cycle]
+10945 Warhawk - Bullet
+11010 Tarnished's Furled Finger
+11030 Duelist's Furled Finger
+11140 Commander - Glory Attack
+11141 Commander - Glory Defend
+11657 Nox Swordstress
+11691 Nox Swordstress/Silver Tear - Bullet
+11954 Writhing Mass - Bullet
+11971 Vulgar Militia - Bullet
+12000 Large Fingercreeper - Bullet
+12018 Giant Fingercreeper
+13020 Wolf - Bullet
+13025 Wolf
+13067 Castle Soldier
+13120 Alabaster Lord - Bullet
+13121 Alabaster Lord - Bullet
+13153 Ancestral Follower - Bullet
+13154 Ancestral Follower - Bullet
+13156 Ancestral Follower Shaman - Bullet
+13164 Ancestral Follower
+13175 Ancestral Follower - Winged Greathorn
+13191 Ancestral Follower - HP Restore
+13258 Mad Pumpkin Head/Grinning Torturer - Bullet
+13296 Castle Soldier
+13462 Putrid Corpse - Explosion
+13617 Ancestor Spirit - Drain Attack
+13780 Tree Sentinel - Sacred Vow Self
+13782 Tree Sentinel - Sacred Vow Ally
+13855 Cleanrot Knight - Bullet - Buff
+13856 Cleanrot Knight - Bullet - Buff
+14016 Monstrous Crow - Bullet
+14028 Monstrous Dog - Bullet
+14351 [Rennala]
+14352 [Rennala]
+14353 [Rennala]
+14354 [Rennala]
+14386 Rennala Student - Main Target
+14405 Depraved Perfumer - Shield Bullet
+14406 Depraved Perfumer - Bullet
+14435 Depraved Perfumer
+14439 Depraved Perfumer
+14553 Blaidd the Half-Wolf - Bullet
+14577 Rennala - Bullet
+14596 Rennala 2 - Bullet Magic DEF Down
+14898 Ancient Dragon - Lich Close Trigger Shock
+15321 Tibia Mariner - Bullet
+15322 Tibia Mariner - Bullet [Chain]
+15452 Godskin Apostle - Sleep Awake
+15467 Godskin Apostle - Lifedrain
+15511 Godskin Noble
+16316 Spirit Summon - Fade In
+16414 Elemer of the Briar
+16482 Fallingstar Beast - Ground AoE Alert
+16488 Fallingstar Beast
+17171 Imp
+17654 Death Rite Bird - Bullet
+18400 Malenia: HP Recovery on ?
+18401 Malenia: HP Recovery on ?
+18402 Malenia: HP Recovery on ?
+18403 Malenia: HP Recovery on ?
+18404 Malenia: HP Recovery on Phase Change
+18405 Malenia: HP Recovery on ?
+18410 Malenia: HP Recovery on Hit
+18411 Malenia: HP Recovery on Hit
+18412 Malenia: HP Recovery on Hit
+18413 Malenia: HP Recovery on Hit
+18414 Malenia: HP Recovery on Hit
+18415 Malenia: HP Recovery on Hit
+18416 Malenia: HP Recovery on Hit
+18417 Malenia: HP Recovery on Grab
+18418 Malenia: HP Recovery on Hit
+18419 Malenia: HP Recovery on ?
+18430 Malenia: Rot 180
+18431 Malenia: Rot 90
+18432 Malenia: Rot 120
+18433 Malenia: Rot 60
+18454 Malenia - Bullet
+18699 Spirit Summon - Phantom Color
+18731 Melina - HP Recovery
+20000 NPC: Poison
+20001 NPC: Poison
+20002 NPC: Poison
+20003 NPC: Poison
+20004 NPC: Poison
+20005 NPC: Poison
+20006 NPC: Poison
+20007 NPC: Poison
+20008 NPC: Poison
+20009 NPC: Poison
+20010 NPC: Poison
+20011 NPC: Poison
+20012 NPC: Poison
+20013 NPC: Poison
+20014 NPC: Poison
+20015 NPC: Poison
+20016 NPC: Poison
+20017 NPC: Poison
+20018 NPC: Poison
+20019 NPC: Poison
+20110 NPC: Poison
+20120 NPC: Poison
+20130 NPC: Poison
+20140 NPC: Poison
+20141 NPC: Poison
+20142 NPC: Poison
+20150 NPC: Poison
+20151 NPC: Poison
+20152 NPC: Poison
+20160 NPC: Poison
+20161 NPC: Poison
+20162 NPC: Poison
+20163 NPC: Poison
+20170 NPC: Poison
+20175 NPC: Poison
+20180 NPC: Poison
+20181 NPC: Poison
+20190 NPC: Poison
+20500 NPC: Fast Poison
+20501 NPC: Fast Poison
+20502 NPC: Fast Poison
+20503 NPC: Fast Poison
+20504 NPC: Fast Poison
+20505 NPC: Fast Poison
+20506 NPC: Fast Poison
+20507 NPC: Fast Poison
+20508 NPC: Fast Poison
+20509 NPC: Fast Poison
+20510 NPC: Fast Poison
+20511 NPC: Fast Poison
+20512 NPC: Fast Poison
+20513 NPC: Fast Poison
+20514 NPC: Fast Poison
+20515 NPC: Fast Poison
+20516 NPC: Fast Poison
+20517 NPC: Fast Poison
+20518 NPC: Fast Poison
+20519 NPC: Fast Poison
+20600 NPC: Fast Poison - Affect Self
+21000 NPC: Scarlet Rot
+21001 NPC: Scarlet Rot
+21002 NPC: Scarlet Rot
+21003 NPC: Scarlet Rot
+21004 NPC: Scarlet Rot
+21005 NPC: Scarlet Rot
+21006 NPC: Scarlet Rot
+21007 NPC: Scarlet Rot
+21008 NPC: Scarlet Rot
+21009 NPC: Scarlet Rot
+21010 NPC: Scarlet Rot
+21011 NPC: Scarlet Rot
+21012 NPC: Scarlet Rot
+21013 NPC: Scarlet Rot
+21014 NPC: Scarlet Rot
+21015 NPC: Scarlet Rot
+21016 NPC: Scarlet Rot
+21017 NPC: Scarlet Rot
+21018 NPC: Scarlet Rot
+21019 NPC: Scarlet Rot
+21100 NPC: Scarlet Rot
+21101 NPC: Scarlet Rot
+21102 NPC: Scarlet Rot
+22000 NPC: Hemorrhage
+22001 NPC: Hemorrhage
+22002 NPC: Hemorrhage
+22003 NPC: Hemorrhage
+22004 NPC: Hemorrhage
+22005 NPC: Hemorrhage
+22006 NPC: Hemorrhage
+22007 NPC: Hemorrhage
+22008 NPC: Hemorrhage
+22009 NPC: Hemorrhage
+22010 NPC: Hemorrhage
+22011 NPC: Hemorrhage
+22012 NPC: Hemorrhage
+22013 NPC: Hemorrhage
+22014 NPC: Hemorrhage
+22015 NPC: Hemorrhage
+22016 NPC: Hemorrhage
+22017 NPC: Hemorrhage
+22018 NPC: Hemorrhage
+22019 NPC: Hemorrhage
+22100 NPC: Maggots - Hemorrhage
+22101 NPC: Maggots - Hemorrhage
+22110 NPC: Maggots - Hemorrhage
+22111 NPC: Maggots - Hemorrhage
+22120 NPC: Maggots - Hemorrhage
+22130 NPC: Maggots - Hemorrhage
+22131 NPC: Maggots - Hemorrhage
+22132 NPC: Maggots - Hemorrhage
+22133 NPC: Maggots - Hemorrhage
+23000 NPC: Blight
+23001 NPC: Blight
+23002 NPC: Blight
+23003 NPC: Blight
+23004 NPC: Blight
+23005 NPC: Blight
+23006 NPC: Blight
+23007 NPC: Blight
+23008 NPC: Blight
+23009 NPC: Blight
+23010 NPC: Blight
+23011 NPC: Blight
+23012 NPC: Blight
+23013 NPC: Blight
+23014 NPC: Blight
+23015 NPC: Blight
+23016 NPC: Blight
+23017 NPC: Blight
+23018 NPC: Blight
+23019 NPC: Blight
+23100 NPC: Blight
+23101 NPC: Blight
+23102 NPC: Blight
+23110 NPC: Blight
+23111 NPC: Blight
+23112 NPC: Blight
+23113 NPC: Blight
+23150 NPC: Blight
+24000 NPC: Frostbite
+24001 NPC: Frostbite
+24002 NPC: Frostbite
+24003 NPC: Frostbite
+24004 NPC: Frostbite
+24005 NPC: Frostbite
+24006 NPC: Frostbite
+24007 NPC: Frostbite
+24008 NPC: Frostbite
+24009 NPC: Frostbite
+24010 NPC: Frostbite
+24011 NPC: Frostbite
+24012 NPC: Frostbite
+24013 NPC: Frostbite
+24014 NPC: Frostbite
+24015 NPC: Frostbite
+24016 NPC: Frostbite
+24017 NPC: Frostbite
+24018 NPC: Frostbite
+24019 NPC: Frostbite
+24130 NPC: Frostbite
+24131 NPC: Frostbite
+24132 NPC: Frostbite
+24140 NPC: Frostbite
+24150 NPC: Frostbite
+24160 NPC: Frostbite
+24170 NPC: Frostbite
+25000 NPC: Sleep
+25001 NPC: Sleep
+25002 NPC: Sleep
+25003 NPC: Sleep
+25004 NPC: Sleep
+25005 NPC: Sleep
+25006 NPC: Sleep
+25007 NPC: Sleep
+25008 NPC: Sleep
+25009 NPC: Sleep
+25010 NPC: Sleep
+25011 NPC: Sleep
+25012 NPC: Sleep
+25013 NPC: Sleep
+25014 NPC: Sleep
+25015 NPC: Sleep
+25016 NPC: Sleep
+25017 NPC: Sleep
+25018 NPC: Sleep
+25019 NPC: Sleep
+26000 NPC: Madness
+26001 NPC: Madness
+26002 NPC: Madness
+26003 NPC: Madness
+26004 NPC: Madness
+26005 NPC: Madness
+26006 NPC: Madness
+26007 NPC: Madness
+26008 NPC: Madness
+26009 NPC: Madness
+26010 NPC: Madness
+26011 NPC: Madness
+26012 NPC: Madness
+26013 NPC: Madness
+26014 NPC: Madness
+26015 NPC: Madness
+26016 NPC: Madness
+26017 NPC: Madness
+26018 NPC: Madness
+26019 NPC: Madness
+26100 NPC: Madness
+26110 NPC: Madness
+29000 NPC: HP Burn on Hit (DoT Black Flame)
+29001 NPC: HP Burn on Hit
+29002 NPC: HP Burn on Hit
+29003 NPC: HP Burn on Hit
+29004 NPC: HP Burn on Hit
+29005 NPC: HP Burn on Hit
+29006 NPC: HP Burn on Hit
+29007 NPC: HP Burn on Hit
+29008 NPC: HP Burn on Hit
+29009 NPC: HP Burn on Hit
+29500 NPC: HP Burn on Hit (DoT Small Destined)
+29501 NPC: HP Burn on Hit
+29502 NPC: HP Burn on Hit
+29503 NPC: HP Burn on Hit
+29504 NPC: HP Burn on Hit
+29505 NPC: HP Burn on Hit
+29506 NPC: HP Burn on Hit
+29507 NPC: HP Burn on Hit
+29508 NPC: HP Burn on Hit
+29509 NPC: HP Burn on Hit
+29510 NPC: HP Burn on Hit (DoT Destined)
+29511 NPC: Max HP Reduction on Hit (Small)
+29515 NPC: HP Burn on Hit
+29516 NPC: HP Burn on Hit
+29517 NPC: HP Burn on Hit
+29520 NPC: Max HP Reduction on Hit
+29521 NPC: Max HP Reduction on Hit
+30000 NPC: Cure Poison
+30010 NPC: Cure Scarlet Rot
+30020 NPC: Cure Hemorrhage
+30030 NPC: Cure Blight
+30040 NPC: Cure Frostbite
+30050 NPC: Cure Sleep
+30060 NPC: Cure Madness
+30100 NPC: Cure All Status
+90000 NPC: Disable Poison
+90010 NPC: Disable Scarlet Rot
+90020 NPC: Disable Hemorrhage
+90030 NPC: Disable Blight
+90040 NPC: Disable Frostbite
+90100 NPC: Ignore Fake Targets - All
+90110 NPC: Ignore Fake Targets - Normal
+90120 NPC: Ignore Fake Targets - Undead
+90130 NPC: Ignore Fake Targets - Animal
+90140 Unk71 - 2
+90150 Unk71 - 4
+90160 NPC: Ignore Fake Targets - Normal and Undead
+90161 NPC: Ignore Fake Targets - Animal
+90162 NPC: Ignore Fake Targets - Undead and Animal
+90200 NPC: Enable Charm
+100620 Hand Style - Right Hand
+100621 Hand Style - Left Hand
 105000 Hemorrhage - Base 50/Cap 75
 105001 Hemorrhage - Base 51/Cap 77
 105002 Hemorrhage - Base 52/Cap 78
@@ -71,109 +834,109 @@
 105074 Hemorrhage - Base 167/Cap 251
 105075 Hemorrhage - Base 170/Cap 255
 105100 Hemorrhage - Base 255/Cap 0
-105101 
-105102 
-105103 
-105104 
-105105 
-105106 
-105107 
-105108 
-105109 
-105110 
-105111 
-105112 
-105113 
-105114 
-105115 
-105116 
-105117 
-105118 
-105119 
-105120 
-105121 
-105122 
-105123 
-105124 
-105125 
-105150 
-105151 
-105152 
-105153 
-105154 
-105155 
-105156 
-105157 
-105158 
-105159 
-105160 
-105161 
-105162 
-105163 
-105164 
-105165 
-105166 
-105167 
-105168 
-105169 
-105170 
-105171 
-105172 
-105173 
-105174 
-105175 
-105200 
-105201 
-105202 
-105203 
-105204 
-105205 
-105206 
-105207 
-105208 
-105209 
-105210 
-105211 
-105212 
-105213 
-105214 
-105215 
-105216 
-105217 
-105218 
-105219 
-105220 
-105221 
-105222 
-105223 
-105224 
-105225 
-105250 
-105251 
-105252 
-105253 
-105254 
-105255 
-105256 
-105257 
-105258 
-105259 
-105260 
-105261 
-105262 
-105263 
-105264 
-105265 
-105266 
-105267 
-105268 
-105269 
-105270 
-105271 
-105272 
-105273 
-105274 
-105275 
+105101 Hemorrhage - Medium - Addition +1
+105102 Hemorrhage - Medium - Addition +2
+105103 Hemorrhage - Medium - Addition +3
+105104 Hemorrhage - Medium - Addition +4
+105105 Hemorrhage - Medium - Addition +5
+105106 Hemorrhage - Medium - Addition +6
+105107 Hemorrhage - Medium - Addition +7
+105108 Hemorrhage - Medium - Addition +8
+105109 Hemorrhage - Medium - Addition +9
+105110 Hemorrhage - Medium - Addition +10
+105111 Hemorrhage - Medium - Addition +11
+105112 Hemorrhage - Medium - Addition +12
+105113 Hemorrhage - Medium - Addition +13
+105114 Hemorrhage - Medium - Addition +14
+105115 Hemorrhage - Medium - Addition +15
+105116 Hemorrhage - Medium - Addition +16
+105117 Hemorrhage - Medium - Addition +17
+105118 Hemorrhage - Medium - Addition +18
+105119 Hemorrhage - Medium - Addition +19
+105120 Hemorrhage - Medium - Addition +20
+105121 Hemorrhage - Medium - Addition +21
+105122 Hemorrhage - Medium - Addition +22
+105123 Hemorrhage - Medium - Addition +23
+105124 Hemorrhage - Medium - Addition +24
+105125 Hemorrhage - Medium - Addition +25
+105150 Hemorrhage - Medium - Innate +0
+105151 Hemorrhage - Medium - Innate +1
+105152 Hemorrhage - Medium - Innate +2
+105153 Hemorrhage - Medium - Innate +3
+105154 Hemorrhage - Medium - Innate +4
+105155 Hemorrhage - Medium - Innate +5
+105156 Hemorrhage - Medium - Innate +6
+105157 Hemorrhage - Medium - Innate +7
+105158 Hemorrhage - Medium - Innate +8
+105159 Hemorrhage - Medium - Innate +9
+105160 Hemorrhage - Medium - Innate +10
+105161 Hemorrhage - Medium - Innate +11
+105162 Hemorrhage - Medium - Innate +12
+105163 Hemorrhage - Medium - Innate +13
+105164 Hemorrhage - Medium - Innate +14
+105165 Hemorrhage - Medium - Innate +15
+105166 Hemorrhage - Medium - Innate +16
+105167 Hemorrhage - Medium - Innate +17
+105168 Hemorrhage - Medium - Innate +18
+105169 Hemorrhage - Medium - Innate +19
+105170 Hemorrhage - Medium - Innate +20
+105171 Hemorrhage - Medium - Innate +21
+105172 Hemorrhage - Medium - Innate +22
+105173 Hemorrhage - Medium - Innate +23
+105174 Hemorrhage - Medium - Innate +24
+105175 Hemorrhage - Medium - Innate +25
+105200 Hemorrhage - High - Addition +0
+105201 Hemorrhage - High - Addition +1
+105202 Hemorrhage - High - Addition +2
+105203 Hemorrhage - High - Addition +3
+105204 Hemorrhage - High - Addition +4
+105205 Hemorrhage - High - Addition +5
+105206 Hemorrhage - High - Addition +6
+105207 Hemorrhage - High - Addition +7
+105208 Hemorrhage - High - Addition +8
+105209 Hemorrhage - High - Addition +9
+105210 Hemorrhage - High - Addition +10
+105211 Hemorrhage - High - Addition +11
+105212 Hemorrhage - High - Addition +12
+105213 Hemorrhage - High - Addition +13
+105214 Hemorrhage - High - Addition +14
+105215 Hemorrhage - High - Addition +15
+105216 Hemorrhage - High - Addition +16
+105217 Hemorrhage - High - Addition +17
+105218 Hemorrhage - High - Addition +18
+105219 Hemorrhage - High - Addition +19
+105220 Hemorrhage - High - Addition +20
+105221 Hemorrhage - High - Addition +21
+105222 Hemorrhage - High - Addition +22
+105223 Hemorrhage - High - Addition +23
+105224 Hemorrhage - High - Addition +24
+105225 Hemorrhage - High - Addition +25
+105250 Hemorrhage - High - Innate +0
+105251 Hemorrhage - High - Innate +1
+105252 Hemorrhage - High - Innate +2
+105253 Hemorrhage - High - Innate +3
+105254 Hemorrhage - High - Innate +4
+105255 Hemorrhage - High - Innate +5
+105256 Hemorrhage - High - Innate +6
+105257 Hemorrhage - High - Innate +7
+105258 Hemorrhage - High - Innate +8
+105259 Hemorrhage - High - Innate +9
+105260 Hemorrhage - High - Innate +10
+105261 Hemorrhage - High - Innate +11
+105262 Hemorrhage - High - Innate +12
+105263 Hemorrhage - High - Innate +13
+105264 Hemorrhage - High - Innate +14
+105265 Hemorrhage - High - Innate +15
+105266 Hemorrhage - High - Innate +16
+105267 Hemorrhage - High - Innate +17
+105268 Hemorrhage - High - Innate +18
+105269 Hemorrhage - High - Innate +19
+105270 Hemorrhage - High - Innate +20
+105271 Hemorrhage - High - Innate +21
+105272 Hemorrhage - High - Innate +22
+105273 Hemorrhage - High - Innate +23
+105274 Hemorrhage - High - Innate +24
+105275 Hemorrhage - High - Innate +25
 105500 Sleep - Base 50/Cap 75
 105501 Sleep - Base 51/Cap 77
 105502 Sleep - Base 52/Cap 78
@@ -227,110 +990,109 @@
 105574 Sleep - Base 167/Cap 251
 105575 Sleep - Base 170/Cap 255
 105600 Sleep - Base 255/Cap 0
-105601 
-105602 
-105603 
-105604 
-105605 
-105606 
-105607 
-105608 
-105609 
-105610 
-105611 
-105612 
-105613 
-105614 
-105615 
-105616 
-105617 
-105618 
-105619 
-105620 
-105621 
-105622 
-105623 
-105624 
-105625 
-105650 
-105651 
-105652 
-105653 
-105654 
-105655 
-105656 
-105657 
-105658 
-105659 
-105660 
-105661 
-105662 
-105663 
-105664 
-105665 
-105666 
-105667 
-105668 
-105669 
-105670 
-105671 
-105672 
-105673 
-105674 
-105675 
-105700 
-105701 
-105702 
-105703 
-105704 
-105705 
-105706 
-105707 
-105708 
-105709 
-105710 
-105711 
-105712 
-105713 
-105714 
-105715 
-105716 
-105717 
-105718 
-105719 
-105720 
-105721 
-105722 
-105723 
-105724 
-105725 
-105750 
-105751 
-105752 
-105753 
-105754 
-105755 
-105756 
-105757 
-105758 
-105759 
-105760 
-105761 
-105762 
-105763 
-105764 
-105765 
-105766 
-105767 
-105768 
-105769 
-105770 
-105771 
-105772 
-105773 
-105774 
-105775 
-106 Grace -
+105601 Sleep - Medium - Addition +1
+105602 Sleep - Medium - Addition +2
+105603 Sleep - Medium - Addition +3
+105604 Sleep - Medium - Addition +4
+105605 Sleep - Medium - Addition +5
+105606 Sleep - Medium - Addition +6
+105607 Sleep - Medium - Addition +7
+105608 Sleep - Medium - Addition +8
+105609 Sleep - Medium - Addition +9
+105610 Sleep - Medium - Addition +10
+105611 Sleep - Medium - Addition +11
+105612 Sleep - Medium - Addition +12
+105613 Sleep - Medium - Addition +13
+105614 Sleep - Medium - Addition +14
+105615 Sleep - Medium - Addition +15
+105616 Sleep - Medium - Addition +16
+105617 Sleep - Medium - Addition +17
+105618 Sleep - Medium - Addition +18
+105619 Sleep - Medium - Addition +19
+105620 Sleep - Medium - Addition +20
+105621 Sleep - Medium - Addition +21
+105622 Sleep - Medium - Addition +22
+105623 Sleep - Medium - Addition +23
+105624 Sleep - Medium - Addition +24
+105625 Sleep - Medium - Addition +25
+105650 Sleep - Medium - Innate +0
+105651 Sleep - Medium - Innate +1
+105652 Sleep - Medium - Innate +2
+105653 Sleep - Medium - Innate +3
+105654 Sleep - Medium - Innate +4
+105655 Sleep - Medium - Innate +5
+105656 Sleep - Medium - Innate +6
+105657 Sleep - Medium - Innate +7
+105658 Sleep - Medium - Innate +8
+105659 Sleep - Medium - Innate +9
+105660 Sleep - Medium - Innate +10
+105661 Sleep - Medium - Innate +11
+105662 Sleep - Medium - Innate +12
+105663 Sleep - Medium - Innate +13
+105664 Sleep - Medium - Innate +14
+105665 Sleep - Medium - Innate +15
+105666 Sleep - Medium - Innate +16
+105667 Sleep - Medium - Innate +17
+105668 Sleep - Medium - Innate +18
+105669 Sleep - Medium - Innate +19
+105670 Sleep - Medium - Innate +20
+105671 Sleep - Medium - Innate +21
+105672 Sleep - Medium - Innate +22
+105673 Sleep - Medium - Innate +23
+105674 Sleep - Medium - Innate +24
+105675 Sleep - Medium - Innate +25
+105700 Sleep - High - Addition +0
+105701 Sleep - High - Addition +1
+105702 Sleep - High - Addition +2
+105703 Sleep - High - Addition +3
+105704 Sleep - High - Addition +4
+105705 Sleep - High - Addition +5
+105706 Sleep - High - Addition +6
+105707 Sleep - High - Addition +7
+105708 Sleep - High - Addition +8
+105709 Sleep - High - Addition +9
+105710 Sleep - High - Addition +10
+105711 Sleep - High - Addition +11
+105712 Sleep - High - Addition +12
+105713 Sleep - High - Addition +13
+105714 Sleep - High - Addition +14
+105715 Sleep - High - Addition +15
+105716 Sleep - High - Addition +16
+105717 Sleep - High - Addition +17
+105718 Sleep - High - Addition +18
+105719 Sleep - High - Addition +19
+105720 Sleep - High - Addition +20
+105721 Sleep - High - Addition +21
+105722 Sleep - High - Addition +22
+105723 Sleep - High - Addition +23
+105724 Sleep - High - Addition +24
+105725 Sleep - High - Addition +25
+105750 Sleep - High - Innate +0
+105751 Sleep - High - Innate +1
+105752 Sleep - High - Innate +2
+105753 Sleep - High - Innate +3
+105754 Sleep - High - Innate +4
+105755 Sleep - High - Innate +5
+105756 Sleep - High - Innate +6
+105757 Sleep - High - Innate +7
+105758 Sleep - High - Innate +8
+105759 Sleep - High - Innate +9
+105760 Sleep - High - Innate +10
+105761 Sleep - High - Innate +11
+105762 Sleep - High - Innate +12
+105763 Sleep - High - Innate +13
+105764 Sleep - High - Innate +14
+105765 Sleep - High - Innate +15
+105766 Sleep - High - Innate +16
+105767 Sleep - High - Innate +17
+105768 Sleep - High - Innate +18
+105769 Sleep - High - Innate +19
+105770 Sleep - High - Innate +20
+105771 Sleep - High - Innate +21
+105772 Sleep - High - Innate +22
+105773 Sleep - High - Innate +23
+105774 Sleep - High - Innate +24
+105775 Sleep - High - Innate +25
 106000 Poison - Base 50/Cap 75
 106001 Poison - Base 51/Cap 77
 106002 Poison - Base 52/Cap 78
@@ -384,112 +1146,109 @@
 106074 Poison - Base 167/Cap 251
 106075 Poison - Base 170/Cap 255
 106100 Poison - Base 255/Cap 0
-106101 
-106102 
-106103 
-106104 
-106105 
-106106 
-106107 
-106108 
-106109 
-106110 
-106111 
-106112 
-106113 
-106114 
-106115 
-106116 
-106117 
-106118 
-106119 
-106120 
-106121 
-106122 
-106123 
-106124 
-106125 
-106150 
-106151 
-106152 
-106153 
-106154 
-106155 
-106156 
-106157 
-106158 
-106159 
-106160 
-106161 
-106162 
-106163 
-106164 
-106165 
-106166 
-106167 
-106168 
-106169 
-106170 
-106171 
-106172 
-106173 
-106174 
-106175 
-106200 
-106201 
-106202 
-106203 
-106204 
-106205 
-106206 
-106207 
-106208 
-106209 
-106210 
-106211 
-106212 
-106213 
-106214 
-106215 
-106216 
-106217 
-106218 
-106219 
-106220 
-106221 
-106222 
-106223 
-106224 
-106225 
-106250 
-106251 
-106252 
-106253 
-106254 
-106255 
-106256 
-106257 
-106258 
-106259 
-106260 
-106261 
-106262 
-106263 
-106264 
-106265 
-106266 
-106267 
-106268 
-106269 
-106270 
-106271 
-106272 
-106273 
-106274 
-106275 
-10690 Mohg - Bullet
-10691 Mohg - Bullet [Cycle]
-107 Grace - Remove Madness
+106101 Poison - Medium - Addition +1
+106102 Poison - Medium - Addition +2
+106103 Poison - Medium - Addition +3
+106104 Poison - Medium - Addition +4
+106105 Poison - Medium - Addition +5
+106106 Poison - Medium - Addition +6
+106107 Poison - Medium - Addition +7
+106108 Poison - Medium - Addition +8
+106109 Poison - Medium - Addition +9
+106110 Poison - Medium - Addition +10
+106111 Poison - Medium - Addition +11
+106112 Poison - Medium - Addition +12
+106113 Poison - Medium - Addition +13
+106114 Poison - Medium - Addition +14
+106115 Poison - Medium - Addition +15
+106116 Poison - Medium - Addition +16
+106117 Poison - Medium - Addition +17
+106118 Poison - Medium - Addition +18
+106119 Poison - Medium - Addition +19
+106120 Poison - Medium - Addition +20
+106121 Poison - Medium - Addition +21
+106122 Poison - Medium - Addition +22
+106123 Poison - Medium - Addition +23
+106124 Poison - Medium - Addition +24
+106125 Poison - Medium - Addition +25
+106150 Poison - Medium - Innate +0
+106151 Poison - Medium - Innate +1
+106152 Poison - Medium - Innate +2
+106153 Poison - Medium - Innate +3
+106154 Poison - Medium - Innate +4
+106155 Poison - Medium - Innate +5
+106156 Poison - Medium - Innate +6
+106157 Poison - Medium - Innate +7
+106158 Poison - Medium - Innate +8
+106159 Poison - Medium - Innate +9
+106160 Poison - Medium - Innate +10
+106161 Poison - Medium - Innate +11
+106162 Poison - Medium - Innate +12
+106163 Poison - Medium - Innate +13
+106164 Poison - Medium - Innate +14
+106165 Poison - Medium - Innate +15
+106166 Poison - Medium - Innate +16
+106167 Poison - Medium - Innate +17
+106168 Poison - Medium - Innate +18
+106169 Poison - Medium - Innate +19
+106170 Poison - Medium - Innate +20
+106171 Poison - Medium - Innate +21
+106172 Poison - Medium - Innate +22
+106173 Poison - Medium - Innate +23
+106174 Poison - Medium - Innate +24
+106175 Poison - Medium - Innate +25
+106200 Poison - High - Addition +0
+106201 Poison - High - Addition +1
+106202 Poison - High - Addition +2
+106203 Poison - High - Addition +3
+106204 Poison - High - Addition +4
+106205 Poison - High - Addition +5
+106206 Poison - High - Addition +6
+106207 Poison - High - Addition +7
+106208 Poison - High - Addition +8
+106209 Poison - High - Addition +9
+106210 Poison - High - Addition +10
+106211 Poison - High - Addition +11
+106212 Poison - High - Addition +12
+106213 Poison - High - Addition +13
+106214 Poison - High - Addition +14
+106215 Poison - High - Addition +15
+106216 Poison - High - Addition +16
+106217 Poison - High - Addition +17
+106218 Poison - High - Addition +18
+106219 Poison - High - Addition +19
+106220 Poison - High - Addition +20
+106221 Poison - High - Addition +21
+106222 Poison - High - Addition +22
+106223 Poison - High - Addition +23
+106224 Poison - High - Addition +24
+106225 Poison - High - Addition +25
+106250 Poison - High - Innate +0
+106251 Poison - High - Innate +1
+106252 Poison - High - Innate +2
+106253 Poison - High - Innate +3
+106254 Poison - High - Innate +4
+106255 Poison - High - Innate +5
+106256 Poison - High - Innate +6
+106257 Poison - High - Innate +7
+106258 Poison - High - Innate +8
+106259 Poison - High - Innate +9
+106260 Poison - High - Innate +10
+106261 Poison - High - Innate +11
+106262 Poison - High - Innate +12
+106263 Poison - High - Innate +13
+106264 Poison - High - Innate +14
+106265 Poison - High - Innate +15
+106266 Poison - High - Innate +16
+106267 Poison - High - Innate +17
+106268 Poison - High - Innate +18
+106269 Poison - High - Innate +19
+106270 Poison - High - Innate +20
+106271 Poison - High - Innate +21
+106272 Poison - High - Innate +22
+106273 Poison - High - Innate +23
+106274 Poison - High - Innate +24
+106275 Poison - High - Innate +25
 107000 Scarlet Rot - Base 50/Cap 75
 107001 Scarlet Rot - Base 51/Cap 77
 107002 Scarlet Rot - Base 52/Cap 78
@@ -543,109 +1302,109 @@
 107074 Scarlet Rot - Base 167/Cap 251
 107075 Scarlet Rot - Base 170/Cap 255
 107100 Scarlet Rot - Base 255/Cap 0
-107101 
-107102 
-107103 
-107104 
-107105 
-107106 
-107107 
-107108 
-107109 
-107110 
-107111 
-107112 
-107113 
-107114 
-107115 
-107116 
-107117 
-107118 
-107119 
-107120 
-107121 
-107122 
-107123 
-107124 
-107125 
-107150 
-107151 
-107152 
-107153 
-107154 
-107155 
-107156 
-107157 
-107158 
-107159 
-107160 
-107161 
-107162 
-107163 
-107164 
-107165 
-107166 
-107167 
-107168 
-107169 
-107170 
-107171 
-107172 
-107173 
-107174 
-107175 
-107200 
-107201 
-107202 
-107203 
-107204 
-107205 
-107206 
-107207 
-107208 
-107209 
-107210 
-107211 
-107212 
-107213 
-107214 
-107215 
-107216 
-107217 
-107218 
-107219 
-107220 
-107221 
-107222 
-107223 
-107224 
-107225 
-107250 
-107251 
-107252 
-107253 
-107254 
-107255 
-107256 
-107257 
-107258 
-107259 
-107260 
-107261 
-107262 
-107263 
-107264 
-107265 
-107266 
-107267 
-107268 
-107269 
-107270 
-107271 
-107272 
-107273 
-107274 
-107275 
+107101 Scarlet Rot - Medium - Addition +1
+107102 Scarlet Rot - Medium - Addition +2
+107103 Scarlet Rot - Medium - Addition +3
+107104 Scarlet Rot - Medium - Addition +4
+107105 Scarlet Rot - Medium - Addition +5
+107106 Scarlet Rot - Medium - Addition +6
+107107 Scarlet Rot - Medium - Addition +7
+107108 Scarlet Rot - Medium - Addition +8
+107109 Scarlet Rot - Medium - Addition +9
+107110 Scarlet Rot - Medium - Addition +10
+107111 Scarlet Rot - Medium - Addition +11
+107112 Scarlet Rot - Medium - Addition +12
+107113 Scarlet Rot - Medium - Addition +13
+107114 Scarlet Rot - Medium - Addition +14
+107115 Scarlet Rot - Medium - Addition +15
+107116 Scarlet Rot - Medium - Addition +16
+107117 Scarlet Rot - Medium - Addition +17
+107118 Scarlet Rot - Medium - Addition +18
+107119 Scarlet Rot - Medium - Addition +19
+107120 Scarlet Rot - Medium - Addition +20
+107121 Scarlet Rot - Medium - Addition +21
+107122 Scarlet Rot - Medium - Addition +22
+107123 Scarlet Rot - Medium - Addition +23
+107124 Scarlet Rot - Medium - Addition +24
+107125 Scarlet Rot - Medium - Addition +25
+107150 Scarlet Rot - Medium - Innate +0
+107151 Scarlet Rot - Medium - Innate +1
+107152 Scarlet Rot - Medium - Innate +2
+107153 Scarlet Rot - Medium - Innate +3
+107154 Scarlet Rot - Medium - Innate +4
+107155 Scarlet Rot - Medium - Innate +5
+107156 Scarlet Rot - Medium - Innate +6
+107157 Scarlet Rot - Medium - Innate +7
+107158 Scarlet Rot - Medium - Innate +8
+107159 Scarlet Rot - Medium - Innate +9
+107160 Scarlet Rot - Medium - Innate +10
+107161 Scarlet Rot - Medium - Innate +11
+107162 Scarlet Rot - Medium - Innate +12
+107163 Scarlet Rot - Medium - Innate +13
+107164 Scarlet Rot - Medium - Innate +14
+107165 Scarlet Rot - Medium - Innate +15
+107166 Scarlet Rot - Medium - Innate +16
+107167 Scarlet Rot - Medium - Innate +17
+107168 Scarlet Rot - Medium - Innate +18
+107169 Scarlet Rot - Medium - Innate +19
+107170 Scarlet Rot - Medium - Innate +20
+107171 Scarlet Rot - Medium - Innate +21
+107172 Scarlet Rot - Medium - Innate +22
+107173 Scarlet Rot - Medium - Innate +23
+107174 Scarlet Rot - Medium - Innate +24
+107175 Scarlet Rot - Medium - Innate +25
+107200 Scarlet Rot - High - Addition +0
+107201 Scarlet Rot - High - Addition +1
+107202 Scarlet Rot - High - Addition +2
+107203 Scarlet Rot - High - Addition +3
+107204 Scarlet Rot - High - Addition +4
+107205 Scarlet Rot - High - Addition +5
+107206 Scarlet Rot - High - Addition +6
+107207 Scarlet Rot - High - Addition +7
+107208 Scarlet Rot - High - Addition +8
+107209 Scarlet Rot - High - Addition +9
+107210 Scarlet Rot - High - Addition +10
+107211 Scarlet Rot - High - Addition +11
+107212 Scarlet Rot - High - Addition +12
+107213 Scarlet Rot - High - Addition +13
+107214 Scarlet Rot - High - Addition +14
+107215 Scarlet Rot - High - Addition +15
+107216 Scarlet Rot - High - Addition +16
+107217 Scarlet Rot - High - Addition +17
+107218 Scarlet Rot - High - Addition +18
+107219 Scarlet Rot - High - Addition +19
+107220 Scarlet Rot - High - Addition +20
+107221 Scarlet Rot - High - Addition +21
+107222 Scarlet Rot - High - Addition +22
+107223 Scarlet Rot - High - Addition +23
+107224 Scarlet Rot - High - Addition +24
+107225 Scarlet Rot - High - Addition +25
+107250 Scarlet Rot - High - Innate +0
+107251 Scarlet Rot - High - Innate +1
+107252 Scarlet Rot - High - Innate +2
+107253 Scarlet Rot - High - Innate +3
+107254 Scarlet Rot - High - Innate +4
+107255 Scarlet Rot - High - Innate +5
+107256 Scarlet Rot - High - Innate +6
+107257 Scarlet Rot - High - Innate +7
+107258 Scarlet Rot - High - Innate +8
+107259 Scarlet Rot - High - Innate +9
+107260 Scarlet Rot - High - Innate +10
+107261 Scarlet Rot - High - Innate +11
+107262 Scarlet Rot - High - Innate +12
+107263 Scarlet Rot - High - Innate +13
+107264 Scarlet Rot - High - Innate +14
+107265 Scarlet Rot - High - Innate +15
+107266 Scarlet Rot - High - Innate +16
+107267 Scarlet Rot - High - Innate +17
+107268 Scarlet Rot - High - Innate +18
+107269 Scarlet Rot - High - Innate +19
+107270 Scarlet Rot - High - Innate +20
+107271 Scarlet Rot - High - Innate +21
+107272 Scarlet Rot - High - Innate +22
+107273 Scarlet Rot - High - Innate +23
+107274 Scarlet Rot - High - Innate +24
+107275 Scarlet Rot - High - Innate +25
 107500 Frostbite - Base 50/Cap 75
 107501 Frostbite - Base 51/Cap 77
 107502 Frostbite - Base 52/Cap 78
@@ -699,110 +1458,109 @@
 107574 Frostbite - Base 167/Cap 251
 107575 Frostbite - Base 170/Cap 255
 107600 Frostbite - Base 255/Cap 0
-107601 
-107602 
-107603 
-107604 
-107605 
-107606 
-107607 
-107608 
-107609 
-107610 
-107611 
-107612 
-107613 
-107614 
-107615 
-107616 
-107617 
-107618 
-107619 
-107620 
-107621 
-107622 
-107623 
-107624 
-107625 
-107650 
-107651 
-107652 
-107653 
-107654 
-107655 
-107656 
-107657 
-107658 
-107659 
-107660 
-107661 
-107662 
-107663 
-107664 
-107665 
-107666 
-107667 
-107668 
-107669 
-107670 
-107671 
-107672 
-107673 
-107674 
-107675 
-107700 
-107701 
-107702 
-107703 
-107704 
-107705 
-107706 
-107707 
-107708 
-107709 
-107710 
-107711 
-107712 
-107713 
-107714 
-107715 
-107716 
-107717 
-107718 
-107719 
-107720 
-107721 
-107722 
-107723 
-107724 
-107725 
-107750 
-107751 
-107752 
-107753 
-107754 
-107755 
-107756 
-107757 
-107758 
-107759 
-107760 
-107761 
-107762 
-107763 
-107764 
-107765 
-107766 
-107767 
-107768 
-107769 
-107770 
-107771 
-107772 
-107773 
-107774 
-107775 
-108 Grace - Remove Sleep
+107601 Frostbite - Medium - Addition +1
+107602 Frostbite - Medium - Addition +2
+107603 Frostbite - Medium - Addition +3
+107604 Frostbite - Medium - Addition +4
+107605 Frostbite - Medium - Addition +5
+107606 Frostbite - Medium - Addition +6
+107607 Frostbite - Medium - Addition +7
+107608 Frostbite - Medium - Addition +8
+107609 Frostbite - Medium - Addition +9
+107610 Frostbite - Medium - Addition +10
+107611 Frostbite - Medium - Addition +11
+107612 Frostbite - Medium - Addition +12
+107613 Frostbite - Medium - Addition +13
+107614 Frostbite - Medium - Addition +14
+107615 Frostbite - Medium - Addition +15
+107616 Frostbite - Medium - Addition +16
+107617 Frostbite - Medium - Addition +17
+107618 Frostbite - Medium - Addition +18
+107619 Frostbite - Medium - Addition +19
+107620 Frostbite - Medium - Addition +20
+107621 Frostbite - Medium - Addition +21
+107622 Frostbite - Medium - Addition +22
+107623 Frostbite - Medium - Addition +23
+107624 Frostbite - Medium - Addition +24
+107625 Frostbite - Medium - Addition +25
+107650 Frostbite - Medium - Innate +0
+107651 Frostbite - Medium - Innate +1
+107652 Frostbite - Medium - Innate +2
+107653 Frostbite - Medium - Innate +3
+107654 Frostbite - Medium - Innate +4
+107655 Frostbite - Medium - Innate +5
+107656 Frostbite - Medium - Innate +6
+107657 Frostbite - Medium - Innate +7
+107658 Frostbite - Medium - Innate +8
+107659 Frostbite - Medium - Innate +9
+107660 Frostbite - Medium - Innate +10
+107661 Frostbite - Medium - Innate +11
+107662 Frostbite - Medium - Innate +12
+107663 Frostbite - Medium - Innate +13
+107664 Frostbite - Medium - Innate +14
+107665 Frostbite - Medium - Innate +15
+107666 Frostbite - Medium - Innate +16
+107667 Frostbite - Medium - Innate +17
+107668 Frostbite - Medium - Innate +18
+107669 Frostbite - Medium - Innate +19
+107670 Frostbite - Medium - Innate +20
+107671 Frostbite - Medium - Innate +21
+107672 Frostbite - Medium - Innate +22
+107673 Frostbite - Medium - Innate +23
+107674 Frostbite - Medium - Innate +24
+107675 Frostbite - Medium - Innate +25
+107700 Frostbite - High - Addition +0
+107701 Frostbite - High - Addition +1
+107702 Frostbite - High - Addition +2
+107703 Frostbite - High - Addition +3
+107704 Frostbite - High - Addition +4
+107705 Frostbite - High - Addition +5
+107706 Frostbite - High - Addition +6
+107707 Frostbite - High - Addition +7
+107708 Frostbite - High - Addition +8
+107709 Frostbite - High - Addition +9
+107710 Frostbite - High - Addition +10
+107711 Frostbite - High - Addition +11
+107712 Frostbite - High - Addition +12
+107713 Frostbite - High - Addition +13
+107714 Frostbite - High - Addition +14
+107715 Frostbite - High - Addition +15
+107716 Frostbite - High - Addition +16
+107717 Frostbite - High - Addition +17
+107718 Frostbite - High - Addition +18
+107719 Frostbite - High - Addition +19
+107720 Frostbite - High - Addition +20
+107721 Frostbite - High - Addition +21
+107722 Frostbite - High - Addition +22
+107723 Frostbite - High - Addition +23
+107724 Frostbite - High - Addition +24
+107725 Frostbite - High - Addition +25
+107750 Frostbite - High - Innate +0
+107751 Frostbite - High - Innate +1
+107752 Frostbite - High - Innate +2
+107753 Frostbite - High - Innate +3
+107754 Frostbite - High - Innate +4
+107755 Frostbite - High - Innate +5
+107756 Frostbite - High - Innate +6
+107757 Frostbite - High - Innate +7
+107758 Frostbite - High - Innate +8
+107759 Frostbite - High - Innate +9
+107760 Frostbite - High - Innate +10
+107761 Frostbite - High - Innate +11
+107762 Frostbite - High - Innate +12
+107763 Frostbite - High - Innate +13
+107764 Frostbite - High - Innate +14
+107765 Frostbite - High - Innate +15
+107766 Frostbite - High - Innate +16
+107767 Frostbite - High - Innate +17
+107768 Frostbite - High - Innate +18
+107769 Frostbite - High - Innate +19
+107770 Frostbite - High - Innate +20
+107771 Frostbite - High - Innate +21
+107772 Frostbite - High - Innate +22
+107773 Frostbite - High - Innate +23
+107774 Frostbite - High - Innate +24
+107775 Frostbite - High - Innate +25
 108000 Blight - Base 50/Cap 75
 108001 Blight - Base 51/Cap 77
 108002 Blight - Base 52/Cap 78
@@ -856,406 +1614,109 @@
 108074 Blight - Base 167/Cap 251
 108075 Blight - Base 170/Cap 255
 108100 Blight - Base 255/Cap 0
-108101 
-108102 
-108103 
-108104 
-108105 
-108106 
-108107 
-108108 
-108109 
-108110 
-108111 
-108112 
-108113 
-108114 
-108115 
-108116 
-108117 
-108118 
-108119 
-108120 
-108121 
-108122 
-108123 
-108124 
-108125 
-108150 
-108151 
-108152 
-108153 
-108154 
-108155 
-108156 
-108157 
-108158 
-108159 
-108160 
-108161 
-108162 
-108163 
-108164 
-108165 
-108166 
-108167 
-108168 
-108169 
-108170 
-108171 
-108172 
-108173 
-108174 
-108175 
-108200 
-108201 
-108202 
-108203 
-108204 
-108205 
-108206 
-108207 
-108208 
-108209 
-108210 
-108211 
-108212 
-108213 
-108214 
-108215 
-108216 
-108217 
-108218 
-108219 
-108220 
-108221 
-108222 
-108223 
-108224 
-108225 
-108250 
-108251 
-108252 
-108253 
-108254 
-108255 
-108256 
-108257 
-108258 
-108259 
-108260 
-108261 
-108262 
-108263 
-108264 
-108265 
-108266 
-108267 
-108268 
-108269 
-108270 
-108271 
-108272 
-108273 
-108274 
-108275 
-109 Grace - Remove Blight
-10945 Warhawk - Bullet
-11 Bloody Finger - Attempt Invasion
-11010 Tarnished's Furled Finger
-11030 Duelist's Furled Finger
-11140 Commander - Glory Attack
-11141 Commander - Glory Defend
-11657 Nox Swordstress
-11691 Nox Swordstress/Silver Tear - Bullet
-11954 Writhing Mass - Bullet
-11971 Vulgar Militia - Bullet
-12000 Large Enchanted Hand - Bullet
-12018 Giant Enchanted Hand
-125 Torrent
-126 Torrent
-13020 Wolf - Bullet
-13025 Wolf
-13067 Castle Soldier
-13120 Alabaster Lord - Bullet
-13121 Alabaster Lord - Bullet
-13153 Ancestral Follower - Bullet
-13154 Ancestral Follower - Bullet
-13156 Ancestral Follower Shaman - Bullet
-13164 Ancestral Follower
-13175 Ancestral Follower - Winged Greathorn
-13191 Ancestral Follower - HP Restore
-13258 Mad Pumpkin Head/Grinning Torturer - Bullet
-13296 Castle Soldier
-13462 Putrid Corpse - Explosion
-13617 Ancestor Spirit - Drain Attack
-13780 Tree Sentinel - Sacred Vow Self
-13782 Tree Sentinel - Sacred Vow Ally
-13855 Cleanrot Knight - Bullet - Buff
-13856 Cleanrot Knight - Bullet - Buff
-14016 Monstrous Crow - Bullet
-14028 Monstrous Dog - Bullet
-1413000 [Sorcery] Terra Magicus
-1414000 [Sorcery] Starlight
-14351 [Rennala]
-14352 [Rennala]
-14353 [Rennala]
-14354 [Rennala]
-1436000 [Sorcery] Rennala's Full Moon
-1436100 [Sorcery] Ranni's Dark Moon (Self)
-14386 Rennala Student - Main Target
-1440000 [Sorcery] Glintstone Icecrag (Self)
-14405 Depraved Perfumer - Shield Bullet
-14406 Depraved Perfumer - Bullet
-1441000 [Sorcery] Zamor Ice Storm (Self)
-1442000 [Sorcery] Freezing Mist (Self)
-1443101 
-14435 Depraved Perfumer
-14439 Depraved Perfumer
-1446000 [Sorcery] Scholar's Armament
-1447000 [Sorcery] Scholar's Shield
-1447001 [Sorcery] Scholar's Shield [Cycle]
-1448000 [Sorcery] Lucidity
-1448001 [Sorcery] Lucidity
-1448002 [Sorcery] Lucidity
-1448003 [Sorcery] Lucidity
-1449000 [Sorcery] Frozen Armament (Self)
-1449001 
-14553 Blaidd the Half-Wolf - Bullet
-14577 Rennala - Bullet
-14596 Rennala 2 - Bullet Magic DEF Down
-1466000 [Sorcery] Unseen Blade
-1467000 [Sorcery] Unseen Form
-1467001 [Sorcery] Unseen Form
-1467002 [Sorcery] Unseen Form
-1467005 [Sorcery] Unseen Form
-1467006 [Sorcery] Unseen Form
-14898 Ancient Dragon - Lich Close Trigger Shock
-1490010 [Sorcery] Briars of Sin
-1491010 [Sorcery] Briars of Punishment
-1501000 [Sorcery] Explosive Ghostflame (Self)
-1501001 
-1502000 [Sorcery] Fia's Mist (Self)
-1504000 [Incantation] Death Lightning (Self)
-1504001 
-1525 Erdtree Greatshield - Bullet
-15321 Tibia Mariner - Bullet
-15322 Tibia Mariner - Bullet [Chain]
-1545 Winged Greathorn - Bullet
-15452 Godskin Apostle - Sleep Awake
-15467 Godskin Apostle - Lifedrain
-15511 Godskin Noble
-1576 Ash of War - Royal Greatsword
-16 Festering/Recusant Finger - Attempt Invasion
-1621000 [Incantation] Black Flame (DoT Black)
-1623000 [Incantation] Scouring Black Flame (DoT Black)
-1624000 [Incantation] Noble Presence
-1624010 [Incantation] Noble Presence (DoT Black)
-1625 Mohgwyn's Sacred Spear - Bullet
-1625000 [Incantation] Black Flame Ritual (DoT Black)
-1626000 [Incantation] Black Flame Blade
-1626001 [Incantation] Black Flame Blade (DoT Black)
-1627000 [Incantation] Black Flame's Protection
-1627001 [Incantation] Black Flame's Protection
-1630000 [Incantation] Bloodflame Talons (Self)
-1630001 [Incantation] Bloodflame Talons [Cycle]
-1631000 [Incantation] Bloodboon (Self)
-1631001 [Incantation] Bloodboon [Cycle]
-16316 
-1632000 [Incantation] Bloodflame Blade (Self)
-1632001 [Incantation] Bloodflame Blade [Cycle]
-1633000 [Incantation] Barrier of Gold
-1634000 [Incantation] Protection of the Erdtree
-1640000 [Incantation] Rejection
-1641000 [Incantation] Wrath of Gold
-16414 Elemer of the Briar
-1642000 [Incantation] Urgent Heal
-1642001 [Incantation] Urgent Heal - Allies
-1642100 [Incantation] Heal
-1642101 [Incantation] Heal - Allies
-1642200 [Incantation] Great Heal
-1642201 [Incantation] Great Heal - Allies
-1642300 [Incantation] Lord's Heal
-1642301 [Incantation] Lord's Heal - Allies
-1642400 [Incantation] Erdtree Heal
-1642401 [Incantation] Erdtree Heal - Allies
-1643000 [Incantation] Blessing's Boon
-1643001 [Incantation] Blessing's Boon - Allies
-1643100 [Incantation] Blessing of the Erdtree
-1643101 [Incantation] Blessing of the Erdtree - Allies
-1644000 [Incantation] Cure Poison
-1644001 [Incantation] Cure Poison
-1644100 [Incantation] Lord's Aid
-1644101 [Incantation] Lord's Aid
-1644102 [Incantation] Lord's Aid
-1644103 [Incantation] Lord's Aid
-1644104 [Incantation] Lord's Aid
-1644105 [Incantation] Lord's Aid
-1644110 [Incantation] Lord's Aid
-1644111 [Incantation] Lord's Aid
-1644112 [Incantation] Lord's Aid
-1644113 [Incantation] Lord's Aid
-1644114 [Incantation] Lord's Aid
-1644115 [Incantation] Lord's Aid
-1645000 [Incantation] Flame Fortification
-1646000 [Incantation] Magic Fortification
-1647000 [Incantation] Lightning Fortification
-1648000 [Incantation] Divine Fortification
-16482 Fallingstar Beast - Ground AoE Alert
-16488 Fallingstar Beast
-1649000 [Incantation] Lord's Divine Fortification
-1650000 [Sorcery] Night Maiden's Mist
-1651000 [Incantation] Assassin's Approach
-1651001 [Incantation] Assassin's Approach [Cycle]
-1651002 [Incantation] Assassin's Approach
-1653000 [Incantation] Darkness
-1653001 [Incantation] Darkness [Chain]
-1660000 [Incantation] Golden Vow
-1660001 [Incantation] Golden Vow [Cycle]
-1660002 [Incantation] Golden Vow
-1673000 [Incantation] Law of Regression
-1673001 [Incantation] Law of Regression
-1673002 [Incantation] Law of Regression
-1673003 [Incantation] Law of Regression
-1673004 [Incantation] Law of Regression
-1673005 [Incantation] Law of Regression
-1673006 [Incantation] Law of Regression
-1673007 [Incantation] Law of Regression
-1673008 [Incantation] Law of Regression
-1673009 [Incantation] Law of Regression
-1673010 [Incantation] Law of Regression
-1673011 [Incantation] Law of Regression
-1673012 [Incantation] Law of Regression
-1673013 [Incantation] Law of Regression
-1673014 [Incantation] Law of Regression
-1673020 [Incantation] Law of Regression
-1673021 [Incantation] Law of Regression
-1673022 [Incantation] Law of Regression
-1673023 [Incantation] Law of Regression
-1673024 [Incantation] Law of Regression
-1673025 [Incantation] Law of Regression
-1673026 [Incantation] Law of Regression
-1673027 [Incantation] Law of Regression
-1673028 [Incantation] Law of Regression
-1673029 [Incantation] Law of Regression
-1673030 [Incantation] Law of Regression
-1673031 [Incantation] Law of Regression
-1673032 [Incantation] Law of Regression
-1673033 [Incantation] Law of Regression
-1673034 [Incantation] Law of Regression
-1674000 [Incantation] Immutable Shield
-1674001 [Incantation] Immutable Shield [Cycle]
-1674002 [Incantation] Immutable Shield
-1675000 [Incantation] Litany of Proper Death
-1676000 [Incantation] Law of Causality
-1676005 [Incantation] Law of Causality [Chain]
-1676006 [Incantation] Law of Causality [Chain]
-1676007 [Incantation] Law of Causality [Chain]
-1676008 [Incantation] Law of Causality [Chain]
-1676009 [Incantation] Law of Causality [Chain]
-1676010 [Incantation] Law of Causality
-1676011 [Incantation] Law of Causality [Chain]
-1677000 [Incantation] Order's Blade
-1678000 [Incantation] Order Healing
-1678001 [Incantation] Order Healing
-1685000 [Incantation] Bestial Vitality
-1686000 [Incantation] Bestial Constitution
-1686001 [Incantation] Bestial Constitution
-1686002 [Incantation] Bestial Constitution
-1686003 [Incantation] Bestial Constitution
-1692100 [Incantation] Frozen Lightning Spear (Self)
-1696000 [Incantation] Electrify Armament
-1697000 [Incantation] Vyke's Dragonbolt
-1697001 [Incantation] Vyke's Dragonbolt
-1697002 [Incantation] Vyke's Dragonbolt [Cycle]
-1697100 [Incantation] Dragonbolt Blessing
-1697101 [Incantation] Dragonbolt Blessing [Cycle]
-1702000 [Incantation] Dragonice (Self)
-1702100 [Incantation] Borealis's Mist (Self)
-1703000 [Incantation] Rotten Breath (Self)
-1703100 [Incantation] Ekzyke's Decay (Self)
-1709000 [Incantation] Greyoll's Roar
-17171 Imp
-1722000 [Incantation] Poison Mist (Self)
-1723000 [Incantation] Poison Armament (Self)
-1724000 [Incantation] Scarlet Aeonia (Self)
-1731000 [Incantation] The Flame of Frenzy
-1731001 [Incantation] The Flame of Frenzy
-1731100 [Incantation] Unendurable Frenzy
-1731101 [Incantation] Unendurable Frenzy (Self)
-1732000 [Incantation] Frenzied Burst
-1732001 [Incantation] Frenzied Burst
-1733000 [Incantation] Howl of Shabriri
-1733001 [Incantation] Howl of Shabriri
-1733002 [Incantation] Howl of Shabriri (Self)
-1733005 [Incantation] Howl of Shabriri
-1733006 [Incantation] Howl of Shabriri
-1733007 [Incantation] Howl of Shabriri
-17654 Death Rite Bird - Bullet
-1768 Commander's Standard - Bullet
-1769 Commander's Standard - Bullet - Allies
-1770 Commander's Standard - Effect
-1789 Ash of War - Death Flare
-1790000 [Incantation] Fire's Deadly Sin
-1790001 [Incantation] Fire's Deadly Sin
-1790002 [Incantation] Fire's Deadly Sin
-1790003 [Incantation] Fire's Deadly Sin
-1790010 [Incantation] Fire's Deadly Sin
-1790011 [Incantation] Fire's Deadly Sin
-1790012 [Incantation] Fire's Deadly Sin
-1790300 [Incantation] Golden Lightning Fortification
-18400 Malenia: HP Recovery on ?
-18401 Malenia: HP Recovery on ?
-18402 Malenia: HP Recovery on ?
-18403 Malenia: HP Recovery on ?
-18404 Malenia: HP Recovery on Phase Change
-18405 Malenia: HP Recovery on ?
-18410 Malenia: HP Recovery on Hit
-18411 Malenia: HP Recovery on Hit
-18412 Malenia: HP Recovery on Hit
-18413 Malenia: HP Recovery on Hit
-18414 Malenia: HP Recovery on Hit
-18415 Malenia: HP Recovery on Hit
-18416 Malenia: HP Recovery on Hit
-18417 Malenia: HP Recovery on Grab
-18418 Malenia: HP Recovery on Hit
-18419 Malenia: HP Recovery on ?
-18430 Malenia: Rot 180
-18431 Malenia: Rot 90
-18432 Malenia: Rot 120
-18433 Malenia: Rot 60
-18454 Malenia - Bullet
-1855 Sword of Milos - Bullet
-1856 Sword of Milos - Bullet
-18699 
-18731 Melina - HP Recovery
-1885 Sword of St. Trina - Bullet
-1896 Devourer's Scepter - Bullet
-1897 Scepter of the All-Knowing - Bullet Knowledge Above All
-1910 Carian Regal Scepter - Boost Damage
-1911 Dark Glintstone Staff - Boost Damage
-1912 Carian Glintblade Staff - Boost Damage
-1913 Digger's Staff - Boost Damage
-1914 Crystal Staff - Boost Damage
-1917 Gelmir Glintstone Staff - Boost Damage
-1918 Staff of the Guilty - Boost Damage
-1919 Prince of Death's Staff - Boost Damage
-1920 Meteorite Staff - Boost Damage
-1921 Staff of Loss - Boost Damage
-1922 Godslayer's Seal - Boost Damage
-1923 Giant's Seal - Boost Damage
-1924 Gravel Stone Seal - Boost Damage
-1925 Clawmark Seal - Boost Damage
-1926 Golden Order Seal - Boost Damage
-1927 Dragon Communion Seal - Boost Damage
-1928 Frenzied Flame Seal - Boost Damage
-1933 Azur's Glintstone Staff - Effect
-1934 Lusat's Glintstone Staff - Effect
-1937 Lion Greatbow
-1938 Serpent Bow
-1939 Serpent Bow [Attack]
-1940 Bow
-20000 NPC: Poison
+108101 Blight - Medium - Addition +1
+108102 Blight - Medium - Addition +2
+108103 Blight - Medium - Addition +3
+108104 Blight - Medium - Addition +4
+108105 Blight - Medium - Addition +5
+108106 Blight - Medium - Addition +6
+108107 Blight - Medium - Addition +7
+108108 Blight - Medium - Addition +8
+108109 Blight - Medium - Addition +9
+108110 Blight - Medium - Addition +10
+108111 Blight - Medium - Addition +11
+108112 Blight - Medium - Addition +12
+108113 Blight - Medium - Addition +13
+108114 Blight - Medium - Addition +14
+108115 Blight - Medium - Addition +15
+108116 Blight - Medium - Addition +16
+108117 Blight - Medium - Addition +17
+108118 Blight - Medium - Addition +18
+108119 Blight - Medium - Addition +19
+108120 Blight - Medium - Addition +20
+108121 Blight - Medium - Addition +21
+108122 Blight - Medium - Addition +22
+108123 Blight - Medium - Addition +23
+108124 Blight - Medium - Addition +24
+108125 Blight - Medium - Addition +25
+108150 Blight - Medium - Innate +0
+108151 Blight - Medium - Innate +1
+108152 Blight - Medium - Innate +2
+108153 Blight - Medium - Innate +3
+108154 Blight - Medium - Innate +4
+108155 Blight - Medium - Innate +5
+108156 Blight - Medium - Innate +6
+108157 Blight - Medium - Innate +7
+108158 Blight - Medium - Innate +8
+108159 Blight - Medium - Innate +9
+108160 Blight - Medium - Innate +10
+108161 Blight - Medium - Innate +11
+108162 Blight - Medium - Innate +12
+108163 Blight - Medium - Innate +13
+108164 Blight - Medium - Innate +14
+108165 Blight - Medium - Innate +15
+108166 Blight - Medium - Innate +16
+108167 Blight - Medium - Innate +17
+108168 Blight - Medium - Innate +18
+108169 Blight - Medium - Innate +19
+108170 Blight - Medium - Innate +20
+108171 Blight - Medium - Innate +21
+108172 Blight - Medium - Innate +22
+108173 Blight - Medium - Innate +23
+108174 Blight - Medium - Innate +24
+108175 Blight - Medium - Innate +25
+108200 Blight - High - Addition +0
+108201 Blight - High - Addition +1
+108202 Blight - High - Addition +2
+108203 Blight - High - Addition +3
+108204 Blight - High - Addition +4
+108205 Blight - High - Addition +5
+108206 Blight - High - Addition +6
+108207 Blight - High - Addition +7
+108208 Blight - High - Addition +8
+108209 Blight - High - Addition +9
+108210 Blight - High - Addition +10
+108211 Blight - High - Addition +11
+108212 Blight - High - Addition +12
+108213 Blight - High - Addition +13
+108214 Blight - High - Addition +14
+108215 Blight - High - Addition +15
+108216 Blight - High - Addition +16
+108217 Blight - High - Addition +17
+108218 Blight - High - Addition +18
+108219 Blight - High - Addition +19
+108220 Blight - High - Addition +20
+108221 Blight - High - Addition +21
+108222 Blight - High - Addition +22
+108223 Blight - High - Addition +23
+108224 Blight - High - Addition +24
+108225 Blight - High - Addition +25
+108250 Blight - High - Innate +0
+108251 Blight - High - Innate +1
+108252 Blight - High - Innate +2
+108253 Blight - High - Innate +3
+108254 Blight - High - Innate +4
+108255 Blight - High - Innate +5
+108256 Blight - High - Innate +6
+108257 Blight - High - Innate +7
+108258 Blight - High - Innate +8
+108259 Blight - High - Innate +9
+108260 Blight - High - Innate +10
+108261 Blight - High - Innate +11
+108262 Blight - High - Innate +12
+108263 Blight - High - Innate +13
+108264 Blight - High - Innate +14
+108265 Blight - High - Innate +15
+108266 Blight - High - Innate +16
+108267 Blight - High - Innate +17
+108268 Blight - High - Innate +18
+108269 Blight - High - Innate +19
+108270 Blight - High - Innate +20
+108271 Blight - High - Innate +21
+108272 Blight - High - Innate +22
+108273 Blight - High - Innate +23
+108274 Blight - High - Innate +24
+108275 Blight - High - Innate +25
 200000 Black Knife Tiche
 200001 Black Knife Tiche +1
 200002 Black Knife Tiche +2
@@ -1266,26 +1727,7 @@
 200007 Black Knife Tiche +7
 200008 Black Knife Tiche +8
 200009 Black Knife Tiche +9
-20001 NPC: Poison
 200010 Black Knife Tiche +10
-20002 NPC: Poison
-20003 NPC: Poison
-20004 NPC: Poison
-20005 NPC: Poison
-20006 NPC: Poison
-20007 NPC: Poison
-20008 NPC: Poison
-20009 NPC: Poison
-20010 NPC: Poison
-20011 NPC: Poison
-20012 NPC: Poison
-20013 NPC: Poison
-20014 NPC: Poison
-20015 NPC: Poison
-20016 NPC: Poison
-20017 NPC: Poison
-20018 NPC: Poison
-20019 NPC: Poison
 201000 Banished Knight Oleg
 201001 Banished Knight Oleg +1
 201002 Banished Knight Oleg +2
@@ -1297,24 +1739,6 @@
 201008 Banished Knight Oleg +8
 201009 Banished Knight Oleg +9
 201010 Banished Knight Oleg +10
-20110 NPC: Poison
-20120 NPC: Poison
-20130 NPC: Poison
-20140 NPC: Poison
-20141 NPC: Poison
-20142 NPC: Poison
-20150 NPC: Poison
-20151 NPC: Poison
-20152 NPC: Poison
-20160 NPC: Poison
-20161 NPC: Poison
-20162 NPC: Poison
-20163 NPC: Poison
-20170 NPC: Poison
-20175 NPC: Poison
-20180 NPC: Poison
-20181 NPC: Poison
-20190 NPC: Poison
 202000 Banished Knight Engvall
 202001 Banished Knight Engvall +1
 202002 Banished Knight Engvall +2
@@ -1348,7 +1772,6 @@
 204008 Latenna the Albinauric +8
 204009 Latenna the Albinauric +9
 204010 Latenna the Albinauric +10
-20500 NPC: Fast Poison
 205000 Nomad Ashes
 205001 Nomad Ashes +1
 205002 Nomad Ashes +2
@@ -1359,27 +1782,7 @@
 205007 Nomad Ashes +7
 205008 Nomad Ashes +8
 205009 Nomad Ashes +9
-20501 NPC: Fast Poison
 205010 Nomad Ashes +10
-20502 NPC: Fast Poison
-20503 NPC: Fast Poison
-20504 NPC: Fast Poison
-20505 NPC: Fast Poison
-20506 NPC: Fast Poison
-20507 NPC: Fast Poison
-20508 NPC: Fast Poison
-20509 NPC: Fast Poison
-20510 NPC: Fast Poison
-20511 NPC: Fast Poison
-20512 NPC: Fast Poison
-20513 NPC: Fast Poison
-20514 NPC: Fast Poison
-20515 NPC: Fast Poison
-20516 NPC: Fast Poison
-20517 NPC: Fast Poison
-20518 NPC: Fast Poison
-20519 NPC: Fast Poison
-20600 NPC: Fast Poison - Affect Self
 206000 Nightmaiden & Swordstress Puppets
 206001 Nightmaiden & Swordstress Puppets +1
 206002 Nightmaiden & Swordstress Puppets +2
@@ -1424,7 +1827,6 @@
 209008 Ancestral Follower Ashes +8
 209009 Ancestral Follower Ashes +9
 209010 Ancestral Follower Ashes +10
-21000 NPC: Scarlet Rot
 210000 Winged Misbegotten Ashes
 210001 Winged Misbegotten Ashes + 1
 210002 Winged Misbegotten Ashes + 2
@@ -1435,27 +1837,7 @@
 210007 Winged Misbegotten Ashes + 7
 210008 Winged Misbegotten Ashes + 8
 210009 Winged Misbegotten Ashes + 9
-21001 NPC: Scarlet Rot
 210010 Winged Misbegotten Ashes + 10
-21002 NPC: Scarlet Rot
-21003 NPC: Scarlet Rot
-21004 NPC: Scarlet Rot
-21005 NPC: Scarlet Rot
-21006 NPC: Scarlet Rot
-21007 NPC: Scarlet Rot
-21008 NPC: Scarlet Rot
-21009 NPC: Scarlet Rot
-21010 NPC: Scarlet Rot
-21011 NPC: Scarlet Rot
-21012 NPC: Scarlet Rot
-21013 NPC: Scarlet Rot
-21014 NPC: Scarlet Rot
-21015 NPC: Scarlet Rot
-21016 NPC: Scarlet Rot
-21017 NPC: Scarlet Rot
-21018 NPC: Scarlet Rot
-21019 NPC: Scarlet Rot
-21100 NPC: Scarlet Rot
 211000 Albinauric Ashes
 211001 Albinauric Ashes +1
 211002 Albinauric Ashes +2
@@ -1466,9 +1848,7 @@
 211007 Albinauric Ashes +7
 211008 Albinauric Ashes +8
 211009 Albinauric Ashes +9
-21101 NPC: Scarlet Rot
 211010 Albinauric Ashes +10
-21102 NPC: Scarlet Rot
 212000 Skeletal Militiaman Ashes
 212001 Skeletal Militiaman Ashes +1
 212002 Skeletal Militiaman Ashes +2
@@ -1557,7 +1937,6 @@
 219008 Twinsage Sorcerer Ashes +8
 219009 Twinsage Sorcerer Ashes +9
 219010 Twinsage Sorcerer Ashes +10
-22000 NPC: Hemorrhage
 220000 Page Ashes
 220001 Page Ashes +1
 220002 Page Ashes +2
@@ -1568,27 +1947,7 @@
 220007 Page Ashes +7
 220008 Page Ashes +8
 220009 Page Ashes +9
-22001 NPC: Hemorrhage
 220010 Page Ashes +10
-22002 NPC: Hemorrhage
-22003 NPC: Hemorrhage
-22004 NPC: Hemorrhage
-22005 NPC: Hemorrhage
-22006 NPC: Hemorrhage
-22007 NPC: Hemorrhage
-22008 NPC: Hemorrhage
-22009 NPC: Hemorrhage
-22010 NPC: Hemorrhage
-22011 NPC: Hemorrhage
-22012 NPC: Hemorrhage
-22013 NPC: Hemorrhage
-22014 NPC: Hemorrhage
-22015 NPC: Hemorrhage
-22016 NPC: Hemorrhage
-22017 NPC: Hemorrhage
-22018 NPC: Hemorrhage
-22019 NPC: Hemorrhage
-22100 NPC: Maggots - Hemorrhage
 221000 Battlemage Hugues
 221001 Battlemage Hugues +1
 221002 Battlemage Hugues +2
@@ -1599,15 +1958,7 @@
 221007 Battlemage Hugues +7
 221008 Battlemage Hugues +8
 221009 Battlemage Hugues +9
-22101 NPC: Maggots - Hemorrhage
 221010 Battlemage Hugues +10
-22110 NPC: Maggots - Hemorrhage
-22111 NPC: Maggots - Hemorrhage
-22120 NPC: Maggots - Hemorrhage
-22130 NPC: Maggots - Hemorrhage
-22131 NPC: Maggots - Hemorrhage
-22132 NPC: Maggots - Hemorrhage
-22133 NPC: Maggots - Hemorrhage
 222000 Clayman Ashes
 222001 Clayman Ashes +1
 222002 Clayman Ashes +2
@@ -1696,7 +2047,6 @@
 229008 Man-Serpent Ashes +8
 229009 Man-Serpent Ashes +9
 229010 Man-Serpent Ashes +10
-23000 NPC: Blight
 230000 Azula Beastman Ashes
 230001 Azula Beastman Ashes +1
 230002 Azula Beastman Ashes +2
@@ -1707,27 +2057,7 @@
 230007 Azula Beastman Ashes +7
 230008 Azula Beastman Ashes +8
 230009 Azula Beastman Ashes +9
-23001 NPC: Blight
 230010 Azula Beastman Ashes +10
-23002 NPC: Blight
-23003 NPC: Blight
-23004 NPC: Blight
-23005 NPC: Blight
-23006 NPC: Blight
-23007 NPC: Blight
-23008 NPC: Blight
-23009 NPC: Blight
-23010 NPC: Blight
-23011 NPC: Blight
-23012 NPC: Blight
-23013 NPC: Blight
-23014 NPC: Blight
-23015 NPC: Blight
-23016 NPC: Blight
-23017 NPC: Blight
-23018 NPC: Blight
-23019 NPC: Blight
-23100 NPC: Blight
 231000 Kaiden Sellsword Ashes
 231001 Kaiden Sellsword Ashes +1
 231002 Kaiden Sellsword Ashes +2
@@ -1738,14 +2068,7 @@
 231007 Kaiden Sellsword Ashes +7
 231008 Kaiden Sellsword Ashes +8
 231009 Kaiden Sellsword Ashes +9
-23101 NPC: Blight
 231010 Kaiden Sellsword Ashes +10
-23102 NPC: Blight
-23110 NPC: Blight
-23111 NPC: Blight
-23112 NPC: Blight
-23113 NPC: Blight
-23150 NPC: Blight
 232000 Lone Wolf Ashes
 232001 Lone Wolf Ashes +1
 232002 Lone Wolf Ashes +2
@@ -1834,7 +2157,6 @@
 239008 Bloodhound Knight Floh +8
 239009 Bloodhound Knight Floh +9
 239010 Bloodhound Knight Floh +10
-24000 NPC: Frostbite
 240000 Wandering Noble Ashes
 240001 Wandering Noble Ashes +1
 240002 Wandering Noble Ashes +2
@@ -1845,26 +2167,7 @@
 240007 Wandering Noble Ashes +7
 240008 Wandering Noble Ashes +8
 240009 Wandering Noble Ashes +9
-24001 NPC: Frostbite
 240010 Wandering Noble Ashes +10
-24002 NPC: Frostbite
-24003 NPC: Frostbite
-24004 NPC: Frostbite
-24005 NPC: Frostbite
-24006 NPC: Frostbite
-24007 NPC: Frostbite
-24008 NPC: Frostbite
-24009 NPC: Frostbite
-24010 NPC: Frostbite
-24011 NPC: Frostbite
-24012 NPC: Frostbite
-24013 NPC: Frostbite
-24014 NPC: Frostbite
-24015 NPC: Frostbite
-24016 NPC: Frostbite
-24017 NPC: Frostbite
-24018 NPC: Frostbite
-24019 NPC: Frostbite
 241000 Noble Sorcerer Ashes
 241001 Noble Sorcerer Ashes +1
 241002 Noble Sorcerer Ashes +2
@@ -1876,13 +2179,6 @@
 241008 Noble Sorcerer Ashes +8
 241009 Noble Sorcerer Ashes +9
 241010 Noble Sorcerer Ashes +10
-24130 NPC: Frostbite
-24131 NPC: Frostbite
-24132 NPC: Frostbite
-24140 NPC: Frostbite
-24150 NPC: Frostbite
-24160 NPC: Frostbite
-24170 NPC: Frostbite
 242000 Vulgar Militia Ashes
 242001 Vulgar Militia Ashes +1
 242002 Vulgar Militia Ashes +2
@@ -1971,7 +2267,6 @@
 249008 Archer Ashes +8
 249009 Archer Ashes +9
 249010 Archer Ashes +10
-25000 NPC: Sleep
 250000 Godrick Soldier Ashes
 250001 Godrick Soldier Ashes +1
 250002 Godrick Soldier Ashes +2
@@ -1982,26 +2277,7 @@
 250007 Godrick Soldier Ashes +7
 250008 Godrick Soldier Ashes +8
 250009 Godrick Soldier Ashes +9
-25001 NPC: Sleep
 250010 Godrick Soldier Ashes +10
-25002 NPC: Sleep
-25003 NPC: Sleep
-25004 NPC: Sleep
-25005 NPC: Sleep
-25006 NPC: Sleep
-25007 NPC: Sleep
-25008 NPC: Sleep
-25009 NPC: Sleep
-25010 NPC: Sleep
-25011 NPC: Sleep
-25012 NPC: Sleep
-25013 NPC: Sleep
-25014 NPC: Sleep
-25015 NPC: Sleep
-25016 NPC: Sleep
-25017 NPC: Sleep
-25018 NPC: Sleep
-25019 NPC: Sleep
 251000 Raya Lucaria Soldier Ashes
 251001 Raya Lucaria Soldier Ashes +1
 251002 Raya Lucaria Soldier Ashes +2
@@ -2101,7 +2377,6 @@
 259008 Nepheli Loux Puppet +8
 259009 Nepheli Loux Puppet +9
 259010 Nepheli Loux Puppet +10
-26000 NPC: Madness
 260000 Dung Eater Puppet
 260001 Dung Eater Puppet +1
 260002 Dung Eater Puppet +2
@@ -2112,27 +2387,7 @@
 260007 Dung Eater Puppet +7
 260008 Dung Eater Puppet +8
 260009 Dung Eater Puppet +9
-26001 NPC: Madness
 260010 Dung Eater Puppet +10
-26002 NPC: Madness
-26003 NPC: Madness
-26004 NPC: Madness
-26005 NPC: Madness
-26006 NPC: Madness
-26007 NPC: Madness
-26008 NPC: Madness
-26009 NPC: Madness
-26010 NPC: Madness
-26011 NPC: Madness
-26012 NPC: Madness
-26013 NPC: Madness
-26014 NPC: Madness
-26015 NPC: Madness
-26016 NPC: Madness
-26017 NPC: Madness
-26018 NPC: Madness
-26019 NPC: Madness
-26100 NPC: Madness
 261000 Finger Maiden Therolina Puppet
 261001 Finger Maiden Therolina Puppet +1
 261002 Finger Maiden Therolina Puppet +2
@@ -2144,7 +2399,6 @@
 261008 Finger Maiden Therolina Puppet +8
 261009 Finger Maiden Therolina Puppet +9
 261010 Finger Maiden Therolina Puppet +10
-26110 NPC: Madness
 262000 Dolores the Sleeping Arrow Puppet
 262001 Dolores the Sleeping Arrow Puppet +1
 262002 Dolores the Sleeping Arrow Puppet +2
@@ -2167,7 +2421,6 @@
 263008 Jarwight Puppet +8
 263009 Jarwight Puppet +9
 263010 Jarwight Puppet +10
-29000 NPC: HP Burn on Hit (DoT Black Flame)
 290000 Spirit Summon Adjustment - Default
 290001 Spirit Summon Adjustment - Default
 290002 Spirit Summon Adjustment - Default
@@ -2201,76 +2454,50 @@
 290108 Spirit Summon Adjustment - Mimic
 290109 Spirit Summon Adjustment - Mimic
 290110 Spirit Summon Adjustment - Mimic
-290150 
-290151 
-290152 
-290153 
-290154 
-290155 
-290156 
-290157 
-290158 
-290159 
-290160 
-290200 
-290201 
-290202 
-290203 
-290204 
-290205 
-290206 
-290207 
-290208 
-290209 
-290210 
-29500 NPC: HP Burn on Hit (DoT Small Destined)
-29510 NPC: HP Burn on Hit (DoT Destined)
-29511 NPC: Max HP Reduction on Hit (Small)
-295900 
-295901 
-295902 
-295910 
-296000 
+290150 Spirit Summon Adjustment - Jarwright Puppet +0
+290151 Spirit Summon Adjustment - Jarwright Puppet +1
+290152 Spirit Summon Adjustment - Jarwright Puppet +2
+290153 Spirit Summon Adjustment - Jarwright Puppet +3
+290154 Spirit Summon Adjustment - Jarwright Puppet +4
+290155 Spirit Summon Adjustment - Jarwright Puppet +5
+290156 Spirit Summon Adjustment - Jarwright Puppet +6
+290157 Spirit Summon Adjustment - Jarwright Puppet +7
+290158 Spirit Summon Adjustment - Jarwright Puppet +8
+290159 Spirit Summon Adjustment - Jarwright Puppet +9
+290160 Spirit Summon Adjustment - Jarwright Puppet +10
+290200 Spirit Summon Adjustment - Mimic Tear +0
+290201 Spirit Summon Adjustment - Mimic Tear +1
+290202 Spirit Summon Adjustment - Mimic Tear +2
+290203 Spirit Summon Adjustment - Mimic Tear +3
+290204 Spirit Summon Adjustment - Mimic Tear +4
+290205 Spirit Summon Adjustment - Mimic Tear +5
+290206 Spirit Summon Adjustment - Mimic Tear +6
+290207 Spirit Summon Adjustment - Mimic Tear +7
+290208 Spirit Summon Adjustment - Mimic Tear +8
+290209 Spirit Summon Adjustment - Mimic Tear +9
+290210 Spirit Summon Adjustment - Mimic Tear +10
+295900 Spirit Summon -
+295901 Spirit Summon -
+295902 Spirit Summon -
+295910 Spirit Summon -
+296000 Spirit Summon - Damage/Absorption Setup
 296010 Every Summon Lower Target Priority -0.5
 296011 Every Summon Lower Target Priority -0.25
-296106 
-296110 
-296117 
-296122 
-296156 
-296159 
-297000 
-297100 
-297101 
-297102 
-297103 
-297200 
-297800 
-297810 
-297811 
-30000 NPC: Cure Poison
-30010 NPC: Cure Scarlet Rot
-30020 NPC: Cure Hemorrhage
-30030 NPC: Cure Blight
-30040 NPC: Cure Frostbite
-30050 NPC: Cure Sleep
-30060 NPC: Cure Madness
-30100 NPC: Cure All Status
-3050 Stanching Boluses
-3051 Stanching Boluses [Chain]
-3055 Stimulating Boluses
-3056 Stimulating Boluses [Chain]
-3060 Neutralizing Boluses
-3061 Neutralizing Boluses [Chain]
-3065 Clarifying Boluses
-3066 Clarifying Boluses [Chain]
-3070 Preserving Boluses
-3071 Preserving Boluses [Chain]
-3090 Rejuvenating Boluses
-3091 Rejuvenating Boluses [Chain]
-3092 Thawfrost Boluses
-3093 Thawfrost Boluses [Chain]
-31 [Behavior] Counter Frames
+296106 Spirit Summon - Damage/Absorption Setup
+296110 Spirit Summon - Damage/Absorption Setup
+296117 Spirit Summon - Damage/Absorption Setup
+296122 Spirit Summon - Damage/Absorption Setup
+296156 Spirit Summon - Damage/Absorption Setup
+296159 Spirit Summon - Damage/Absorption Setup
+297000 Spirit Summon -
+297100 Spirit Summon -
+297101 Spirit Summon -
+297102 Spirit Summon -
+297103 Spirit Summon -
+297200 Spirit Summon -
+297800 Spirit Summon -
+297810 Spirit Summon -
+297811 Spirit Summon -
 310000 Crimson Amber Medallion
 310010 Crimson Amber Medallion +1
 310020 Crimson Amber Medallion +2
@@ -2301,7 +2528,6 @@
 311000 Silver Scarab
 311100 Gold Scarab
 311400 Moon of Nokstella
-3115 Kukri
 311500 Green Turtle Talisman
 311600 Stalwart Horn Charm
 311610 Stalwart Horn Charm +1
@@ -2311,7 +2537,6 @@
 311810 Clarifying Horn Charm +1
 311900 Prince of Death's Pustule
 311910 Prince of Death's Cyst
-3120 Fetid Pot
 312000 Mottled Necklace
 312010 Mottled Necklace +1
 312100 Bull-Goat's Talisman
@@ -2319,7 +2544,6 @@
 312210 Marika's Soreseal
 312300 Warrior Jar Shard
 312310 Shard of Alexander
-3125 Swarm of Flies - Hemorrhage [Cycle]
 312500 Millicent's Prosthesis
 312501 Millicent's Prosthesis [Conditional]
 312502 Millicent's Prosthesis [Conditional]
@@ -2329,48 +2553,6 @@
 312506 Millicent's Prosthesis - Boost - Stage 2
 312507 Millicent's Prosthesis - Boost - Stage 3
 312508 Millicent's Prosthesis - Boost - Stage 4
-3126 Swarm of Flies  - Hemorrhage
-3140 Freezing Grease
-3141 Freezing Grease [Attack]
-3142 Drawstring Freezing Grease
-3143 Drawstring Freezing Grease [Attack]
-3150 Soporific Grease
-3151 Soporific Grease [Attack]
-3152 Drawstring Soporific Grease
-3153 Drawstring Soporific Grease [Attack]
-3160 Fire Grease - Right
-3161 Drawstring Fire Grease - Right
-3162 Fire Grease - Left
-3163 Drawstring Fire Grease - Left
-3165 Lightning Grease - Right
-3166 Drawstring Lightning Grease - Right
-3167 Lightning Grease - Left
-3168 Drawstring Lightning Grease - Left
-3170 Magic Grease - Right
-3171 Drawstring Magic Grease - Right
-3172 Magic Grease - Left
-3173 Drawstring Magic Grease - Left
-3175 Poison Grease - Right
-3176 Poison Grease - Right [Attack]
-3177 Drawstring Poison Grease - Right
-3178 Drawstring Poison Grease - Right [Attack]
-3179 Poison Grease - Left
-3180 Poison Grease - Left [Attack]
-3181 Drawstring Poison Grease - Left
-3182 Drawstring Poison Grease - Left [Attack]
-3185 Holy Grease - Right
-3186 Drawstring Holy Grease - Right
-3187 Holy Grease - Left
-3188 Drawstring Holy Grease - Left
-3190 Blood Grease - Right
-3191 Blood Grease - Right [Attack]
-3192 Drawstring Blood Grease - Right
-3193 Drawstring Blood Grease - Right [Attack]
-3194 Blood Grease - Left
-3195 Blood Grease - Left [Attack]
-3196 Drawstring Blood Grease - Left
-3197 Drawstring Blood Grease - Left [Attack]
-3200 Holy Water Pot
 320000 Magic Scorpion Charm
 320100 Lightning Scorpion Charm
 320200 Fire Scorpion Charm
@@ -2411,31 +2593,6 @@
 322000 Curved Sword Talisman
 322100 Companion Jar
 322200 Perfumer's Talisman
-3240 Telescope
-3245 Lantern - Right
-3246 Lantern - Left
-3260 Dragonwound Grease - Right
-3262 Dragonwound Grease - Left
-3269 Golden Rune [1]
-3270 Golden Rune [2]
-3271 Golden Rune [3]
-3272 Golden Rune [4]
-3273 Golden Rune [5]
-3274 Golden Rune [6]
-3275 Golden Rune [7]
-3276 Golden Rune [8]
-3277 Golden Rune [9]
-3278 Golden Rune [10]
-3279 Golden Rune [11]
-3280 Golden Rune [12]
-3281 Golden Rune [13]
-3282 Numen's Rune
-3283 Hero's Rune [1]
-3284 Hero's Rune [2]
-3285 Hero's Rune [3]
-3286 Hero's Rune [4]
-3287 Hero's Rune [5]
-3288 Lord's Rune
 330000 Graven-School Talisman
 330010 Graven-Mass Talisman
 330400 Faithful's Canvas Talisman
@@ -2445,21 +2602,6 @@
 330800 Primal Glintstone Blade
 330801 Primal Glintstone Blade [Cycle]
 330900 Godfrey Icon
-3310 Rot Grease - Right
-3311 Rot Grease - Right [Attack]
-3312 Drawstring Rot Grease - Right
-3313 Drawstring Rot Grease - Right [Attack]
-3314 Rot Grease - Left
-3315 Rot Grease - Left [Attack]
-3316 Drawstring Rot Grease - Left
-3317 Drawstring Rot Grease - Left [Attack]
-3360 Warming Stone
-3375 Holy Water Grease - Right
-3376 Holy Water Grease - Left
-3380 Cursed-Blood Pot
-3381 Cursed-Blood Pot
-3382 Cursed-Blood Pot
-3383 Cursed-Blood Pot
 340000 Dragoncrest Shield Talisman
 340010 Dragoncrest Shield Talisman +1
 340020 Dragoncrest Shield Talisman +2
@@ -2486,117 +2628,31 @@
 340900 Ritual Shield Talisman
 341000 Greatshield Talisman
 341100 Crucible Knot Talisman
-3450 Rune Arc
-3500 Crimsonspill Crystal Tear
 350000 Crimson Seed Talisman
-3501 Viridianspill Crystal Tear
 350100 Cerulean Seed Talisman
 350200 Blessed Dew Talisman
 350300 Taker's Cameo
 350301 Taker's Cameo [Kill]
 350400 Godskin Swaddling Cloth
 350401 Godskin Swaddling Cloth [Conditional]
-3505 Crimson Crystal Tear
 350500 Assassin's Crimson Dagger
 350501 Assassin's Crimson Dagger [Crit Effect]
 350502 Assassin's Crimson Dagger [Triggered]
-3506 Cerulean Crystal Tear
 350600 Assassin's Cerulean Dagger
 350601 Assassin's Cerulean Dagger [Crit Effect]
 350602 Assassin's Cerulean Dagger [Triggered]
-3507 Opaline Bubbletear
-3512 Crimson Bubbletear
-3513 Crimson Bubbletear [Chain]
-3515 Strength-knot Crystal Tear
-3516 Dexterity-knot Crystal Tear
-3517 Intelligence-knot Crystal Tear
-3518 Faith-knot Crystal Tear
-3519 Leaden Hardtear
-3550 Thorny Cracked Tear
-3551 Thorny Cracked Tear [Cycle]
-3552 Thorny Cracked Tear [Cycle]
-3553 Thorny Cracked Tear [Cycle]
-3554 Thorny Cracked Tear [Chain]
-3555 Thorny Cracked Tear [Chain]
-3556 Thorny Cracked Tear [Chain]
-3557 Thorny Cracked Tear [Chain]
-3580 Crimsonwhorl Bubbletear
-3581 Crimsonwhorl Bubbletear [Chain]
-3582 Crimsonwhorl Bubbletear [Chain]
-3583 Crimsonwhorl Bubbletear [Cycle]
-3584 Crimsonwhorl Bubbletear [Chain]
-3600 Lucent Baldachin's Blessing
 360000 Crepus's Vial
 360100 Concealing Veil
 360200 Carian Filigreed Crest
-3603 Speckled Hardtear
-3604 Speckled Hardtear [Cycle]
 360400 Longtail Cat Talisman
-3605 Speckled Hardtear [Chain]
 360500 Shabriri's Woe
-3606 Speckled Hardtear [Chain]
 360600 Daedicar's Woe
-3607 Speckled Hardtear [Chain]
 360700 Sacrificial Twig
-3608 Speckled Hardtear [Chain]
 360800 Furled Finger's Trick-Mirror
-3609 Speckled Hardtear [Chain]
 360900 Host's Trick-Mirror
-3610 Speckled Hardtear [Chain]
 361000 Entwining Umbilical Cord
-3611 Speckled Hardtear [Chain]
 361100 Ancestral Spirit's Horn
 361101 Ancestral Spirit's Horn [Kill]
-3612 Speckled Hardtear [Cycle]
-3613 Speckled Hardtear [Cycle]
-3614 Speckled Hardtear [Cycle]
-3615 Speckled Hardtear [Cycle]
-3616 Speckled Hardtear [Cycle]
-3617 Speckled Hardtear [Cycle]
-3618 Speckled Hardtear [Cycle]
-3720 Remembrance of the Grafted
-3721 Remembrance of the Starscourge
-3722 Remembrance of the Omen King
-3723 Remembrance of the Blasphemous
-3724 Remembrance of the Rot Goddess
-3725 Remembrance of the Blood Lord
-3726 Remembrance of the Black Blade
-3727 Remembrance of Hoarah Loux
-3728 Remembrance of the Dragonlord
-3729 Remembrance of the Full Moon Queen
-3730 Remembrance of the Lichdragon
-3731 Remembrance of the Fire Giant
-3732 Remembrance of the Regal Ancestor
-3733 Elden Remembrance
-3734 Remembrance of the Naturalborn
-3910 Spellproof Dried Liver
-3920 Fireproof Dried Liver
-3930 Lightningproof Dried Liver
-3940 Holyproof Dried Liver
-3950 Exalted Flesh
-3953 Pickled Turtle Neck
-3970 Silver-Pickled Fowl Foot
-3971 Gold-Pickled Fowl Foot
-4 Tarnished's Furled Finger - Create Summon Sign
-4101 Sanguine Noble
-415 Torch Effect
-416 Sentry's Torch - Effect
-420 Oil Pot
-425 Slug - Bullet - Slow
-460 Beast-Repellent Torch Effect
-467 Swarm Pot [Cycle]
-470 Gravity - Pull towards Caster
-473 Swarm Pot
-474 Revenant Heal Damage - Instant
-475 Revenant Heal Damage - Over Time
-481 Shadow Bait
-482 Alluring Pot
-483 Alluring Pot
-484 Beastlure Pot Effect
-490 Rune Arc
-491 Rune Arc
-499 Rune Arc
-500 Hemorrhage [Cycle]
 500135 Phantom Great Rune
 500136 Phantom Great Rune
 500137 Phantom Great Rune [Kill]
@@ -2620,7 +2676,6 @@
 500812 Frozen Raisin
 500820 Boiled Crab
 500830 Boiled Prawn
-501 Hemorrhage - Presence
 501000 Flask of Crimson Tears
 501001 Flask of Crimson Tears +1
 501002 Flask of Crimson Tears +2
@@ -2658,8 +2713,6 @@
 501058 Flask of Cerulean Tears +8
 501059 Flask of Cerulean Tears +9
 501060 Flask of Cerulean Tears +10
-5010600 Celebrant's Sickle - Rune Gain on Hit
-5010601 Celebrant's Sickle - Icon
 501061 Flask of Cerulean Tears +11
 501062 Flask of Cerulean Tears +12
 501075 Flask of Crimson Tears - Friendly Heal
@@ -2675,7 +2728,7 @@
 501085 Flask of Crimson Tears +10 - Friendly Heal
 501086 Flask of Crimson Tears +11 - Friendly Heal
 501087 Flask of Crimson Tears +12 - Friendly Heal
-5011000 Cinquedea - Boost Incantation Power
+501220 Deathsbane Jerky
 501235 Raw Meat Dumpling
 501236 Raw Meat Dumpling [Chain]
 501290 Starlight Shards
@@ -2699,10 +2752,6 @@
 502161 Pureblood Knight's Medal
 502190 Miquella's Needle
 503040 Mimic's Veil
-5031400 Blasphemous Blade - Restore HP on Kill
-5031401 Blasphemous Blade [Kill]
-5031600 Sword of Milos - Restore FP on Kill
-5031601 Sword of Milos [Kill]
 503311 Frenzyflame Stone
 503312 Frenzyflame Stone
 503313 Frenzyflame Stone
@@ -2718,6 +2767,7 @@
 503361 Radiant Baldachin's Blessing
 503362 Radiant Baldachin's Blessing [Cycle]
 503500 Uplifting Aromatic
+503501 Uplifting Aromatic
 503520 Ironjar Aromatic
 503521 Ironjar Aromatic [Cycle]
 503522 Ironjar Aromatic [Cycle]
@@ -2725,10 +2775,6 @@
 503529 Ironjar Aromatic
 503580 Poison Spraymist
 503610 Acid Spraymist
-505 Poison - Presence
-506 Madness [Cycle]
-5071100 Serpent-God's Curved Sword - Restore HP on Kill
-5071101 Serpent-God's Curved Sword [Kill]
 511009 Crimsonburst Crystal Tear
 511010 Greenburst Crystal Tear
 511011 Opaline Hardtear
@@ -2758,6 +2804,204 @@
 511079 Ruptured Crystal Tear [Chain]
 511080 Ruptured Crystal Tear [Chain]
 511081 Ruptured Crystal Tear [Chain]
+1413000 [Sorcery] Terra Magicus
+1414000 [Sorcery] Starlight
+1436000 [Sorcery] Rennala's Full Moon
+1436100 [Sorcery] Ranni's Dark Moon (Self)
+1440000 [Sorcery] Glintstone Icecrag (Self)
+1441000 [Sorcery] Zamor Ice Storm (Self)
+1442000 [Sorcery] Freezing Mist (Self)
+1443101 [Sorcery] Adula's Moonblade
+1446000 [Sorcery] Scholar's Armament
+1447000 [Sorcery] Scholar's Shield
+1447001 [Sorcery] Scholar's Shield [Cycle]
+1448000 [Sorcery] Lucidity
+1448001 [Sorcery] Lucidity
+1448002 [Sorcery] Lucidity
+1448003 [Sorcery] Lucidity
+1449000 [Sorcery] Frozen Armament (Self)
+1449001 [Sorcery] Frozen Armament
+1466000 [Sorcery] Unseen Blade
+1467000 [Sorcery] Unseen Form
+1467001 [Sorcery] Unseen Form
+1467002 [Sorcery] Unseen Form
+1467005 [Sorcery] Unseen Form
+1467006 [Sorcery] Unseen Form
+1490010 [Sorcery] Briars of Sin
+1491010 [Sorcery] Briars of Punishment
+1501000 [Sorcery] Explosive Ghostflame (Self)
+1501001 [Sorcery] Explosive Ghostflame
+1502000 [Sorcery] Fia's Mist (Self)
+1504000 [Incantation] Death Lightning (Self)
+1504001 [Sorcery] Death Lightning
+1604000 [Incantation] Flame Cleanse Me
+1604001 [Incantation] Flame Cleanse Me
+1604002 [Incantation] Flame Cleanse Me
+1604003 [Incantation] Flame Cleanse Me
+1604004 [Incantation] Flame Cleanse Me
+1604005 [Incantation] Flame Cleanse Me
+1605000 [Incantation] Flame Grant Me Strength
+1605001 [Incantation] Flame Grant Me Strength
+1605002 [Incantation] Flame Grant Me Strength
+1606000 [Incantation] Flame Protect Me
+1621000 [Incantation] Black Flame (DoT Black)
+1623000 [Incantation] Scouring Black Flame (DoT Black)
+1624000 [Incantation] Noble Presence
+1624010 [Incantation] Noble Presence (DoT Black)
+1625000 [Incantation] Black Flame Ritual (DoT Black)
+1626000 [Incantation] Black Flame Blade
+1626001 [Incantation] Black Flame Blade (DoT Black)
+1627000 [Incantation] Black Flame's Protection
+1627001 [Incantation] Black Flame's Protection
+1630000 [Incantation] Bloodflame Talons (Self)
+1630001 [Incantation] Bloodflame Talons [Cycle]
+1631000 [Incantation] Bloodboon (Self)
+1631001 [Incantation] Bloodboon [Cycle]
+1632000 [Incantation] Bloodflame Blade (Self)
+1632001 [Incantation] Bloodflame Blade [Cycle]
+1632002 [Incantation] Bloodflame Blade [Cycle]
+1633000 [Incantation] Barrier of Gold
+1634000 [Incantation] Protection of the Erdtree
+1640000 [Incantation] Rejection
+1641000 [Incantation] Wrath of Gold
+1642000 [Incantation] Urgent Heal
+1642001 [Incantation] Urgent Heal - Allies
+1642100 [Incantation] Heal
+1642101 [Incantation] Heal - Allies
+1642200 [Incantation] Great Heal
+1642201 [Incantation] Great Heal - Allies
+1642300 [Incantation] Lord's Heal
+1642301 [Incantation] Lord's Heal - Allies
+1642400 [Incantation] Erdtree Heal
+1642401 [Incantation] Erdtree Heal - Allies
+1643000 [Incantation] Blessing's Boon
+1643001 [Incantation] Blessing's Boon - Allies
+1643100 [Incantation] Blessing of the Erdtree
+1643101 [Incantation] Blessing of the Erdtree - Allies
+1644000 [Incantation] Cure Poison
+1644001 [Incantation] Cure Poison
+1644100 [Incantation] Lord's Aid
+1644101 [Incantation] Lord's Aid
+1644102 [Incantation] Lord's Aid
+1644103 [Incantation] Lord's Aid
+1644104 [Incantation] Lord's Aid
+1644105 [Incantation] Lord's Aid
+1644110 [Incantation] Lord's Aid
+1644111 [Incantation] Lord's Aid
+1644112 [Incantation] Lord's Aid
+1644113 [Incantation] Lord's Aid
+1644114 [Incantation] Lord's Aid
+1644115 [Incantation] Lord's Aid
+1645000 [Incantation] Flame Fortification
+1646000 [Incantation] Magic Fortification
+1647000 [Incantation] Lightning Fortification
+1648000 [Incantation] Divine Fortification
+1649000 [Incantation] Lord's Divine Fortification
+1650000 [Sorcery] Night Maiden's Mist
+1651000 [Incantation] Assassin's Approach
+1651001 [Incantation] Assassin's Approach [Cycle]
+1651002 [Incantation] Assassin's Approach
+1653000 [Incantation] Darkness
+1653001 [Incantation] Darkness [Chain]
+1660000 [Incantation] Golden Vow
+1660001 [Incantation] Golden Vow [Cycle]
+1660002 [Incantation] Golden Vow
+1673000 [Incantation] Law of Regression
+1673001 [Incantation] Law of Regression
+1673002 [Incantation] Law of Regression
+1673003 [Incantation] Law of Regression
+1673004 [Incantation] Law of Regression
+1673005 [Incantation] Law of Regression
+1673006 [Incantation] Law of Regression
+1673007 [Incantation] Law of Regression
+1673008 [Incantation] Law of Regression
+1673009 [Incantation] Law of Regression
+1673010 [Incantation] Law of Regression
+1673011 [Incantation] Law of Regression
+1673012 [Incantation] Law of Regression
+1673013 [Incantation] Law of Regression
+1673014 [Incantation] Law of Regression
+1673020 [Incantation] Law of Regression
+1673021 [Incantation] Law of Regression
+1673022 [Incantation] Law of Regression
+1673023 [Incantation] Law of Regression
+1673024 [Incantation] Law of Regression
+1673025 [Incantation] Law of Regression
+1673026 [Incantation] Law of Regression
+1673027 [Incantation] Law of Regression
+1673028 [Incantation] Law of Regression
+1673029 [Incantation] Law of Regression
+1673030 [Incantation] Law of Regression
+1673031 [Incantation] Law of Regression
+1673032 [Incantation] Law of Regression
+1673033 [Incantation] Law of Regression
+1673034 [Incantation] Law of Regression
+1674000 [Incantation] Immutable Shield
+1674001 [Incantation] Immutable Shield [Cycle]
+1674002 [Incantation] Immutable Shield
+1675000 [Incantation] Litany of Proper Death
+1676000 [Incantation] Law of Causality
+1676005 [Incantation] Law of Causality [Chain]
+1676006 [Incantation] Law of Causality [Chain]
+1676007 [Incantation] Law of Causality [Chain]
+1676008 [Incantation] Law of Causality [Chain]
+1676009 [Incantation] Law of Causality [Chain]
+1676010 [Incantation] Law of Causality
+1676011 [Incantation] Law of Causality [Chain]
+1677000 [Incantation] Order's Blade
+1678000 [Incantation] Order Healing
+1678001 [Incantation] Order Healing
+1685000 [Incantation] Bestial Vitality
+1686000 [Incantation] Bestial Constitution
+1686001 [Incantation] Bestial Constitution
+1686002 [Incantation] Bestial Constitution
+1686003 [Incantation] Bestial Constitution
+1692100 [Incantation] Frozen Lightning Spear (Self)
+1696000 [Incantation] Electrify Armament
+1697000 [Incantation] Vyke's Dragonbolt
+1697001 [Incantation] Vyke's Dragonbolt
+1697002 [Incantation] Vyke's Dragonbolt [Cycle]
+1697100 [Incantation] Dragonbolt Blessing
+1697101 [Incantation] Dragonbolt Blessing [Cycle]
+1702000 [Incantation] Dragonice (Self)
+1702100 [Incantation] Borealis's Mist (Self)
+1703000 [Incantation] Rotten Breath (Self)
+1703100 [Incantation] Ekzyke's Decay (Self)
+1709000 [Incantation] Greyoll's Roar
+1722000 [Incantation] Poison Mist (Self)
+1723000 [Incantation] Poison Armament (Self)
+1723001 [Incantation] Poison Armament
+1724000 [Incantation] Scarlet Aeonia (Self)
+1724001 [Incantation] Scarlet Aeonia
+1731000 [Incantation] The Flame of Frenzy
+1731001 [Incantation] The Flame of Frenzy
+1731100 [Incantation] Unendurable Frenzy
+1731101 [Incantation] Unendurable Frenzy (Self)
+1732000 [Incantation] Frenzied Burst
+1732001 [Incantation] Frenzied Burst
+1733000 [Incantation] Howl of Shabriri
+1733001 [Incantation] Howl of Shabriri
+1733002 [Incantation] Howl of Shabriri (Self)
+1733005 [Incantation] Howl of Shabriri
+1733006 [Incantation] Howl of Shabriri
+1733007 [Incantation] Howl of Shabriri
+1790000 [Incantation] Fire's Deadly Sin
+1790001 [Incantation] Fire's Deadly Sin
+1790002 [Incantation] Fire's Deadly Sin
+1790003 [Incantation] Fire's Deadly Sin
+1790010 [Incantation] Fire's Deadly Sin
+1790011 [Incantation] Fire's Deadly Sin
+1790012 [Incantation] Fire's Deadly Sin
+1790300 [Incantation] Golden Lightning Fortification
+5010600 Celebrant's Sickle - Rune Gain on Hit
+5010601 Celebrant's Sickle - Icon
+5011000 Cinquedea - Boost Incantation Power
+5031400 Blasphemous Blade - Restore HP on Kill
+5031401 Blasphemous Blade [Kill]
+5031600 Sword of Milos - Restore FP on Kill
+5031601 Sword of Milos [Kill]
+5071100 Serpent-God's Curved Sword - Restore HP on Kill
+5071101 Serpent-God's Curved Sword [Kill]
 5120100 Greathorn Hammer - Restore HP on Kill
 5120101 Greathorn Hammer [Kill]
 5121300 Celebrant's Skull - Rune Gain on Hit
@@ -2773,217 +3017,17 @@
 5160600 Celebrant's Rib-Rake - Rune Gain on Hit
 5180100 Pest's Glaive - Boost Absorption
 5190100 Grave Scythe - Raise Vitality
-530 Furlcalling Finger Remedy - Reveal Phantom Signs
-5300 No Stag
 5300100 Perfumer's Shield - Raise Immunity
 5300400 Pillory Shield - Raise Vitality
-5301 
 5301100 Rift Shield - Raise Focus
 5301400 Ice Crest Shield - Raise Robustness
 5301500 Smoldering Shield - Raise Robustness
-5302 
+5301900 Spiralhorn Shield - Raise Immunity Robustness and Focus
 5302000 Coil Shield - Raise Immunity
-5303 
-5304 No Small Stag
-5305 
-5306 
-5307 
-5308 
-5309 
-531 White Cipher Ring - Request Aid
-5310 
 5310900 Twinbird Kite Shield - Boost Absorption and Damage at Low HP
 5310901 Twinbird Kite Shield [Cycle]
-5311 
 5311400 Great Turtle Shell - Boost Stamina Recovery
 5311700 Shield of the Guilty - Raise Focus
-532 Blue Cipher Ring - Answer Aid Request
-5320 
-5321 
 5321400 Icon Shield - Grant HP Restoration
-5322 
 5322200 Ant's Skull Plate - Raise Immunity
-5323 
-5324 
-5325 
-5326 
-5327 
-5328 
-5329 
-533 Taunter's Tongue - Encourage Invasion
-5330 
-5331 
-5332 
-5333 
-5334 
-5335 
-534 Small Golden Effigy - Send Summon Sign to Summoning Pool
-535 Small Red Effigy - Send Invasion Sign to Summoning Pool
-5350 
-5351 
-5352 
-5353 
-5354 
-536 Phantom Bloody/Recusant Finger - Attempt Invasion
-5360 No Stag
-5361 Light Stag 4 XL Hits + Light 4 Large
-5362 Med Stag 4 XL Hits
-5363 Med Stag 4 XL Hits + Light 4 Large
-5364 Light Stag 4 XL Hits
-5365 X Stag
-5366 Resist Stag
-5367 Heavy Stag 4 XL Hits + Heavy 4 Large
-5368 Same Stag 4 XL Hits
-5369 Heavy Stag 4 XL Hits + Med 4 Large
-5370 No Stag [Armor]
-5371 Light Stag 4 XL Hits + Light 4 Large [Armor]
-5372 Med Stag 4 XL Hits [Armor]
-5373 Med Stag 4 XL Hits + Light 4 Large [Armor]
-5374 Light Stag 4 XL Hits [Armor]
-5600 
-5601 
-5836 Undead Enemy
-5837 Undead Enemy
-6350 Toughness 1 (Small/Min)
-6351 Toughness 2 (Medium/Push)
-6352 Toughness 3 (Large)
-6353 Toughness 4 (All)
-6354 Toughness 5 (All)
-6400 Hemorrhage - Type 1 - Special 1
-6401 Hemorrhage - Type 1 - Special 2
-6402 Hemorrhage - Type 1 - Special 3
-6403 Hemorrhage - Type 1 - Special 4
-6404 Hemorrhage - Type 1 - Special 5
-6405 Hemorrhage - Type 1 - Special 6
-6406 Hemorrhage - Type 1 - Special 7
-6410 Hemorrhage - Type 2 - Special 1
-6411 Hemorrhage - Type 2 - Special 2
-6412 Hemorrhage - Type 2 - Special 3
-6413 Hemorrhage - Type 2 - Special 4
-6414 Hemorrhage - Type 2 - Special 5
-6415 Hemorrhage - Type 2 - Special 6
-6450 Sleep - Type 1 - Special 1
-6451 Sleep - Type 1 - Special 2
-6452 Sleep - Type 1 - Special 3
-6453 Sleep - Type 1 - Special 4
-6454 Sleep - Type 1 - Special 5
-6455 Sleep - Type 1 - Special 6
-6456 Sleep - Type 1 - Special 7
-6460 Sleep - Type 2 - Special 1
-6500 Poison - Type 1 - Special 1
-6501 Poison - Type 1 - Special 2
-6502 Poison - Type 1 - Special 3
-6503 Poison - Type 1 - Special 4
-6504 Poison - Type 1 - Special 5
-6505 Poison - Type 1 - Special 6
-6510 Poison - Type 2 - Special 1
-6511 Poison - Type 2 - Special 2
-6512 Poison - Type 2 - Special 3
-6513 Poison - Type 2 - Special 4
-6514 Poison - Type 2 - Special 5
-6515 Poison - Type 2 - Special 6
-6600 Scarlet Rot - Type 1 - Special 1
-6601 Scarlet Rot - Type 1 - Special 2
-6602 Scarlet Rot - Type 1 - Special 3
-6603 Scarlet Rot - Type 1 - Special 4
-6604 Scarlet Rot - Type 1 - Special 5
-6605 Scarlet Rot - Type 1 - Special 6
-6700 Frostbite - Type 1 - Special 1
-6701 Frostbite - Type 1 - Special 2
-6702 Frostbite - Type 1 - Special 3
-6703 Frostbite - Type 1 - Special 4
-6704 Frostbite - Type 1 - Special 5
-6705 Frostbite - Type 1 - Special 6
-6750 Madness - Type 1 - Special 1
-6751 Madness - Type 1 - Special 2
-6752 Madness - Type 1 - Special 3
-6753 Madness - Type 1 - Special 4
-6754 Madness - Type 1 - Special 5
-6755 Madness - Type 1 - Special 6
-6800 Blight - Type 1 - Special 1
-6801 Blight - Type 1 - Special 2
-6802 Blight - Type 1 - Special 3
-6803 Blight - Type 1 - Special 4
-6804 Blight - Type 1 - Special 5
-6805 Blight - Type 1 - Special 6
-6845 
-6850 Destined Death - (DoT Main)
-6930 Crystal Dart
-7 Finger Severer - Return to World
-70 Blight Effect
-7000 Area Scaling - Tier 1 (Tutorial Tunnel)
-7010 Area Scaling - Tier 2 (Limgrave Exploration)
-7020 Area Scaling - Tier 3 (South Limgrave Exploration)
-7030 Area Scaling - Tier 4 (North Limgrave Exploration + Bosses)
-7040 Area Scaling - Tier 5 (Stormveil Castle Boss)
-7050 Area Scaling - Tier 6 (Siofra River)
-7060 Area Scaling - Tier 7 (South Liurnia Exploration  + Archives)
-7070 Area Scaling - Tier 8 (North Liurnia Exploration + Archives Latter)
-7080 Area Scaling - Tier 9 (Below Mt. Gelmir + Ainsel River)
-7090 Area Scaling - Tier 10 (Entering Mt. Gelmir + Entering Caelid)
-7100 Area Scaling - Tier 11 (Altus Plateua + Southeast Caelid)
-7110 Area Scaling - Tier 12 (Leyndell + Nokstella)
-7120 Area Scaling - Tier 13 (Volcano Manor + North Caelid)
-7130 Area Scaling - Tier 22 (Leyndell Sewers)
-7140 Area Scaling - Tier 23 (Giant Mountaintops + Farum Azula Weak)
-7150 Area Scaling - Tier 24 (Farum Azula Latter)
-7160 Area Scaling - Tier 25 (Leyndell Ashen + Snowfields)
-7170 Area Scaling - Tier 26 (Final Battle)
-7180 Area Scaling - Tier 27 (Haligtree + Mohgwyn Palace)
-7190 Area Scaling - Tier 28 (Elphael)
-7200 Area Scaling - Tier 29 (Haligtree Roots)
-7210 Area Scaling - Tier 14 (Unusued)
-7220 Area Scaling - Tier 15 (Unusued)
-7230 Area Scaling - Tier 16 (Unusued)
-7240 Area Scaling - Tier 17 (Unusued)
-7250 Area Scaling - Tier 18 (Unusued)
-7260 Area Scaling - Tier 19 (Unusued)
-7270 Area Scaling - Tier 20 (Unusued)
-7280 Area Scaling - Tier 21 (Unusued)
-7400 NG+ Scaling -
-7410 NG+ Scaling -
-7420 NG+ Scaling -
-7430 NG+ Scaling -
-7440 NG+ Scaling -
-7450 NG+ Scaling -
-7460 NG+ Scaling -
-7470 NG+ Scaling -
-7480 NG+ Scaling -
-7490 NG+ Scaling -
-7500 NG+ Scaling -
-7510 NG+ Scaling -
-7520 NG+ Scaling -
-7530 NG+ Scaling -
-7540 NG+ Scaling -
-7550 NG+ Scaling -
-7560 NG+ Scaling -
-7570 NG+ Scaling -
-7580 NG+ Scaling -
-7590 NG+ Scaling -
-7600 NG+ Scaling -
-7610 NG+ Scaling -
-7620 NG+ Scaling -
-7630 NG+ Scaling -
-7640 NG+ Scaling -
-7650 NG+ Scaling -
-7660 NG+ Scaling -
-7670 NG+ Scaling -
-7680 NG+ Scaling -
-81 Spectral Steed Whistle
-860 Ash of War - Corpse Wax Cutter (DoT Destined)
-870 Reduvia - Bullet
-90000 NPC: Disable Poison
-90010 NPC: Disable Scarlet Rot
-90020 NPC: Disable Hemorrhage
-90030 NPC: Disable Blight
-90040 NPC: Disable Frostbite
-90100 NPC: Ignore Fake Targets - All
-90110 NPC: Ignore Fake Targets - Normal
-90120 NPC: Ignore Fake Targets - Undead
-90130 NPC: Ignore Fake Targets - Animal
-90140 
-90150 
-90160 
-90161 
-90162 
-90200 NPC: Enable Charm
+5322400 Eclipse Crest Greatshield - Raise Immunity Robustness and Focus

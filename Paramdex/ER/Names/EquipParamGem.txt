@@ -1,69 +1,44 @@
 10 test gem 1
+20 test gem 2
+30 test gem 3
+40 Ash of War: Lion's Claw
+41 Ash of War: Lion's Claw
+80 Ash of War: Lion's Claw
+81 Ash of War: Lion's Claw
+82 Ash of War: Lion's Claw
+83 Ash of War: Lion's Claw
+84 Ash of War: Lion's Claw
+85 Ash of War: Lion's Claw
+86 Ash of War: Lion's Claw
+87 Ash of War: Lion's Claw
+88 Ash of War: Lion's Claw
+89 Ash of War: Lion's Claw
+90 Ash of War: Lion's Claw
 100 Ash of War: Lion's Claw
-1000 Ash of War: Lion's Claw
-10000 Ash of War: Lion's Claw
-1001 Ash of War: Impaling Thrust
-1002 Ash of War: Spinning Slash
-1003 Ash of War:
-1004 Ash of War: Glintblade Phalanx
-1005 Ash of War:
-1006 Ash of War: Eruption
-1007 Ash of War: Gravitas
-1008 Ash of War: Storm Blade
-1009 Ash of War: Earthshaker
 101 Ash of War: Impaling Thrust
-1010 Ash of War: Flaming Strike
-10100 Ash of War: Impaling Thrust
-1011 Ash of War: Thunderbolt
-1012 Ash of War: Carian Greatsword
-1013 Ash of War: Storm Stomp
-1014 Ash of War: Determination
-1015 Ash of War: Holy Ground
-1016 Ash of War: Quickstep
-1017 Ash of War: Raptor of the Mists
 102 Ash of War: Piercing Fang
-10200 Ash of War: Piercing Fang
 103 Ash of War: Spinning Slash
-10300 Ash of War: Spinning Slash
 104 Ash of War:
 105 Ash of War: Charge Forth
-10500 Ash of War: Charge Forth
 106 Ash of War: Stamp (Upward Cut)
-10600 Ash of War: Stamp (Upward Cut)
 107 Ash of War: Stamp (Sweep)
-10700 Ash of War: Stamp (Sweep)
 108 Ash of War: Blood Tax
-10800 Ash of War: Blood Tax
 109 Ash of War: Repeating Thrust
-10900 Ash of War: Repeating Thrust
 110 Ash of War: Wild Strikes
-11000 Ash of War: Wild Strikes
 111 Ash of War: Spinning Strikes
-11100 Ash of War: Spinning Strikes
 112 Ash of War: Double Slash
-11200 Ash of War: Double Slash
 113 Ash of War: Prelate's Charge
-11300 Ash of War: Prelate's Charge
 114 Ash of War: Unsheathe
-11400 Ash of War: Unsheathe
 115 Ash of War: Square Off
-11500 Ash of War: Square Off
 116 Ash of War: Giant Hunt
-11600 Ash of War: Giant Hunt
 117 Ash of War: Torch Attack
 118 Ash of War: Loretta's Slash
-11800 Ash of War: Loretta's Slash
 119 Ash of War: Poison Moth Flight
-11900 Ash of War: Poison Moth Flight
 120 Ash of War: Spinning Weapon
-12000 Ash of War: Spinning Weapon
 121 Ash of War:
 122 Ash of War: Storm Assault
-12200 Ash of War: Storm Assault
 123 Ash of War: Stormcaller
-12300 Ash of War: Stormcaller
 124 Ash of War: Sword Dance
-12400 Ash of War: Sword Dance
 125 Ash of War: Sacred Blade
 126 Ash of War: Ice Spear
 127 Ash of War: Glintstone Pebble
@@ -131,7 +106,46 @@
 196 Ash of War: Firebreather
 197 Ash of War: Blood Blade
 198 Ash of War: Thops's Barrier
-20 test gem 2
+1000 Ash of War: Lion's Claw
+1001 Ash of War: Impaling Thrust
+1002 Ash of War: Spinning Slash
+1003 Ash of War:
+1004 Ash of War: Glintblade Phalanx
+1005 Ash of War:
+1006 Ash of War: Eruption
+1007 Ash of War: Gravitas
+1008 Ash of War: Storm Blade
+1009 Ash of War: Earthshaker
+1010 Ash of War: Flaming Strike
+1011 Ash of War: Thunderbolt
+1012 Ash of War: Carian Greatsword
+1013 Ash of War: Storm Stomp
+1014 Ash of War: Determination
+1015 Ash of War: Holy Ground
+1016 Ash of War: Quickstep
+1017 Ash of War: Raptor of the Mists
+10000 Ash of War: Lion's Claw
+10100 Ash of War: Impaling Thrust
+10200 Ash of War: Piercing Fang
+10300 Ash of War: Spinning Slash
+10500 Ash of War: Charge Forth
+10600 Ash of War: Stamp (Upward Cut)
+10700 Ash of War: Stamp (Sweep)
+10800 Ash of War: Blood Tax
+10900 Ash of War: Repeating Thrust
+11000 Ash of War: Wild Strikes
+11100 Ash of War: Spinning Strikes
+11200 Ash of War: Double Slash
+11300 Ash of War: Prelate's Charge
+11400 Ash of War: Unsheathe
+11500 Ash of War: Square Off
+11600 Ash of War: Giant Hunt
+11800 Ash of War: Loretta's Slash
+11900 Ash of War: Poison Moth Flight
+12000 Ash of War: Spinning Weapon
+12200 Ash of War: Storm Assault
+12300 Ash of War: Stormcaller
+12400 Ash of War: Sword Dance
 20000 Ash of War: Glintblade Phalanx
 20100 Ash of War: Sacred Blade
 20200 Ash of War: Ice Spear
@@ -157,7 +171,6 @@
 22600 Ash of War: Spectral Lance
 22700 Ash of War: Chilling Mist
 22800 Ash of War: Poisonous Mist
-30 test gem 3
 30000 Ash of War: Shield Bash
 30100 Ash of War: Barricade Shield
 30200 Ash of War: Parry
@@ -167,14 +180,12 @@
 30800 Ash of War: Shield Crash
 30900 Ash of War: No Skill
 31000 Ash of War: Thops's Barrier
-40 Ash of War: Lion's Claw
 40000 Ash of War: Through and Through
 40100 Ash of War: Barrage
 40200 Ash of War: Mighty Shot
 40400 Ash of War: Enchanted Shot
 40500 Ash of War: Sky Shot
 40600 Ash of War: Rain of Arrows
-41 Ash of War: Lion's Claw
 50100 Ash of War: Hoarfrost Stomp
 50200 Ash of War: Storm Stomp
 50300 Ash of War: Kick
@@ -200,18 +211,7 @@
 70000 Ash of War: Endure
 70100 Ash of War: Vow of the Indomitable
 70200 Ash of War: Holy Ground
-80 Ash of War: Lion's Claw
 80000 Ash of War: Quickstep
 80100 Ash of War: Bloodhound's Step
 80200 Ash of War: Raptor of the Mists
-81 Ash of War: Lion's Claw
-82 Ash of War: Lion's Claw
-83 Ash of War: Lion's Claw
-84 Ash of War: Lion's Claw
-85 Ash of War: Lion's Claw
 85000 Ash of War: White Shadow's Lure
-86 Ash of War: Lion's Claw
-87 Ash of War: Lion's Claw
-88 Ash of War: Lion's Claw
-89 Ash of War: Lion's Claw
-90 Ash of War: Lion's Claw

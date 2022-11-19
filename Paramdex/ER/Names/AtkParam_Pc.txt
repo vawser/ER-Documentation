@@ -33,7 +33,7 @@
 40601 Crystal Barrage
 40800 Cannon of Haima
 40801 Cannon of Haima
-40805 Cannon of Haima [Charged]
+40805 Cannon of Haima
 40806 Cannon of Haima
 40900 Crystal Burst
 40905 Crystal Burst [Charged]

@@ -1,44 +1,4 @@
 100 Build - Standard
-1000 Pupil Type - Normal 1
-100000 Body Type - A
-100001 Body Type - B
-1001 Pupil Type - Normal 2
-100100 Age - Young
-100101 Age - Mature
-100102 Age - Aged
-1002 Pupil Type - Normal 3
-100200 Class - Vagabond
-100201 Class - Warrior
-100202 Class - Hero
-100203 Class - Bandit
-100204 Class - Astrologer
-100205 Class - Prophet
-100206 Class - Samurai
-100207 Class - Prisoner
-100208 Class - Confessor
-100209 Class - Wretch
-1003 Pupil Type - Sclera 1
-100300 Gift - None
-100301 Gift - Crimson Amber Medallion
-100302 Gift - Lands Between Rune
-100303 Gift - Golden Seed
-100304 Gift - Fanged Imp Ashes
-100305 Gift - Cracked Pot
-100306 Gift - Stonesword Key
-100307 Gift - Bewitching Branch
-100308 Gift - Boiled Prawn
-100309 Gift - Shabriri's Woe
-1004 Pupil Type - Sclera 2
-100400 Voice - Young 1
-100401 Voice - Young 2
-100402 Voice - Mature 1
-100403 Voice - Mature 2
-100404 Voice - Aged 1
-100405 Voice - Aged 2
-1005 Pupil Type - Sclera 3
-1006 Pupil Color - Cornea 1
-1007 Pupil Color - Cornea 2
-1008 Pupil Color - Cornea 3
 101 Build - Slim
 102 Build - Very Slim
 103 Build - Burly
@@ -47,20 +7,10 @@
 106 Build - Burly Lower-body
 107 Build - Small Head
 108 Build - Big Head
-1100 Eyelashes - None
-1101 Eyelashes - Short
-1102 Eyelashes - Medium
-1103 Eyelashes - Long
 120 Musculature - Standard
-1200 ON
-1201 OFF
 121 Musculature - Muscular
 130 Body Hair - Type 1
-1300 ON
-1301 OFF
 131 Body Hair - Type 2
-1310 ON
-1311 OFF
 132 Body Hair - Type 3
 133 Body Hair - Type 4
 134 Body Hair - Type 5
@@ -213,3 +163,53 @@
 901 Accessories - Type 2
 902 Accessories - Type 3
 903 Accessories - Type 4
+1000 Pupil Type - Normal 1
+1001 Pupil Type - Normal 2
+1002 Pupil Type - Normal 3
+1003 Pupil Type - Sclera 1
+1004 Pupil Type - Sclera 2
+1005 Pupil Type - Sclera 3
+1006 Pupil Color - Cornea 1
+1007 Pupil Color - Cornea 2
+1008 Pupil Color - Cornea 3
+1100 Eyelashes - None
+1101 Eyelashes - Short
+1102 Eyelashes - Medium
+1103 Eyelashes - Long
+1200 ON
+1201 OFF
+1300 ON
+1301 OFF
+1310 ON
+1311 OFF
+100000 Body Type - A
+100001 Body Type - B
+100100 Age - Young
+100101 Age - Mature
+100102 Age - Aged
+100200 Class - Vagabond
+100201 Class - Warrior
+100202 Class - Hero
+100203 Class - Bandit
+100204 Class - Astrologer
+100205 Class - Prophet
+100206 Class - Samurai
+100207 Class - Prisoner
+100208 Class - Confessor
+100209 Class - Wretch
+100300 Gift - None
+100301 Gift - Crimson Amber Medallion
+100302 Gift - Lands Between Rune
+100303 Gift - Golden Seed
+100304 Gift - Fanged Imp Ashes
+100305 Gift - Cracked Pot
+100306 Gift - Stonesword Key
+100307 Gift - Bewitching Branch
+100308 Gift - Boiled Prawn
+100309 Gift - Shabriri's Woe
+100400 Voice - Young 1
+100401 Voice - Young 2
+100402 Voice - Mature 1
+100403 Voice - Mature 2
+100404 Voice - Aged 1
+100405 Voice - Aged 2

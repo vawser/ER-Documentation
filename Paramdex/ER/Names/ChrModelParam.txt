@@ -86,7 +86,7 @@
 3702 Raya Lucaria Scholar
 3703 Noble's Page
 3704 Battlemage
-3710 Crystallized Battlemage
+3710 Master Azur
 3720 Sorcerer with Orbhead
 3730 Stone Wizard Orb
 3750 Clayman
@@ -134,9 +134,9 @@
 4210 Warhawk
 4220 Land Octopus (Large)
 4230 Land Octopus (Small)
-4240 Enchanted Hand (Large)
-4241 Enchanted Hand (Large)
-4250 Enchanted Hand (Small)
+4240 Fingercreeper (Large)
+4241 Fingercreeper (Large)
+4250 Fingercreeper (Small)
 4260 Burial Watchdog
 4270 Lion Guardian
 4280 Giant Ant Queen
@@ -214,8 +214,8 @@
 4601 Armored Troll Knight (Blade)
 4602 Troll Knight
 4603 Troll Knight (Club)
-4604 Troll Knight (Covered Face, Club and Book)
-4620 Astel, Stars of Darkness
+4604 Troll Knight (Covered Face Club and Book)
+4620 Astel Stars of Darkness
 4630 Runebear
 4640 Ulcerated Tree Spirit
 4650 Dragonkin Soldier
@@ -223,7 +223,7 @@
 4670 Ancestor Spirit
 4680 Falling-star Beast
 4690 Grafted Scion
-4710 God-Devouring Serpent / Rykard, Lord of Blasphemy
+4710 God-Devouring Serpent / Rykard Lord of Blasphemy
 4711 Writhing Mass
 4720 Bestial Knight (Greataxe)
 4721 Bare-chested Champion
@@ -232,8 +232,8 @@
 4751 Godrick (Head and Torso)
 4760 Fire Giant
 4770 Gargoyle
-4800 Mohg, The Omen
-4801 Mohg, The Omen - Dead
+4800 Mohg The Omen
+4801 Mohg The Omen - Dead
 4810 Erdtree Avatar
 4811 Erdtree Avatar
 4820 Omenkiller
@@ -257,7 +257,7 @@
 6091 Turtle Pope
 6100 Rabbitgaroo
 7000 Fallen Hawk Soldier
-7100 White Mask Assailant
+7100 Ancient Hero
 8000 Torrent
 8100 Ballista
 8101 Giant Ballista

@@ -1878,7 +1878,7 @@
 4350330 [Castle Knight]
 4350360 [Castle Knight]
 4350550 [Castle Knight]
-4350560 [Castle Knight]
+4350560 [Castle Knight] Wrath
 4350570 [Castle Knight]
 4350571 [Castle Knight]
 4350572 [Castle Knight]
@@ -4828,7 +4828,7 @@
 20000157 Fire Arrow
 20000158 Fire Arrow
 20000159 Fire Arrow
-20000170 Firebone Arrow - Magma [1x]
+20000170 Fire Arrow
 20000175 Fire Arrow
 20000200 Serpent Arrow
 20000201 Serpent Arrow
@@ -5003,26 +5003,26 @@
 20000857 Dwelling Arrow
 20000858 Dwelling Arrow
 20000859 Dwelling Arrow
-20000870 Magicbone Arrow - Comet [1x]
+20000870 Dwelling Arrow
 20000875 Dwelling Arrow
-20000900 Bone Arrow - Standard
-20000901 Bone Arrow - Standard
+20000900 Bone Arrow
+20000901 Bone Arrow
 20000905 Bone Arrow
-20000910 Bone Arrow - Mighty Shot
+20000910 Bone Arrow
 20000911 Bone Arrow
 20000915 Bone Arrow
 20000916 Bone Arrow
-20000920 Bone Arrow - Barrage
+20000920 Bone Arrow
 20000925 Bone Arrow
-20000930 Bone Arrow - Enchanted Shot
+20000930 Bone Arrow
 20000935 Bone Arrow
-20000940 Bone Arrow - Sky Shot
+20000940 Bone Arrow
 20000945 Bone Arrow
-20000950 Bone Arrow - Rain of Arrows
-20000951 Bone Arrow - Rain of Arrows
-20000952 Bone Arrow - Rain of Arrows
-20000953 Bone Arrow - Rain of Arrows
-20000954 Bone Arrow - Rain of Arrows
+20000950 Bone Arrow
+20000951 Bone Arrow
+20000952 Bone Arrow
+20000953 Bone Arrow
+20000954 Bone Arrow
 20000955 Bone Arrow
 20000956 Bone Arrow
 20000957 Bone Arrow
@@ -5205,8 +5205,8 @@
 20001659 Stormwing Bone Arrow
 20001670 Stormwing Bone Arrow
 20001675 Stormwing Bone Arrow
-20001700 Lightning Arrow
-20001701 Lightning Arrow
+20001700 Lightningbone Arrow (Fletched)
+20001701 Lightningbone Arrow (Fletched)
 20001705 Lightningbone Arrow (Fletched)
 20001710 Lightningbone Arrow (Fletched)
 20001711 Lightningbone Arrow (Fletched)
@@ -5228,12 +5228,12 @@
 20001757 Lightningbone Arrow (Fletched)
 20001758 Lightningbone Arrow (Fletched)
 20001759 Lightningbone Arrow (Fletched)
-20001770 Lightningbone Arrow - Bolt [1x]
-20001775 Lightningbone Arrow - Bolt Water [1x]
-20001791 Lightningbone Arrow - Bolt [1.25x]
-20001792 Lightningbone Arrow - Bolt [1.25x]
-20001793 Lightningbone Arrow - Bolt [1.25x]
-20001794 Lightningbone Arrow - Bolt [1.25x]
+20001770 Lightningbone Arrow (Fletched)
+20001775 Lightningbone Arrow (Fletched)
+20001791 Lightningbone Arrow (Fletched)
+20001792 Lightningbone Arrow (Fletched)
+20001793 Lightningbone Arrow (Fletched)
+20001794 Lightningbone Arrow (Fletched)
 20001800 Lightningbone Arrow
 20001801 Lightningbone Arrow
 20001805 Lightningbone Arrow
@@ -5488,24 +5488,24 @@
 20002859 Bloodbone Arrow
 20002870 Bloodbone Arrow
 20002875 Bloodbone Arrow
-20002900 Blightbone Arrow
-20002901 Blightbone Arrow (Shortbow)
+20002900 Coldbone Arrow (Fletched)
+20002901 Coldbone Arrow (Fletched)
 20002905 Coldbone Arrow (Fletched)
-20002910 Blightbone Arrow
+20002910 Coldbone Arrow (Fletched)
 20002911 Coldbone Arrow (Fletched)
 20002915 Coldbone Arrow (Fletched)
 20002916 Coldbone Arrow (Fletched)
-20002920 Blightbone Arrow
+20002920 Coldbone Arrow (Fletched)
 20002925 Coldbone Arrow (Fletched)
-20002930 Blightbone Arrow
+20002930 Coldbone Arrow (Fletched)
 20002935 Coldbone Arrow (Fletched)
-20002940 Blightbone Arrow
+20002940 Coldbone Arrow (Fletched)
 20002945 Coldbone Arrow (Fletched)
-20002950 Blightbone Arrow
-20002951 Blightbone Arrow
-20002952 Blightbone Arrow
-20002953 Blightbone Arrow
-20002954 Blightbone Arrow
+20002950 Coldbone Arrow (Fletched)
+20002951 Coldbone Arrow (Fletched)
+20002952 Coldbone Arrow (Fletched)
+20002953 Coldbone Arrow (Fletched)
+20002954 Coldbone Arrow (Fletched)
 20002955 Coldbone Arrow (Fletched)
 20002956 Coldbone Arrow (Fletched)
 20002957 Coldbone Arrow (Fletched)
@@ -5538,24 +5538,24 @@
 20003059 Coldbone Arrow
 20003070 Coldbone Arrow
 20003075 Coldbone Arrow
-20003100 Frenzybone Arrow
-20003101 Frenzybone Arrow
+20003100 Rotbone Arrow (Fletched)
+20003101 Rotbone Arrow (Fletched)
 20003105 Rotbone Arrow (Fletched)
-20003110 Frenzybone Arrow
+20003110 Rotbone Arrow (Fletched)
 20003111 Rotbone Arrow (Fletched)
 20003115 Rotbone Arrow (Fletched)
 20003116 Rotbone Arrow (Fletched)
-20003120 Frenzybone Arrow
+20003120 Rotbone Arrow (Fletched)
 20003125 Rotbone Arrow (Fletched)
-20003130 Frenzybone Arrow
+20003130 Rotbone Arrow (Fletched)
 20003135 Rotbone Arrow (Fletched)
-20003140 Frenzybone Arrow
+20003140 Rotbone Arrow (Fletched)
 20003145 Rotbone Arrow (Fletched)
-20003150 Frenzybone Arrow
-20003151 Frenzybone Arrow
-20003152 Frenzybone Arrow
-20003153 Frenzybone Arrow
-20003154 Frenzybone Arrow
+20003150 Rotbone Arrow (Fletched)
+20003151 Rotbone Arrow (Fletched)
+20003152 Rotbone Arrow (Fletched)
+20003153 Rotbone Arrow (Fletched)
+20003154 Rotbone Arrow (Fletched)
 20003155 Rotbone Arrow (Fletched)
 20003156 Rotbone Arrow (Fletched)
 20003157 Rotbone Arrow (Fletched)
