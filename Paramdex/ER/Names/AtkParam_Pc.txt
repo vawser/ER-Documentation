@@ -426,16 +426,16 @@
 79984 Thops's Barrier
 79990 Ancient Dragons' Lightning Strike
 79991 Noble Presence
-100000 Default - Dagger
-100010 Default - Dagger
-100020 Default - Dagger
-100030 Default - Dagger
-100040 Default - Dagger
-100050 Default - Dagger
-100100 Default - Dagger
-100105 Default - Dagger
-100110 Default - Dagger
-100115 Default - Dagger
+100000 Default - Dagger - 1H Light #1
+100010 Default - Dagger - 1H Light #2
+100020 Default - Dagger - 1H Light #3
+100030 Default - Dagger - 1H Light #4
+100040 Default - Dagger - 1H Light #5
+100050 Default - Dagger - 1H Light #6
+100100 Default - Dagger - 1H Heavy #1
+100105 Default - Dagger - 1H Heavy #1 Max
+100110 Default - Dagger - 1H Heavy #2
+100115 Default - Dagger - 1H Heavy #2 Max
 100120 Default - Dagger
 100125 Default - Dagger
 100130 Default - Dagger
@@ -445,16 +445,16 @@
 100160 Default - Dagger
 100165 Default - Dagger
 100180 Default - Dagger
-100200 Default - Dagger
-100210 Default - Dagger
-100220 Default - Dagger
-100230 Default - Dagger
-100240 Default - Dagger
-100250 Default - Dagger
-100300 Default - Dagger
-100305 Default - Dagger
-100310 Default - Dagger
-100315 Default - Dagger
+100200 Default - Dagger - 2H Light #1
+100210 Default - Dagger - 2H Light #2
+100220 Default - Dagger - 2H Light #3
+100230 Default - Dagger - 2H Light #4
+100240 Default - Dagger - 2H Light #5
+100250 Default - Dagger - 2H Fall Landing
+100300 Default - Dagger - 2H Heavy #1
+100305 Default - Dagger - 2H Heavy #1 Max
+100310 Default - Dagger - 2H Heavy #2
+100315 Default - Dagger - 2H Heavy #2 Max
 100320 Default - Dagger
 100325 Default - Dagger
 100330 Default - Dagger
@@ -464,12 +464,12 @@
 100360 Default - Dagger
 100365 Default - Dagger
 100380 Default - Dagger
-100400 Default - Dagger
-100410 Default - Dagger
-100420 Default - Dagger
-100430 Default - Dagger
-100440 Default - Dagger
-100450 Default - Dagger
+100400 Default - Dagger - Left 1H Light #1
+100410 Default - Dagger - Left 1H Light #2
+100420 Default - Dagger - Left 1H Light #3
+100430 Default - Dagger - Left 1H Light #4
+100440 Default - Dagger - Left 1H Light #5
+100450 Default - Dagger - Left 1H Light #6
 100460 Default - Dagger
 100470 Default - Dagger
 100480 Default - Dagger
@@ -4285,22 +4285,22 @@
 5010845 Dwelling Arrow
 5010850 Dwelling Arrow
 5010855 Dwelling Arrow
-5010870 Magicbone Arrow - Comet [1x]
+5010870 Dwelling Arrow
 5010875 Dwelling Arrow
-5011300 Bone Arrow - Standard
+5011300 Bone Arrow
 5011310 Bone Arrow
 5011400 Bone Arrow
-5011810 Bone Arrow - Mighty Shot
+5011810 Bone Arrow
 5011811 Bone Arrow
 5011815 Bone Arrow
 5011816 Bone Arrow
-5011820 Bone Arrow - Barrage
+5011820 Bone Arrow
 5011825 Bone Arrow
-5011830 Bone Arrow - Enchanted Shot
+5011830 Bone Arrow
 5011835 Bone Arrow
-5011840 Bone Arrow - Sky Shot
+5011840 Bone Arrow
 5011845 Bone Arrow
-5011850 Bone Arrow - Rain of Arrows
+5011850 Bone Arrow
 5011855 Bone Arrow
 5011870 Bone Arrow
 5011875 Bone Arrow
@@ -4422,23 +4422,23 @@
 5019855 Stormwing Bone Arrow
 5019870 Stormwing Bone Arrow
 5019875 Stormwing Bone Arrow
-5020300 Lightning
-5020310 Lightning
-5020810 Lightning
-5020811 Lightning
-5020815 Lightning
-5020816 Lightning
-5020820 Lightning
-5020825 Lightning
-5020830 Lightning
-5020835 Lightning
-5020840 Lightning
-5020845 Lightning
-5020850 Lightning
-5020855 Lightning
-5020870 Lightningbone Arrow - Bolt [1x]
+5020300 Lightningbone Arrow (Fletched)
+5020310 Lightningbone Arrow (Fletched)
+5020810 Lightningbone Arrow (Fletched)
+5020811 Lightningbone Arrow (Fletched)
+5020815 Lightningbone Arrow (Fletched)
+5020816 Lightningbone Arrow (Fletched)
+5020820 Lightningbone Arrow (Fletched)
+5020825 Lightningbone Arrow (Fletched)
+5020830 Lightningbone Arrow (Fletched)
+5020835 Lightningbone Arrow (Fletched)
+5020840 Lightningbone Arrow (Fletched)
+5020845 Lightningbone Arrow (Fletched)
+5020850 Lightningbone Arrow (Fletched)
+5020855 Lightningbone Arrow (Fletched)
+5020870 Lightningbone Arrow (Fletched)
 5020875 Lightningbone Arrow (Fletched)
-5020890 Lightningbone Arrow - Bolt [1.25x]
+5020890 Lightningbone Arrow (Fletched)
 5021300 Lightningbone Arrow
 5021310 Lightningbone Arrow
 5021400 Lightningbone Arrow
@@ -4609,23 +4609,23 @@
 5031855 Bloodbone Arrow
 5031870 Bloodbone Arrow
 5031875 Bloodbone Arrow
-5032300 Blightbone Arrow
-5032310 Blightbone Arrow
-5032400 Blightbone Arrow
-5032810 Blightbone Arrow
-5032811 Blightbone Arrow
-5032815 Blightbone Arrow
-5032816 Blightbone Arrow
-5032820 Blightbone Arrow
-5032825 Blightbone Arrow
-5032830 Blightbone Arrow
-5032835 Blightbone Arrow
-5032840 Blightbone Arrow
-5032845 Blightbone Arrow
-5032850 Blightbone Arrow
-5032855 Blightbone Arrow
-5032870 Blightbone Arrow
-5032875 Blightbone Arrow
+5032300 Coldbone Arrow (Fletched)
+5032310 Coldbone Arrow (Fletched)
+5032400 Coldbone Arrow (Fletched)
+5032810 Coldbone Arrow (Fletched)
+5032811 Coldbone Arrow (Fletched)
+5032815 Coldbone Arrow (Fletched)
+5032816 Coldbone Arrow (Fletched)
+5032820 Coldbone Arrow (Fletched)
+5032825 Coldbone Arrow (Fletched)
+5032830 Coldbone Arrow (Fletched)
+5032835 Coldbone Arrow (Fletched)
+5032840 Coldbone Arrow (Fletched)
+5032845 Coldbone Arrow (Fletched)
+5032850 Coldbone Arrow (Fletched)
+5032855 Coldbone Arrow (Fletched)
+5032870 Coldbone Arrow (Fletched)
+5032875 Coldbone Arrow (Fletched)
 5033300 Coldbone Arrow
 5033310 Coldbone Arrow
 5033400 Coldbone Arrow
@@ -4677,13 +4677,13 @@
 5035855 Rotbone Arrow
 5035870 Rotbone Arrow
 5035875 Rotbone Arrow
-5099999 Arrow Dummy
+5099999 Rotbone Arrow
 5100300 Great Arrow
-5100850 Great Arrow - Rain of Arrows
+5100850 Great Arrow
 5100855 Great Arrow
 5100870 Great Arrow
 5100875 Great Arrow
-5100880 Great Arrow - Radahn's Rain
+5100880 Great Arrow
 5100885 Great Arrow
 5101300 Golem's Great Arrow
 5101301 Golem's Great Arrow
@@ -4897,12 +4897,12 @@
 10335000 Bewitching Branch
 10335001 Bewitching Branch
 10350000 Uplifting Aromatic
-10351000 Spark Aromatic
+10351000 Spark Aromatic [Hit]
 10352000 Ironjar Aromatic
 10355000 Bloodboil Aromatic
 10358000 Poison Spraymist [Hit]
 10361000 Acid Spraymist [Hit]
-30090011 Ash of War - Ice Lightning
+30090011 Dragon Halberd
 30200921 Golden Great Arrow
 300000920 Gargoyle's Blackblade
 300100310 Default - Dagger
