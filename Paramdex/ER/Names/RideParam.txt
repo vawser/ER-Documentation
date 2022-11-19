@@ -1,4 +1,3 @@
-80000 Player <> Torrent
 300081001 Castle Exile <> Ballista
 300081011 Castle Exile <> Giant Ballista
 300081101 Castle Exile <> Dragon-faced Flamethrower
@@ -77,3 +76,4 @@
 495149501 Godrick Torso <> Godrick the Grafted
 495149502 Godrick Torso <> Godrick the Grafted
 495149503 Godrick Torso <> Godrick the Grafted
+80000 Player <> Torrent

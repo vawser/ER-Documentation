@@ -1,306 +1,4 @@
 100 (dummyText)
-200 (dummyText)
-1400000 The fallen leaves tell a story.
-1400010 The great Elden Ring was shattered.
-1400020 In our home, across the fog, the Lands Between.
-1400030 Now, Queen Marika the Eternal is nowhere to be found,
-1400040 and in the Night of the Black Knives, Godwyn the Golden was first to perish.
-1400050 Soon, Marika's offspring, demigods all, claimed the shards of the Elden Ring.
-1400060 The mad taint of their newfound strength triggered the Shattering.
-1400080 A war from which no lord arose.
-1400090 A war leading to abandonment by the Greater Will.
-1500000 Arise now, ye Tarnished.
-1500010 Ye dead, who yet live.
-1500020 The call of long-lost grace speaks to us all.
-1500030 Hoarah Loux, chieftain of the badlands.
-1500040 The ever-brilliant Goldmask.
-1500050 Fia, the Deathbed Companion.
-1500060 The loathsome Dung Eater.
-1500070 And Sir Gideon Ofnir, the All-knowing.
-1500080 <blank>
-2001500 Don't worry Torrent, fortune is on his side.
-2001510 We found him here, after all.
-2001520 One of his kind is sure to seek the Elden Ring.
-2001530 ...Even if it does violate the Golden Order...
-2001900 <blank>
-2003000 Foul Tarnished,
-2003010 In search of the Elden Ring.
-2003020 Emboldened by the flame of ambition.
-2003030 Hrah!
-2003040 Someone must extinguish thy flame.
-2003050 Let it be Margit the Fell!
-2003900 <blank>
-2004000 Mighty dragon, thou'rt a trueborn heir.
-2004010 Lend me thy strength, o kindred.
-2004020 Deliver me unto greater heights.
-2004030 ...Well.
-2004040 A lowly Tarnished,
-2004041 playing as a lord.
-2004050 I command thee, kneel!
-2004060 I am the lord of all that is golden!
-2004900 <blank>
-2005000 <blank>
-2005001 <blank>
-2005010 <panting>
-2005020 Ahh, truest of dragons.
-2005030 Lend me thy strength...
-2005040 Nnngh!
-2005050 <panting>
-2005060 Forefathers, one and all...
-2005080 Bear witness!
-2005900 <blank>
-2007000 It's been a long while, Morgott.
-2007010 Long and hard didst thou fight.
-2007020 Tarnished Warrior.
-2007021 Spurned by the grace of gold.
-2007030 Be assured, the Elden Ring
-2007040 resteth close at hand.
-2007050 Alas, I am returned.
-2007060 To be granted audience once more.
-2007070 Upon my name as Godfrey,
-2007080 The first Elden Lord!
-2007900 <blank>
-2008000 Nngh!
-2008010 That will be all.
-2008020 Thou didst me good service, Serosh.
-2008030 I've given thee courtesy enough.
-2008050 Rrraaargh!
-2008060 <exhales>
-2008070 Now I fight as Hoarah Loux!
-2008080 Warrior!
-2008900 <blank>
-2009900 <blank>
-2010900 <blank>
-2012900 <blank>
-2014000 Dearest Miquella.
-2014010 You must abide alone a while.
-2014520 Welcome, honoured guest.
-2014530 To the birthplace of our dynasty!
-2014900 <blank>
-2016900 <blank>
-2020900 <blank>
-2021000 Foul Tarnished.
-2021010 Graceless Tarnished.
-2021020 What is thy business with these thrones?
-2021030 Ahh...
-2021040 Godrick the Golden.
-2021050 The twin prodigies, Miquella and Malenia.
-2021060 General Radahn.
-2021070 Praetor Rykard.
-2021080 Lunar Princess Ranni.
-2021090 Wilful traitors, all.
-2021100 Thy kind are all of a piece.
-2021111 Pillagers. Emboldened by the flame of ambition.
-2021120 Ngh!
-2021130 Have it writ upon thy meagre grave:
-2021140 Felled by King Morgott! Last of all kings.
-2021900 <blank>
-2023000 <blank>
-2023010 O, Death.
-2023020 Become my blade, once more.
-2023030 <blank>
-2023040 <blank>
-2023050 <long exhalation>
-2023900 <blank>
-2024030 <children giggling>
-2024510 Hush, little culver.
-2024520 I'll soon birth thee anew, a sweeting fresh and pure...
-2024900 <blank>
-2025500 Ahh, my beloved...
-2025510 Have no fear, I will hold thee. Patience...
-2025520 Ye will be countless born, forever and ever.
-2025530 Upon my name as Ranni the Witch.
-2025541 Mother's rich slumber shall not be
-2025550 Foul trespasser.
-2025560 Send word far and wide.
-2025570 Of the last Queen of Caria,
-2025580 And the majesty of the night
-2025900 <blank>
-2026000 I dreamt for so long.
-2026010 My flesh was dull gold...and my blood, rotted.
-2026020 Corpse after corpse, left in my wake...
-2026030 As I awaited...his return.
-2026040 ...Heed my words.
-2026050 I am Malenia.
-2026060 And I have never known defeat.
-2026900 <blank>
-2027500 Wait.
-2027510 The scarlet bloom flowers once more.
-2027520 You will witness true horror.
-2027530 Now, rot!
-2027900 <blank>
-2028900 <blank>
-2029000 Farewell, then.
-2029010 May your visit be fruitful.
-2029900 <blank>
-2030000 Hmm...
-2030010 Very well.
-2030020 You...
-2030031 Join the Serpent King, as family...
-2030041 Together, we will devour the very gods!
-2030900 <blank>
-2031900 <blank>
-2032900 <blank>
-2034900 <blank>
-2034910 <blank>
-2034920 <blank>
-2035900 <blank>
-2036900 <blank>
-2037900 <blank>
-2038900 <blank>
-2038910 <blank>
-2038920 <blank>
-2039000 <blank>
-2039010 <blank>
-2039020 <blank>
-2039030 <blank>
-2039040 <blank>
-2039100 General Radahn is cursed ever to wander.
-2039101 Before we begin, allow me to paint you the full picture.
-2039110 Eaten from the inside, by Malenia's scarlet rot, his wits are long gone.
-2039120 Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.
-2039130 Howling at the sky.
-2040900 <blank>
-2043000 O Erdtree, you shall burn.
-2043010 Burn, for the sake of the new Lord.
-2043020 Thank you. For guiding me here.
-2043030 The one who walks alongside flame,
-2043040 Shall one day meet the road of Destined Death.
-2043050 Good-bye.
-2043060 I hope you will become Lord. Lord of each and all.
-2043900 <blank>
-2043910 <blank>
-2045000 Aaargh! Aargh!
-2045010 <guttural moan>
-2045020 Nngghaa!
-2045030 Argh!
-2045040 <great howl>
-2045900 <blank>
-2047900 <blank>
-2048000 Now wilt ye serve, each and all.
-2048001 The Elden Lord is crowned.
-2048010 The new Elden Lord,
-2048011 And so beginneth the age of fracture...
-2048100 The fallen leaves tell a story.
-2048110 Of how a Tarnished, of no renown, became Elden Lord.
-2048200 The fallen leaves tell a story.
-2048201 The fallen leaves tell a story.
-2048202 The fallen leaves tell a story.
-2048210 Of how a Tarnished became Elden Lord.
-2048211 Of how a Tarnished became Elden Lord.
-2048212 Of how a Tarnished became Elden Lord.
-2048220 In our home, across the fog, the Lands Between.
-2048221 In our home, across the fog, the Lands Between.
-2048222 In our home, across the fog, the Lands Between.
-2048300 Our seed will look back upon us, and recall.
-2048310 An Age of Fracture.
-2048400 Our seed will look back upon us, and recall.
-2048410 The Age of Order.
-2048415 The Age Absolute.
-2048500 Our seed will look back upon us, and recall.
-2048510 The Age of the Duskborn
-2048600 Our seed will look back upon us, and recall.
-2048610 The reviled curse that defined our age.
-2048620 The Blessing of Despair.
-2048900 <blank>
-2049000 ...The battle is over, I see.
-2049010 I do solemnly swear.
-2049020 To every living being, and every living soul.
-2049030 Now cometh the age of the stars.
-2049040 A thousand year voyage
-2049050 Here beginneth the chill night that encompasses all, reaching the great beyond.
-2049060 Into fear, doubt, and loneliness...
-2049070 As the path stretcheth into darkness...
-2049080 Well then. Shall we?
-2049090 My fair consort, eternal.
-2049500 ...The battle is over, I see.
-2049510 I do solemnly swear.
-2049520 To every living being, and every living soul.
-2049530 Now cometh the age of the stars.
-2049540 A thousand year voyage
-2049550 Here beginneth the chill night that encompasses all, reaching the great beyond.
-2049560 Into fear, doubt, and loneliness...
-2049570 As the path stretcheth into darkness...
-2049580 Let us go, together.
-2049590 My dear consort, eternal.
-2049900 <blank>
-2050000 Lord of Frenzied Flame...
-2050011 I will seek you, as far as you may travel...
-2050020 To deliver you what is yours.
-2050030 Destined Death.
-2054000 Young seedling, young seedling.
-2054010 Return to the bosom of earth.
-2054020 But remember well,
-2054030 Thou'rt mine.
-2054040 So shall I give of myself. This is for thee.
-2054050 Mine abundance, my drop of dew.
-2054060 Quench thy thirst, throughout thy frame.
-2054070 Blossom and burgeon, time and again.
-2054080 Grow larger, stronger.
-2054090 Until the day cometh.
-2054100 When thou canst share in my dream.
-2054110 Elden Ring, O Elden Ring.
-2054120 Beget Order most elegant, from my tender reverie.
-2055900 <blank>
-2058000 Greetings.
-2058010 Traveller from beyond the Fog.
-2058020 I am Melina.
-2058030 I offer you an accord.
-2058900 <blank>
-2058910 <blank>
-2058920 <blank>
-2058930 <blank>
-2058940 <blank>
-2058950 <blank>
-2059900 <blank>
-2062900 <blank>
-2063900 <blank>
-2064000 And one other. Whom grace would again bless.
-2064010 A Tarnished of no renown.
-2064020 Cross the fog, to the Lands Between.
-2064030 to stand before the Elden Ring.
-2064040 And become the Elden Lord.
-2064900 <blank>
-2068900 <blank>
-2069900 <blank>
-2070000 The Rune of Death is unbound.
-2070010 Black flames have devoured the Erdtree,
-2070011 and the Lands Between are shrouded by Death's dark fate.
-2070020 But the flames will also burn the impenetrable thorns.
-2070030 Farewell it is, then.
-2070040 You'll be Elden Lord, yet.
-2073000 Well, if you really are that gullible...
-2073001 Ngh!
-2073010 then stay away from the Volcano Manor!
-2073020 Bye now!
-2073030 Take care!
-2073900 <blank>
-2074000 <blank>
-2075000 <blank>
-2075010 Lord host, I could not be more content.
-2075020 I found knowledge, and then found someone. That someone was you.
-2075030 And now, inside you, here I am...
-2076000 <blank>
-2077000 Well well well?
-2077010 I should have known, you scheming little thief.
-2077020 The gods demand vengeance. Vengeance!
-2078000 He he he he he...
-2078010 My sincerest gratitude. I thought I'd never wrench that thing open.
-2078020 You're the finest customer a man ever had!
-2083000 <blank>
-2083010 This is how you die, you disgusting Tarnished.
-2083020 Don't worry, I've got big plans for you. After you snuff it...
-2084000 <blank>
-2084010 <blank>
-2084020 <blank>
-2085000 <screaming>
-2085010 <blank>
-2085020 <blank>
-2086000 <screaming>
-2086010 <blank>
-2086020 (explained above)
-2086030 Unleash it upon them! A cursed blessing to all!
-2086040 (scream of pain)
 10001000 Have you heard of the Finger Maidens?
 10001001 They serve the Two Fingers, offering guidance, and aid, to the Tarnished.
 10001002 But you, I am afraid, are maidenless.
@@ -363,7 +61,7 @@
 10004500 In Marika's own words.
 10004501 The Erdtree governs all. The choice is thine.
 10004502 Become one with the Order. Or divest thyself of it.
-10004503 To wallow at the fringes, a powerless upstart.
+10004503 To wallow at the fringes; a powerless upstart.
 10010100 In Marika's own words.
 10010101 Hear me, Demigods. My children beloved.
 10010102 Make of thyselves that which ye desire. Be it a Lord. Be it a God.
@@ -377,7 +75,7 @@
 10010301 I declare mine intent, to search the depths of the Golden Order.
 10010302 Through understanding of the proper way, our faith, our grace, is increased.
 10010303 Those blissful early days of blind belief are long past.
-10010304 My comrades, why must ye falter?
+10010304 My comrades; why must ye falter?
 10010400 In Marika's own words.
 10010401 Hark, brave warriors. Hark, my lord Godfrey. We commend your deeds.
 10010402 Guidance hath delivered ye through each ordeal, to the place ye stand.
@@ -453,7 +151,7 @@
 10014002 You were unable to enter the Erdtree, no?
 10014003 Prevented by the mantle of barbs.
 10014004 The thorns are impenetrable.
-10014005 A husk of the Erdtree's being, that spurns all that exists without.
+10014005 A husk of the Erdtree's being; that spurns all that exists without.
 10014006 The only way to stand before the Elden Ring...
 10014007 and become the Elden Lord...is to pass the thorns.
 10014008 My purpose serves to aid in that very act.
@@ -565,7 +263,7 @@
 10105000 Oh, bless you.
 10105001 Oh..ohh!
 10105002 Head to the foundation of gold, Tarnished...
-10105003 Traverse Raya Lucaria, "Glintstone Eventide"�
+10105003 Traverse Raya Lucaria; "Glintstone Eventide"�
 10105004 �and reunite the half crescents, at the Grand Lift.
 10105005 Oh, but the bridge is collapsed, and cannot be crossed.
 10105006 Only, why should that matter!
@@ -668,7 +366,7 @@
 10200114 "Seek another of its kind."
 10200115 "To become Elden Lord, and restore the Golden Order."
 10200116 Let the words of the Fingers guide you.
-10200200 Ahh, Great Runes are the stuff of demigods,
+10200200 Ahh, Great Runes are the stuff of demigods;
 10200201 the children of the goddess, Queen Marika. She who is vessel of the Elden Ring.
 10200202 Tainted by the strength of their runes, her children warred, but none could become Elden Lord.
 10200203 And so grace was extended, to your kind, the Tarnished.
@@ -727,7 +425,7 @@
 10203000 Heavens forbid...
 10203001 That is not the domain of mere men.
 10203002 The burning of the Erdtree is the first cardinal sin. And you say you seek the power of the Rune of Death, too?
-10203003 The Rune of Death goes by two names, the other is Destined Death.
+10203003 The Rune of Death goes by two names; the other is Destined Death.
 10203004 The forbidden shadow, plucked from the Golden Order upon its creation�
 10203005 Unleashing the rune now would be unthinkable...
 10203006 The Fingers would never permit it. Nor would the Greater Will.
@@ -865,7 +563,7 @@
 10613002 I would have thee join him in searching for the hidden treasure of Nokron, the Eternal City.
 10613003 I have called for Blaidd to greet thee below. Take from him the particulars.
 10613004 Ah, and there wilt thou find Iji, my war counselor, and Seluvis, preceptor in the sorcerous arts, also.
-10613005 Heed not their peculiarities, feel secure in gaining from them what advantage thou canst.
+10613005 Heed not their peculiarities; feel secure in gaining from them what advantage thou canst.
 10613006 I am sure the others will be doing just the same.
 10613010 Good, then I ask we proceed with haste.
 10613011 There is, in my service, a half-wolven warrior by the name of Blaidd.
@@ -879,7 +577,7 @@
 10613503 Go there to find the city's hidden treasure.
 10613600 Ah, yes. Iji, my war counselor, and Seluvis, preceptor in the sorcerous arts, can be found below.
 10613601 Like thee, they are in my service.
-10613602 Heed not their peculiarities, feel secure in gaining from them what advantage thou canst.
+10613602 Heed not their peculiarities; feel secure in gaining from them what advantage thou canst.
 10613603 I am sure the others will be doing just the same.
 10613700 Speak with the three who await thee below.
 10613701 Thou needst not indulge them unduly, but they too wish to appraise thy worth.
@@ -1031,6 +729,25 @@
 11201020 ...
 11201030 ...
 11201040 ...
+1400000 The fallen leaves tell a story.
+1400010 The great Elden Ring was shattered.
+1400020 In our home, across the fog, the Lands Between.
+1400030 Now, Queen Marika the Eternal is nowhere to be found,
+1400040 and in the Night of the Black Knives, Godwyn the Golden was first to perish.
+1400050 Soon, Marika's offspring, demigods all, claimed the shards of the Elden Ring.
+1400060 The mad taint of their newfound strength triggered the Shattering.
+1400080 A war from which no lord arose.
+1400090 A war leading to abandonment by the Greater Will.
+1500000 Arise now, ye Tarnished.
+1500010 Ye dead, who yet live.
+1500020 The call of long-lost grace speaks to us all.
+1500030 Hoarah Loux, chieftain of the badlands.
+1500040 The ever-brilliant Goldmask.
+1500050 Fia, the Deathbed Companion.
+1500060 The loathsome Dung Eater.
+1500070 And Sir Gideon Ofnir, the All-knowing.
+1500080 <blank>
+200 (dummyText)
 20000100 Come, sweetings, become what ye desire.
 20000190 Come, sweetings, time to be born, anew.
 20000200 Be not afeard, little culver.
@@ -1043,7 +760,7 @@
 20000791 Weave thy night into being...
 20000900 Where did ye flee, my sweetings?
 20000901 Come out, from whence ye hide. There are books and light aplenty.
-20000902 Dither not, come out say I!
+20000902 Dither not; come out say I!
 20000903 Or will ye be gravestones? To be better born anew?
 20001000 Ah...thou...
 20001001 Is it thy wish to be born anew?
@@ -1063,6 +780,66 @@
 20003000 Where did ye flee, my sweetings?
 20003001 Come out, from whence ye hide. Of the dark, be not afeard.
 20003002 My beloved egg is with us. Come out, I prithee.
+2001500 Don't worry Torrent, fortune is on his side.
+2001510 We found him here, after all.
+2001520 One of his kind is sure to seek the Elden Ring.
+2001530 ...Even if it does violate the Golden Order...
+2001900 <blank>
+2003000 Foul Tarnished,
+2003010 In search of the Elden Ring.
+2003020 Emboldened by the flame of ambition.
+2003030 Hrah!
+2003040 Someone must extinguish thy flame.
+2003050 Let it be Margit the Fell!
+2003900 <blank>
+2004000 Mighty dragon, thou'rt a trueborn heir.
+2004010 Lend me thy strength, o kindred.
+2004020 Deliver me unto greater heights.
+2004030 ...Well.
+2004040 A lowly Tarnished,
+2004041 playing as a lord.
+2004050 I command thee, kneel!
+2004060 I am the lord of all that is golden!
+2004900 <blank>
+2005000 <blank>
+2005001 <blank>
+2005010 <panting>
+2005020 Ahh, truest of dragons.
+2005030 Lend me thy strength...
+2005040 Nnngh!
+2005050 <panting>
+2005060 Forefathers, one and all...
+2005080 Bear witness!
+2005900 <blank>
+2007000 It's been a long while, Morgott.
+2007010 Long and hard didst thou fight.
+2007020 Tarnished Warrior.
+2007021 Spurned by the grace of gold.
+2007030 Be assured, the Elden Ring
+2007040 resteth close at hand.
+2007050 Alas, I am returned.
+2007060 To be granted audience once more.
+2007070 Upon my name as Godfrey,
+2007080 The first Elden Lord!
+2007900 <blank>
+2008000 Nngh!
+2008010 That will be all.
+2008020 Thou didst me good service, Serosh.
+2008030 I've given thee courtesy enough.
+2008050 Rrraaargh!
+2008060 <exhales>
+2008070 Now I fight as Hoarah Loux!
+2008080 Warrior!
+2008900 <blank>
+2009900 <blank>
+2010900 <blank>
+2012900 <blank>
+2014000 Dearest Miquella.
+2014010 You must abide alone a while.
+2014520 Welcome, honoured guest.
+2014530 To the birthplace of our dynasty!
+2014900 <blank>
+2016900 <blank>
 20200100 ...
 20200200 ...
 20200201 I smell it... Death...
@@ -1138,6 +915,57 @@
 20206101 Why...
 20206110 Tis no matter. I hereby vow,
 20206111 that Destined Death shall not be stolen again.
+2020900 <blank>
+2021000 Foul Tarnished.
+2021010 Graceless Tarnished.
+2021020 What is thy business with these thrones?
+2021030 Ahh...
+2021040 Godrick the Golden.
+2021050 The twin prodigies, Miquella and Malenia.
+2021060 General Radahn.
+2021070 Praetor Rykard.
+2021080 Lunar Princess Ranni.
+2021090 Wilful traitors, all.
+2021100 Thy kind are all of a piece.
+2021111 Pillagers. Emboldened by the flame of ambition.
+2021120 Ngh!
+2021130 Have it writ upon thy meagre grave:
+2021140 Felled by King Morgott! Last of all kings.
+2021900 <blank>
+2023000 <blank>
+2023010 O, Death.
+2023020 Become my blade, once more.
+2023030 <blank>
+2023040 <blank>
+2023050 <long exhalation>
+2023900 <blank>
+2024030 <children giggling>
+2024510 Hush, little culver.
+2024520 I'll soon birth thee anew, a sweeting fresh and pure...
+2024900 <blank>
+2025500 Ahh, my beloved...
+2025510 Have no fear, I will hold thee. Patience...
+2025520 Ye will be countless born, forever and ever.
+2025530 Upon my name as Ranni the Witch.
+2025541 Mother's rich slumber shall not be
+2025550 Foul trespasser.
+2025560 Send word far and wide.
+2025570 Of the last Queen of Caria,
+2025580 And the majesty of the night
+2025900 <blank>
+2026000 I dreamt for so long.
+2026010 My flesh was dull gold...and my blood, rotted.
+2026020 Corpse after corpse, left in my wake...
+2026030 As I awaited...his return.
+2026040 ...Heed my words.
+2026050 I am Malenia.
+2026060 And I have never known defeat.
+2026900 <blank>
+2027500 Wait.
+2027510 The scarlet bloom flowers once more.
+2027520 You will witness true horror.
+2027530 Now, rot!
+2027900 <blank>
 20280000 I shall not part with it again.
 20280100 Stay away from Destined Death.
 20280200 Cower. Before Maliketh, the Black Blade.
@@ -1152,9 +980,35 @@
 20281100 Marika...why...
 20281101 wouldst thou...gull me?
 20281102 Why...shatter...
+2028900 <blank>
+2029000 Farewell, then.
+2029010 May your visit be fruitful.
+2029900 <blank>
+2030000 Hmm...
+2030010 Very well.
+2030020 You...
+2030031 Join the Serpent King, as family...
+2030041 Together, we will devour the very gods!
+2030900 <blank>
+2031900 <blank>
+2032900 <blank>
+2034900 <blank>
+2034910 <blank>
+2034920 <blank>
+2035900 <blank>
+2036900 <blank>
+2037900 <blank>
+2038900 <blank>
+2038910 <blank>
+2038920 <blank>
+2039000 <blank>
 20390000 I am Malenia. Blade of Miquella.
+2039010 <blank>
 20390100 Let your flesh be consumed.
 20390101 By the scarlet rot.
+2039020 <blank>
+2039030 <blank>
+2039040 <blank>
 20390400 Is this...my first...defeat?
 20390401 Bravely fought, sir.
 20390402 But remember...
@@ -1164,6 +1018,11 @@
 20390505 O, dear Miquella...
 20390506 O, dearest Miquella, my brother...
 20390507 I'm sorry. I finally met my match...
+2039100 General Radahn is cursed ever to wander.
+2039101 Before we begin, allow me to paint you the full picture.
+2039110 Eaten from the inside, by Malenia's scarlet rot, his wits are long gone.
+2039120 Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.
+2039130 Howling at the sky.
 20400100 Well, thou art of passing skill.
 20400110 Warrior blood must truly run in thy veins, Tarnished.
 20400200 As I thought, thou'rt of passing valour...
@@ -1189,20 +1048,52 @@
 20401100 <blank>
 20401110 <blank>
 20401120 <blank>
+2040900 <blank>
+2043000 O Erdtree, you shall burn.
+2043010 Burn, for the sake of the new Lord.
+2043020 Thank you. For guiding me here.
+2043030 The one who walks alongside flame,
+2043040 Shall one day meet the road of Destined Death.
+2043050 Good-bye.
+2043060 I hope you will become Lord. Lord of each and all.
+2043900 <blank>
+2043910 <blank>
+2045000 Aaargh! Aargh!
+2045010 <guttural moan>
+2045020 Nngghaa!
+2045030 Argh!
+2045040 <great howl>
+2045900 <blank>
+2047900 <blank>
+2048000 Now wilt ye serve, each and all.
 20480000 Well, thou art of passing skill.
 20480001 Warrior blood must truly run in thy veins, Tarnished.
+2048001 The Elden Lord is crowned.
+2048010 The new Elden Lord,
 20480100 Put these foolish ambitions to rest.
+2048011 And so beginneth the age of fracture...
 20480200 I shall remember thee, Tarnished.
 20480201 Smould'ring with thy meagre flame.
 20480202 Cower in fear. Of the night.
 20480203 The hands of the Fell Omen shall brook thee no quarter.
+2048100 The fallen leaves tell a story.
+2048110 Of how a Tarnished, of no renown, became Elden Lord.
+2048200 The fallen leaves tell a story.
 20482000 Hrghraah!
+2048201 The fallen leaves tell a story.
 20482010 The thrones...stained by my curse...
 20482011 Such shame I cannot bear.
 20482012 Thy part in this shall not be forgiven.
+2048202 The fallen leaves tell a story.
+2048210 Of how a Tarnished became Elden Lord.
 20482100 Have it writ upon thy meagre grave:
 20482101 Felled by King Morgott! Elden Lord!
+2048211 Of how a Tarnished became Elden Lord.
+2048212 Of how a Tarnished became Elden Lord.
+2048220 In our home, across the fog, the Lands Between.
 20482200 May the curse seep to thy very soul.
+2048221 In our home, across the fog, the Lands Between.
+2048222 In our home, across the fog, the Lands Between.
 20482300 ...
 20482301 Tarnished, thou'rt but a fool.
 20482302 The Erdtree wards off all who deign approach.
@@ -1211,6 +1102,75 @@
 20482310 None may claim the title of Elden Lord.
 20482311 Thy deeds shall be met with failure, just as I.
 20482312 <blank>
+2048300 Our seed will look back upon us, and recall.
+2048310 An Age of Fracture.
+2048400 Our seed will look back upon us, and recall.
+2048410 The Age of Order.
+2048415 The Age Absolute.
+2048500 Our seed will look back upon us, and recall.
+2048510 The Age of the Duskborn
+2048600 Our seed will look back upon us, and recall.
+2048610 The reviled curse that defined our age.
+2048620 The Blessing of Despair.
+2048900 <blank>
+2049000 ...The battle is over, I see.
+2049010 I do solemnly swear.
+2049020 To every living being, and every living soul.
+2049030 Now cometh the age of the stars.
+2049040 A thousand year voyage
+2049050 Here beginneth the chill night that encompasses all, reaching the great beyond.
+2049060 Into fear, doubt, and loneliness...
+2049070 As the path stretcheth into darkness...
+2049080 Well then. Shall we?
+2049090 My fair consort, eternal.
+2049500 ...The battle is over, I see.
+2049510 I do solemnly swear.
+2049520 To every living being, and every living soul.
+2049530 Now cometh the age of the stars.
+2049540 A thousand year voyage
+2049550 Here beginneth the chill night that encompasses all, reaching the great beyond.
+2049560 Into fear, doubt, and loneliness...
+2049570 As the path stretcheth into darkness...
+2049580 Let us go, together.
+2049590 My dear consort, eternal.
+2049900 <blank>
+2050000 Lord of Frenzied Flame...
+2050011 I will seek you, as far as you may travel...
+2050020 To deliver you what is yours.
+2050030 Destined Death.
+2054000 Young seedling, young seedling.
+2054010 Return to the bosom of earth.
+2054020 But remember well,
+2054030 Thou'rt mine.
+2054040 So shall I give of myself. This is for thee.
+2054050 Mine abundance, my drop of dew.
+2054060 Quench thy thirst, throughout thy frame.
+2054070 Blossom and burgeon, time and again.
+2054080 Grow larger, stronger.
+2054090 Until the day cometh.
+2054100 When thou canst share in my dream.
+2054110 Elden Ring, O Elden Ring.
+2054120 Beget Order most elegant, from my tender reverie.
+2055900 <blank>
+2058000 Greetings.
+2058010 Traveller from beyond the Fog.
+2058020 I am Melina.
+2058030 I offer you an accord.
+2058900 <blank>
+2058910 <blank>
+2058920 <blank>
+2058930 <blank>
+2058940 <blank>
+2058950 <blank>
+2059900 <blank>
+2062900 <blank>
+2063900 <blank>
+2064000 And one other. Whom grace would again bless.
+2064010 A Tarnished of no renown.
+2064020 Cross the fog, to the Lands Between.
+2064030 to stand before the Elden Ring.
+2064040 And become the Elden Lord.
+2064900 <blank>
 20680000 Tarnished Warrior. 'Twas nobly fought.
 20680100 Dearest Marika...
 20680101 I am returned.
@@ -1219,19 +1179,55 @@
 20680301 I will take thee in mine arms once more!
 20680400 Brave Tarnished...
 20680401 Thy strength befits a crown.
+2068900 <blank>
+2069900 <blank>
+2070000 The Rune of Death is unbound.
+2070010 Black flames have devoured the Erdtree,
+2070011 and the Lands Between are shrouded by Death's dark fate.
+2070020 But the flames will also burn the impenetrable thorns.
+2070030 Farewell it is, then.
+2070040 You'll be Elden Lord, yet.
+2073000 Well, if you really are that gullible...
+2073001 Ngh!
+2073010 then stay away from the Volcano Manor!
+2073020 Bye now!
+2073030 Take care!
+2073900 <blank>
+2074000 <blank>
+2075000 <blank>
+2075010 Lord host, I could not be more content.
+2075020 I found knowledge, and then found someone. That someone was you.
+2075030 And now, inside you, here I am...
+2076000 <blank>
+2077000 Well well well?
+2077010 I should have known, you scheming little thief.
+2077020 The gods demand vengeance. Vengeance!
+2078000 He he he he he...
 20780000 Lowly Tarnished...
 20780001 Thou'rt unfit even to graft...
+2078010 My sincerest gratitude. I thought I'd never wrench that thing open.
 20780100 Great Godfrey, didst thou witness?
+2078020 You're the finest customer a man ever had!
 20780200 ...I am the Lord of all that is Golden...
 20780201 ...And one day, we'll return together...
 20780202 ...To our home, bathed in rays of gold...
 20780203 <blank>
+2083000 <blank>
+2083010 This is how you die, you disgusting Tarnished.
+2083020 Don't worry, I've got big plans for you. After you snuff it...
+2084000 <blank>
+2084010 <blank>
+2084020 <blank>
+2085000 <screaming>
+2085010 <blank>
+2085020 <blank>
+2086000 <screaming>
+2086010 <blank>
+2086020 (explained above)
+2086030 Unleash it upon them! A cursed blessing to all!
+2086040 (scream of pain)
 20990000 tres
-20990002 duo
-20990004 unus
-20990006 nihil
-20990008 nihil
-20990010 nihil
+20990010 duo
 20990300 Miquella is mine and mine alone.
 20990400 Now, surrender yourself.
 20990401 To my blood, to our coming dynasty.
@@ -1479,7 +1475,7 @@
 21606500 Mm... As a fellow combatant, allow me to introduce myself.
 21606501 Blaidd, warrior.
 21606502 Now, we find ourselves pitted against Radahn, once the strongest of the demigods.
-21606503 The way ahead is pleasingly simple, a path forged by sword and fang.
+21606503 The way ahead is pleasingly simple; a path forged by sword and fang.
 21606600 Hm. Nothing to do but wait. Until the festival begins.
 21608000 Ah, good. I was waiting for you.
 21608001 What a sick way to fight, eh.
@@ -2101,7 +2097,6 @@
 22305503 But these are precious, are you certain that it's for me?
 22305504 Oh...
 22305505 Master, how did you know?
-22305505 Master, how did you know?
 22305600 Master, it shouldn't take me long.
 22305601 I'm off to see Rennala of Raya Lucaria.
 22305602 I'll be reborn, fresh and new.
@@ -2704,10 +2699,10 @@
 30005001 Allow me some time.
 30005002 Our Lord's carcass is vast, and not easily consumed.
 30005003 Dear Rykard, please find purchase within me,
-30005004 I wish to be your serpent, your family.
+30005004 I wish to be your serpent; your family.
 30005005 One day, let us devour the gods together.
 30005100 Dear Rykard, please find purchase within me,
-30005101 I wish to be your serpent, your family.
+30005101 I wish to be your serpent; your family.
 30005102 One day, let us devour the gods together.
 30007600 Now, time for you to leave, I should think.
 30007601 Let this intersection of our paths be the last.
@@ -2843,7 +2838,7 @@
 30103101 My doubts had been piling up, you see.
 30103102 ...The words of the Two Fingers cannot be trusted.
 30103103 Truly, naught but rambling, senile delusions.
-30103104 I believe, that when the Elden Ring was shattered, the Two Fingers were corrupted, their guidance, skewed.
+30103104 I believe, that when the Elden Ring was shattered, the Two Fingers were corrupted, their guidance; skewed.
 30103105 Even worse, the Fingers harbor no love for our kind.
 30103106 That's the part that irks the most.
 30103200 Oh, I have a gift for you, something fit only for the wise.
@@ -3602,7 +3597,7 @@
 31000101 Might I bend your ear for a moment, please.
 31000102 My name is Irina. I've escaped from Castle Morne, to the south.
 31000103 The servants there...have rebelled.
-31000104 I-I can't be sure what it is, my eyesight's been weak since birth you see...
+31000104 I-I can't be sure what it is; my eyesight's been weak since birth you see...
 31000105 But I swear I heard frightful howling from all over.
 31000106 My good father secreted me out the castle,
 31000107 but decided himself to stay. He says it's his duty, as commander.
@@ -3983,8 +3978,7 @@
 31301502 Take my hand, and have audience with my mistress.
 31301600 Give me your hand.
 31301601 I will pray. That you follow the same path as Lady Tanith.
-31302100 Brave Tarnished, what is your business here?
-31302100 Brave Tarnished, what is your business here?
+31302100 
 31302101 I'm afraid this is not a guest room.
 31302102 What's that peculiar look upon your face?
 31302103 <gasp>
@@ -4974,12 +4968,12 @@
 32005401 The howling and wailing of spirits in fear of the curse. I can even hear the repulsive, twisted malison itself...
 32005402 You should keep your distance.
 32005403 I know you're strong, but please...
-32005500 I can't hear them any more, the voices of the spirits cowering from the curse...
+32005500 I can't hear them any more; the voices of the spirits cowering from the curse...
 32005501 I suppose the Dung Eater must have left the Roundtable.
 32005502 I just pray nothing ill comes of this.
 32005600 Be on your guard, I beg you.
 32005601 He's back. The Dung Eater. Again.
-32005602 I can hear them, the spirits as they howl and lament in fear of the curse.
+32005602 I can hear them; the spirits as they howl and lament in fear of the curse.
 32005603 And worse than ever, the reverberations of the twisted malison itself.
 32005604 But after all this time, I've started to grasp it now.
 32005605 I can hear, in the malison, another fearsome Order.
@@ -5000,7 +4994,7 @@
 32007001 So Master Hewg won't listen to you, either.
 32007002 You have my thanks, regardless.
 32007003 I'll try and talk him round next time.
-32007004 I know he was given this great entreaty,
+32007004 I know he was given this great entreaty;
 32007005 To craft a weapon which could slay a god. Though I can't help but think of it as a curse.
 32007006 A fearsome curse, put on him by Queen Marika.
 32007007 And if that's the case, I'm not sure there's anything we can do...
@@ -5403,7 +5397,7 @@
 32402005 You now belong to a select group of fellows. As such, I ask that you remain constant.
 32402100 You'll be after more Great Runes, now eh?
 32402101 Then as your fellow, allow me to divulge a little knowledge.
-32402102 The inheritors of the Great Runes, the shardbearers.
+32402102 The inheritors of the Great Runes; the shardbearers.
 32402103 We of the Roundtable know the location of five of them, including the one you defeated.
 32402104 Godrick the Grafted, Lord of Stormveil.
 32402105 General Radahn, who fought Malenia and her rot to a standstill in the Caelid Wilds.
@@ -5423,7 +5417,7 @@
 32402305 Though I doubt he much resembles his former self anymore...
 32402400 Praetor Rykard is the Lord of the Volcano Manor on Mt. Gelmir.
 32402401 He is a ruthless justiciar who commands a company of inquisitors, reviled for his serpentine demeanour.
-32402402 The volcano, Mt. Gelmir, lies in the west of the Altus Plateau, the realm of the Erdtree.
+32402402 The volcano, Mt. Gelmir, lies in the west of the Altus Plateau; the realm of the Erdtree.
 32402403 It was the stage of the most appalling battle in the entirety of the Shattering.
 32402404 Rykard has committed the grave sin of blasphemy. Marking himself as an enemy, never to be forgiven.
 32402500 Morgott the Grace-Given is Lord of Leyndell, the capital city.
@@ -5523,8 +5517,7 @@
 32405104 She knows the location of the medallion's counterpart, I am sure.
 32405200 Find the Albinauric woman.
 32405201 She hides in a cave to the west of the Laskyar Ruins which jut from the mist-shrouded lake of Liurnia,
-32405202 She knows the location of the medallion's counterpart, I am sure.
-32405202 She knows the location of the medallion's counterpart, I am sure.
+32405202 
 32405300 Ah, yes, by way of apology,
 32405301 allow me to tender some advice, in regard to the half of the secret medallion you possess.
 32405302 Find the village of the Albinaurics.
@@ -5782,7 +5775,7 @@
 32580100 This is rather unfortunate.
 32580101 I don't normally find myself cornered like a rat.
 32580102 But I have my ways...
-32580200 No need to grandstand, you're not even on stage.
+32580200 No need to grandstand; you're not even on stage.
 32580300 Well, this is unfortunate.
 32580301 Couldn't change a thing...
 32581000 Agh!
@@ -5986,13 +5979,13 @@
 33005203 Sadly, her heart was broken when Lord Radagon left her.
 33005204 And then, when the academy rebelled against the royals, she was locked away in the grand library.
 33005300 In the end, Lady Rennala was left alone, cradling the amber egg Lord Radagon bequeathed her.
-33005301 Now she devotes herself to it through forbidden rite,
+33005301 Now she devotes herself to it through forbidden rite;
 33005302 the grim art of reincarnation.
 33005303 You would do well to remember...
 33005304 Severing a vow, strongest of bonds, has consequences ever more dire.
 33010000 Oh, what have we here?
 33010001 Very well, let us both learn together.
-33010002 Heresy is not native to the world, it is but a contrivance.
+33010002 Heresy is not native to the world; it is but a contrivance.
 33010003 All things can be conjoined.
 33080000 Mngh!
 33080100 Stop it, please.
@@ -6348,7 +6341,7 @@
 33480100 What do you intend?
 33480101 Such conduct ill befits a warrior.
 33480200 I see. You are but a simple villain.
-33480201 Let the scars remind you, this lesson comes from Nepheli Loux!
+33480201 Let the scars remind you; this lesson comes from Nepheli Loux!
 33480300 You wouldn't even register as a threat to father.
 33480301 Hurry up and die.
 33480400 Father... I am slain.
@@ -6374,7 +6367,7 @@
 33500300 Go ahead and bring me some slumber fog, my compeer.
 33500301 About two should do it, by my reckoning...
 33500302 And then I'll have enough dreambrew to share.
-33500303 Drink is a wonderful teacher. Imbibe and you will understand, this world's delights, and its futility.
+33500303 Drink is a wonderful teacher. Imbibe and you will understand; this world's delights, and its futility.
 33500400 You what? You hardly know what you're missing out on.
 33500401 Well, suit yourself. But I'm sure you'll be after a drink before long.
 33500402 Perhaps you'll tire of this crumbling world...
@@ -6827,7 +6820,7 @@
 34907210 Which is why...
 34907211 If you happen to be present for the girl's fight with her sisters,
 34907212 I ask that you side with the sisters and kill Millicent.
-34907213 It must be done by your hand, no other.
+34907213 It must be done by your hand; no other.
 34907214 Millicent trusts you, rather deeply in fact.
 34907215 Sever that trust. Nurtured by betrayal, her bud will flower most vividly.
 34907216 When Malenia ascends to godhood, Millicent too shall be reborn.
@@ -6946,7 +6939,7 @@
 35104201 Well then. Would you like to learn an incantation?
 35104300 May the Golden Order shine through you.
 35104500 The master is always deep in contemplation.
-35104501 While I frantically attempt to record his wisdom, the movement of his finger.
+35104501 While I frantically attempt to record his wisdom; the movement of his finger.
 35104502 And though I am yet to comprehend even the daintiest morsel of his wisdom...
 35104503 I know that this, this is my life's calling.
 35104504 The Golden Order has bestowed me, talentless as I am, the great duty of documentarian.
@@ -6976,7 +6969,7 @@
 35105010 The master only has me, and here I fail him...
 35105100 What on earth did you do to the master?
 35105101 Well, not that I'm complaining.
-35105102 Master's finger moves again, resuming his cogitation, more than good enough for me.
+35105102 Master's finger moves again, resuming his cogitation; more than good enough for me.
 35105103 I haven't the words to thank you.
 35105104 So I'd like to pass this on to you instead.
 35105105 A glimpse into the heart of the Golden Order, documented by yours truly.

@@ -12,8 +12,6 @@
 100017 [Gatekeeper Gostoc] Bandit Garb
 100018 [Gatekeeper Gostoc] Ancient Dragon Smithing Stone
 100025 Memory Stone
-100025 Memory Stone
-100026 Stonesword Key
 100026 Stonesword Key
 100050 [Sorceress Sellen] Glintstone Pebble
 100051 [Sorceress Sellen] Scholar's Armament
@@ -59,8 +57,6 @@
 100120 [Patches] Great Arrow
 100121 [Patches] Ballista Bolt
 100122 [Patches] Horse Crest Wooden Shield
-100126 [D Hunter of The Dead] Litany of Proper Death
-100127 [D Hunter of The Dead] Order's Blade
 100150 [Blackguard Big Boggart] Rya's Necklace
 100155 [Blackguard Big Boggart] Boiled Crab
 100160 [Blackguard Big Boggart] Boiled Prawn
@@ -71,11 +67,11 @@
 100200 [Sorcerer Rogier] Ash of War: Spinning Weapon
 100201 [Sorcerer Rogier] Ash of War: Glintstone Pebble
 100202 [Sorcerer Rogier] Ash of War: Carian Greatsword
-100225 [Sorcerer Rogier] Somber Smithing Stone [1]
-100226 [Sorcerer Rogier] Somber Smithing Stone [2]
-100227 [Sorcerer Rogier] Somber Smithing Stone [3]
-100228 [Sorcerer Rogier] Somber Smithing Stone [4]
-100229 [Sorcerer Rogier] Carian Filigreed Crest
+100225 [Iji] Somber Smithing Stone [1]
+100226 [Iji] Somber Smithing Stone [2]
+100227 [Iji] Somber Smithing Stone [3]
+100228 [Iji] Somber Smithing Stone [4]
+100229 [Iji] Carian Filigreed Crest
 100250 [Preceptor Seluvis] Glintstone Pebble
 100251 [Preceptor Seluvis] Glintstone Arc
 100252 [Preceptor Seluvis] Starlight
@@ -93,16 +89,6 @@
 100301 [Preceptor Seluvis - Ranni Quest] Dolores the Sleeping Arrow Puppet
 100302 [Preceptor Seluvis - Ranni Quest] Jarwight Puppet
 100310 [Preceptor Seluvis - Dung Eater Quest] Dung Eater Puppet
-100325 [Pidia Carian Servant] Glintstone Craftsman's Cookbook [7]
-100326 [Pidia Carian Servant] Ritual Pot
-100329 [Pidia Carian Servant] Old Fang
-100330 [Pidia Carian Servant] Slumbering Egg
-100334 [Pidia Carian Servant] Ash of War: Carian Retaliation
-100335 [Pidia Carian Servant] Celestial Dew
-100336 [Pidia Carian Servant] Larval Tear
-100337 [Pidia Carian Servant] Budding Horn
-100338 [Pidia Carian Servant] Ripple Blade
-100339 [Pidia Carian Servant] Black Leather Shield
 100350 [Brother Corhyn] Rejection
 100351 [Brother Corhyn] Urgent Heal
 100352 [Brother Corhyn] Heal
@@ -115,7 +101,6 @@
 100359 [Brother Corhyn - Altus Plateau] Lightning Fortification
 100360 [Brother Corhyn - Goldmask] Discus of Light
 100361 [Brother Corhyn - Erdtree Sanctuary] Immutable Shield
-100362 [Brother Corhyn - Fire Monks' Prayerbook] O Flame!
 100363 [Brother Corhyn - Fire Monks' Prayerbook] Surge
 100364 [Brother Corhyn - Giant's Prayerbook] Giantsflame Take Thee
 100365 [Brother Corhyn - Giant's Prayerbook] Flame
@@ -141,7 +126,6 @@
 100406 [Miriel] Glintblade Phalanx
 100407 [Miriel] Carian Slicer
 100425 [Miriel] Blessing's Boon
-100426 [Miriel - Fire Monks' Prayerbook] O Flame!
 100428 [Miriel - Fire Monks' Prayerbook] Surge
 100429 [Miriel - Giant's Prayerbook] Giantsflame Take Thee
 100430 [Miriel - Giant's Prayerbook] Flame
@@ -243,8 +227,8 @@
 100633 [Merchant - Liurnia of the Lakes] Astrologer's Staff
 100634 [Merchant - Liurnia of the Lakes] Arrow
 100635 [Merchant - Liurnia of the Lakes] Bolt
-100636 [Merchant - Liurnia of the Lakes] Smithing Stone [1]
-100637 [Merchant - Liurnia of the Lakes] Smithing Stone [2]
+100636 [Merchant - Liurnia of the Lakes] Smithing Stone [2]
+100637 [Merchant - Liurnia of the Lakes] Smithing Stone [3]
 100650 [Isolated Merchant - Weeping Peninsula] Note: Walking Mausoleum
 100652 [Isolated Merchant - Weeping Peninsula] Stonesword Key
 100654 [Isolated Merchant - Weeping Peninsula] Arteria Leaf
@@ -957,46 +941,6 @@
 112089 Ash of War: Through and Through
 112090 Ash of War: Enchanted Shot
 112091 Ash of War: Rain of Arrows
-600000 Dagger
-600001 Longsword
-600002 Short Spear
-600003 Mace
-600004 Longbow
-600005 Falchion
-600006 Hand Axe
-600007 Buckler
-600008 Round Shield
-600009 Blue Cloth Cowl
-600010 Blue Cloth Vest
-600011 Warrior Gauntlets
-600012 Warrior Greaves
-600013 Lone Wolf Ashes
-600014 Cracked Pot
-600016 Arrow
-600017 String
-600018 Note: Imp Shades
-600019 Note: Flask of Wondrous Physick
-600021 Miranda Powder
-900000 [Incantation] Dragonfire
-900001 [Incantation] Agheel's Flame
-900002 [Incantation] Magma Breath
-900003 [Incantation] Dragonice
-900004 [Incantation] Rotten Breath
-900010 [Incantation] Dragonfire
-900011 [Incantation] Agheel's Flame
-900012 [Incantation] Magma Breath
-900013 [Incantation] Dragonice
-900014 [Incantation] Rotten Breath
-900020 [Incantation] Dragonfire
-900021 [Incantation] Agheel's Flame
-900022 [Incantation] Magma Breath
-900023 [Incantation] Dragonice
-900024 [Incantation] Rotten Breath
-900030 [Incantation] Dragonfire
-900031 [Incantation] Agheel's Flame
-900032 [Incantation] Magma Breath
-900033 [Incantation] Dragonice
-900034 [Incantation] Rotten Breath
 1600101 Dagger
 1600102 Longsword
 1600103 Short Spear
@@ -1035,11 +979,51 @@
 1600418 Axe Talisman
 1600419 Fire Arrow
 1600420 Note: Stonedigger Trolls
+600000 Dagger
+600001 Longsword
+600002 Short Spear
+600003 Mace
+600004 Longbow
+600005 Falchion
+600006 Hand Axe
+600007 Buckler
+600008 Round Shield
+600009 Blue Cloth Cowl
+600010 Blue Cloth Vest
+600011 Warrior Gauntlets
+600012 Warrior Greaves
+600013 Lone Wolf Ashes
+600014 Cracked Pot
+600016 Arrow
+600017 String
+600018 Note: Imp Shades
+600019 Note: Flask of Wondrous Physick
+600021 Miranda Powder
+900000 [Incantation] Dragonfire
 9000000 Forked Greatsword
 9000001 Iron Greatsword
 9000002 Lordsworn's Greatsword
 9000003 Knight's Greatsword
 9000004 Ordovis's Greatsword
+900001 [Incantation] Agheel's Flame
+900002 [Incantation] Magma Breath
+900003 [Incantation] Dragonice
+900004 [Incantation] Rotten Breath
+900010 [Incantation] Dragonfire
+900011 [Incantation] Agheel's Flame
+900012 [Incantation] Magma Breath
+900013 [Incantation] Dragonice
+900014 [Incantation] Rotten Breath
+900020 [Incantation] Dragonfire
+900021 [Incantation] Agheel's Flame
+900022 [Incantation] Magma Breath
+900023 [Incantation] Dragonice
+900024 [Incantation] Rotten Breath
+900030 [Incantation] Dragonfire
+900031 [Incantation] Agheel's Flame
+900032 [Incantation] Magma Breath
+900033 [Incantation] Dragonice
+900034 [Incantation] Rotten Breath
 9001000 Omen Helm
 9001001 Omen Armor
 9001002 Omen Gauntlets

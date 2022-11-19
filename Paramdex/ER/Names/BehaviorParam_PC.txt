@@ -256,8 +256,8 @@
 100200430 Default - Straight Sword
 100200440 Default - Straight Sword
 100200460 Default - Straight Sword
-100200470 Default - Straight Sword
-100200480 Default - Straight Sword
+100200470 Block - Straight Sword
+100200480 Partial Parry - Straight Sword
 100200500 Default - Straight Sword
 100200505 Default - Straight Sword
 100200509 Default - Straight Sword
@@ -4819,25 +4819,25 @@
 105031856 Bloodbone Arrow
 105031870 Bloodbone Arrow
 105031875 Bloodbone Arrow
-105032300 Coldbone Arrow (Fletched)
-105032310 Coldbone Arrow (Fletched)
-105032400 Coldbone Arrow (Fletched)
-105032810 Coldbone Arrow (Fletched)
-105032811 Coldbone Arrow (Fletched)
-105032815 Coldbone Arrow (Fletched)
-105032816 Coldbone Arrow (Fletched)
-105032820 Coldbone Arrow (Fletched)
-105032825 Coldbone Arrow (Fletched)
-105032830 Coldbone Arrow (Fletched)
-105032835 Coldbone Arrow (Fletched)
-105032840 Coldbone Arrow (Fletched)
-105032845 Coldbone Arrow (Fletched)
-105032850 Coldbone Arrow (Fletched)
-105032851 Coldbone Arrow (Fletched)
-105032855 Coldbone Arrow (Fletched)
-105032856 Coldbone Arrow (Fletched)
-105032870 Coldbone Arrow (Fletched)
-105032875 Coldbone Arrow (Fletched)
+105032300 Blightbone Arrow
+105032310 Blightbone Arrow
+105032400 Blightbone Arrow
+105032810 Blightbone Arrow
+105032811 Blightbone Arrow
+105032815 Blightbone Arrow
+105032816 Blightbone Arrow
+105032820 Blightbone Arrow
+105032825 Blightbone Arrow
+105032830 Blightbone Arrow
+105032835 Blightbone Arrow
+105032840 Blightbone Arrow
+105032845 Blightbone Arrow
+105032850 Blightbone Arrow
+105032851 Blightbone Arrow
+105032855 Blightbone Arrow
+105032856 Blightbone Arrow
+105032870 Blightbone Arrow
+105032875 Blightbone Arrow
 105033300 Coldbone Arrow
 105033310 Coldbone Arrow
 105033400 Coldbone Arrow
@@ -6318,15 +6318,15 @@
 301702920 Siluria's Tree
 301702925 Siluria's Tree
 301702930 Siluria's Tree
-301703900 Serpent-Hunter
-301703901 Serpent-Hunter
-301703905 Serpent-Hunter
-301703950 Serpent-Hunter
-301703951 Serpent-Hunter
-301703955 Serpent-Hunter
-301703970 Serpent-Hunter
-301703971 Serpent-Hunter
-301703975 Serpent-Hunter
+301703900 Serpent-Hunter - Super Great Serpent Hunt
+301703901 Serpent-Hunter - Super Great Serpent Hunt
+301703905 Serpent-Hunter - Super Great Serpent Hunt
+301703950 Serpent-Hunter - Great Serpent Hunt
+301703951 Serpent-Hunter - Great Serpent Hunt
+301703955 Serpent-Hunter - Great Serpent Hunt
+301703970 Serpent-Hunter - Great Serpent Hunt
+301703971 Serpent-Hunter - Great Serpent Hunt
+301703975 Serpent-Hunter - Great Serpent Hunt
 301705900 Vyke's War Spear
 301705901 Vyke's War Spear
 301705902 Vyke's War Spear

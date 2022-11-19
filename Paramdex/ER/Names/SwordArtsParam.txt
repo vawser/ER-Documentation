@@ -1,12 +1,67 @@
 10 No Skill
 100 Lion's Claw
+1000 Surge of Faith
+1001 Flame Spit
+1002 Tongues of Fire
+1003 Oracular Bubble
+1004 Bubble Shower
+1005 Great Oracular Bubble
+1006 Sea of Magma
+1007 Viper Bite
+1008 Moonlight Greatsword
+1009 Siluria's Woe
 101 Impaling Thrust
+1010 Rallying Standard
+1011 Bear Witness!
+1012 Eochaid's Dancing Blade
+1013 Soul Stifler
+1014 Taker's Flames
+1015 Shriek of Milos
+1016 Reduvia Blood Blade
+1017 Glintstone Dart
+1018 Flowing Form
+1019 Night-and-Flame Stance
 102 Piercing Fang
+1020 Wave of Gold
+1021 Ruinous Ghostflame
+1022 Establish Order
+1023 Mists of Slumber
+1024 Spearcall Ritual
+1025 Wolf's Assault
+1026 Thundercloud Form
+1027 Cursed-Blood Slice
+1028 Waterfowl Dance
+1029 Gold Breaker
 103 Spinning Slash
+1031 Regal Roar
+1032 Starcaller Cry
+1033 Wave of Destruction
+1034 Bloodboon Ritual
+1035 Flowing Form
+1036 Blade of Death
+1037 Blade of Gold
+1038 Destined Death
+1039 Spinning Wheel
 104 %null%
+1040 Alabaster Lords' Pull
+1041 Onyx Lords' Repulsion
+1042 Oath of Vengeance
+1043 Ice Lightning Sword
+1044 Regal Beastclaw
+1045 Flame Dance
+1046 Claw Flick
+1047 Nebula
+1048 Ghostflame Ignition
+1049 Ancient Lightning Spear
 105 Charge Forth
-106 Stamp (Upward Cut)
-107 Stamp (Sweep)
+1050 Frenzyflame Thrust
+1051 Miquella's Ring of Light
+1052 Golden Tempering
+1053 Last Rites
+1054 Unblockable Blade
+1055 Eochaid's Dancing Blade
+106 Stomp (Upward Cut)
+107 Stomp (Sweep)
 108 Blood Tax
 109 Repeating Thrust
 110 Wild Strikes
@@ -16,9 +71,42 @@
 114 Unsheathe
 115 Square Off
 116 Giant Hunt
+1167 Corpse Wax Cutter
+1168 Zamor Ice Storm
+1169 Radahn's Rain
 117 Torch Attack
+1170 The Queen's Black Flame
+1171 Dynast's Finesse
+1172 Magma Shower
+1173 Nebula
+1174 Death Flare
+1175 Bloodhound's Finesse
+1176 Magma Guillotine
+1177 Corpse Piler
+1178 Transient Moonlight
+1179 Bloodblade Dance
 118 Loretta's Slash
+1180 Dragon Smasher
+1181 %null%
+1182 Knowledge Above All
+1183 Devourer of Worlds
+1184 Familal Rancor
+1185 Rosus's Summons
+1186 Thunderstorm
+1187 Sacred Phalanx
+1188 Great-Serpent Hunt
+1189 Angel's Wings
 119 Poison Moth Flight
+1190 Storm Kick
+1191 Unblockable Blade
+1192 Sorcery of the Crozier
+1193 Erdtree Slam
+1194 Gravity Bolt
+1195 Fires of Slumber
+1196 Golden Retaliation
+1197 Contagious Fury
+1198 Ordovis's Vortex
+1199 Spinning Staff
 120 Spinning Weapon
 121 %null%
 122 Storm Assault
@@ -96,92 +184,3 @@
 801 Bloodhound's Step
 802 Raptor of the Mists
 850 White Shadow's Lure
-1000 Surge of Faith
-1001 Flame Spit
-1002 Tongues of Fire
-1003 Oracular Bubble
-1004 Bubble Shower
-1005 Great Oracular Bubble
-1006 Sea of Magma
-1007 Viper Bite
-1008 Moonlight Greatsword
-1009 Siluria's Woe
-1010 Rallying Standard
-1011 Bear Witness!
-1012 Eochaid's Dancing Blade
-1013 Soul Stifler
-1014 Taker's Flames
-1015 Shriek of Milos
-1016 Reduvia Blood Blade
-1017 Glintstone Dart
-1018 Flowing Form
-1019 Night-and-Flame Stance
-1020 Wave of Gold
-1021 Ruinous Ghostflame
-1022 Establish Order
-1023 Mists of Slumber
-1024 Spearcall Ritual
-1025 Wolf's Assault
-1026 Thundercloud Form
-1027 Cursed-Blood Slice
-1028 Waterfowl Dance
-1029 Gold Breaker
-1030 I Command Thee Kneel!
-1031 Regal Roar
-1032 Starcaller Cry
-1033 Wave of Destruction
-1034 Bloodboon Ritual
-1035 Flowing Form
-1036 Blade of Death
-1037 Blade of Gold
-1038 Destined Death
-1039 Spinning Wheel
-1040 Alabaster Lords' Pull
-1041 Onyx Lords' Repulsion
-1042 Oath of Vengeance
-1043 Ice Lightning Sword
-1044 Regal Beastclaw
-1045 Flame Dance
-1046 Claw Flick
-1047 Nebula
-1048 Ghostflame Ignition
-1049 Ancient Lightning Spear
-1050 Frenzyflame Thrust
-1051 Miquella's Ring of Light
-1052 Golden Tempering
-1053 Last Rites
-1054 Unblockable Blade
-1055 Eochaid's Dancing Blade
-1167 Corpse Wax Cutter
-1168 Zamor Ice Storm
-1169 Radahn's Rain
-1170 The Queen's Black Flame
-1171 Dynast's Finesse
-1172 Magma Shower
-1173 Nebula
-1174 Death Flare
-1175 Bloodhound's Finesse
-1176 Magma Guillotine
-1177 Corpse Piler
-1178 Transient Moonlight
-1179 Bloodblade Dance
-1180 %null%
-1181 %null%
-1182 Knowledge Above All
-1183 Devourer of Worlds
-1184 Familal Rancor
-1185 Rosus's Summons
-1186 Thunderstorm
-1187 Sacred Phalanx
-1188 Great-Serpent Hunt
-1189 Angel's Wings
-1190 Storm Kick
-1191 Unblockable Blade
-1192 Sorcery of the Crozier
-1193 Erdtree Slam
-1194 Gravity Bolt
-1195 Fires of Slumber
-1196 Golden Retaliation
-1197 Contagious Fury
-1198 Ordovis's Vortex
-1199 Spinning Weapon
