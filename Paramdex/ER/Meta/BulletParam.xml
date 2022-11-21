@@ -92,7 +92,7 @@
     <sfxId_Hit AltName="Hit SFX ID" Wiki="Plays the specified SFX where the bullet collides with the world (one-time, -1 for no SFX)." />
     <sfxId_Flick AltName="Flick SFX ID" Wiki="Plays the specified SFX where the bullet collides with a target with flick defense (ex. an arrow hitting a shield)" />
     <life AltName="Duration" Wiki="Duration (in seconds) that the bullet will exist (-1 for infinity)." />
-    <dist AltName="'Out of Range' Threshold" Wiki="Distance (in meters) traveled at which \"in range\" values are swapped for \"out of range\" values." />
+    <dist AltName="'Out of Range' Threshold" Wiki="Distance (in meters) traveled at which 'in range' values are swapped for 'out of range' values." />
     <shootInterval AltName="Shot Interval" Wiki="Frequency (in seconds) additional bullets of this type will be generated from active TAE event frames (0 for no extra bullets). " />
     <gravityInRange AltName="Gravity (In Range)" Wiki="Adds vertical velocity to the bullet over time (in range)." />
     <gravityOutRange AltName="Gravity (Out of Range)" Wiki="Adds vertical velocity to the bullet over time (out of range)." />
@@ -113,7 +113,7 @@
     <externalForce AltName="External Force in Bullet Direction" Wiki="Velocity applied externally in the initial direction of the bullet's origin. (Yaw is ignored)" />
     <spEffectIDForShooter AltName="SpEffect ID on Owner" Wiki="Applies the specified SpEffectParam to the owner of the bullet (usually the entity firing it)" />
     <autoSearchNPCThinkID AltName="Bullet AI NPCThink ID" Wiki="Applies the specified NPCThinkParam to the bullet to modify its behavior." Refs="NPCThinkParam" />
-    <HitBulletID AltName="Create Bullet ID" Wiki="Creates the specified BulletParam on a condition determined by Launch Condition Type." />
+    <HitBulletID AltName="Child Bullet ID" Wiki="Creates the specified BulletParam on a condition determined by Launch Condition Type." />
     <spEffectId0 AltName="Target SpEffect ID [0]" Wiki="Applies the specified SpEffectParam to targets hit by the bullet." Refs="SpEffectParam" />
     <spEffectId1 AltName="Target SpEffect ID [1]" Wiki="Applies the specified SpEffectParam to targets hit by the bullet." Refs="SpEffectParam" />
     <spEffectId2 AltName="Target SpEffect ID [2]" Wiki="Applies the specified SpEffectParam to targets hit by the bullet." Refs="SpEffectParam" />
@@ -159,9 +159,9 @@
     <dmgCalcSide AltName="Damage Calculation Side" Wiki="Damage calculation side. During multiplayer, the damage calculation is for switching between the giving side and the receiving side." Enum="DMG_CALC_SIDE_TYPE" />
     <isEnableAutoHoming AltName="Is Auto Homing Enabled" Wiki="Whether to automatically follow when not locked on" IsBool="" />
     <isSyncBulletCulcDumypolyPos AltName="Is Emitter Source Synced with Bullet" Wiki="In the case of a synchronously generated bullet, the emitter attitude at the time of synchronization is used without recalculating the attitude due to the Damipoli position when the bullet is generated." IsBool="" />
-    <isOwnerOverrideInitAngle AltName="Is Direction Inherited by Child Bullet" Wiki="Only valid for sub-bullets. If it is ON, the reference direction is the owner." IsBool="" />
-    <isInheritSfxToChild AltName="Is SFX Inherited by Child Bullet" Wiki="Take over the SFX of the parent bullet. Ignore the SFX ID set for the sub bullet" IsBool="" />
-    <darkDamageDamp AltName="Damage Falloff %: Holy" Wiki="Correction value that decreases in 1 second after the attenuation distance." />
+    <isOwnerOverrideInitAngle AltName="Is Direction Inherited From Parent" Wiki="If ON, inherits the direction from the original bullet that spawned it. Only valid for child bullets." IsBool="" />
+    <isInheritSfxToChild AltName="Is SFX Inherited by Child Bullet" Wiki="When creating a new bullet with 'Child Bullet ID', pass on the current bullet's SFX. Ignores SFX IDs on the child." IsBool="" />
+    <darkDamageDamp AltName="Damage Falloff %: Holy" Wiki="Holy damage decrease (in percents per second) when the bullet is 'out of range'." />
     <bulletSfxDeleteType_byHit AltName="Bullet SFX Delete Type - By Hit" Wiki="Bullet SFX extinction type when landing or playing" Enum="BULLET_SFX_DELETE_TYPE" />
     <bulletSfxDeleteType_byLifeDead AltName="Bullet SFX Delete Type - By Expiration" Wiki="Bullet SFX extinction type at the end of life" Enum="BULLET_SFX_DELETE_TYPE" />
     <targetYOffsetRange AltName="Target Vertical Offset" Wiki="Vertical offset of landing position. Shift the target position up and down at the time of launch and during homing. (-N ~ n)" />
