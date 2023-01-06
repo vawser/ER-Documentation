@@ -387,6 +387,8 @@ args( BONEFIRE_WARP_ID )
     
 UNUSED
 
+In Elden Ring: opens the map.
+
 #-----------------------------
 # StartBonfireAnimLoop
 #-----------------------------

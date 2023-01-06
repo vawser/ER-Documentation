@@ -242,6 +242,9 @@ Returns TRUE or FALSE.
     <int> 
 555
 
+# Group 700
+700 Is Jumping
+
 # Group 1000
 1000 GetHP 			                    
 1001 GetStamina 			            
@@ -450,6 +453,8 @@ Returns TRUE or FALSE.
 2023 DisableToolIDSwitching              # 道具ID切り替え無効
 2024 UseItemDecision
 2025 [Guess] Use Equipment (Mount)
+2026 
+2040 
 2050 [Guess] Jump Attack State
     <int>
     <int>
@@ -467,6 +472,7 @@ Returns TRUE or FALSE.
     <DAMAGE_FLAG_ENUM>
     
 # Group 4000
+4001 [Guess] Jump related
 4002 [Guess] Jump Attack related
     
 # Group 9000

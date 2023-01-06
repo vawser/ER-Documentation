@@ -1,1 +1,0 @@
-Copy the ER folder into your DSMapStudio/Assets/Paramdex folder to include my changes

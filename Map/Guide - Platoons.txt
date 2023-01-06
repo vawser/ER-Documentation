@@ -1,0 +1,42 @@
+﻿#----------------------------------------
+# Platoons
+#----------------------------------------
+# PlatoonInfo
+EventID:                    <unique id>
+EntityID:                   0
+Unk14:                      0
+MapID:                      -1
+UnkE0C:                     255
+UnkS04:                     0
+UnkS08:                     0
+UnkS0C:                     -1
+PlatoonIDScriptActivate:    <script id>     # See Platoon excel sheet
+State:                      <state id>      # 0 or 1
+GroupPartNames[x]           <enemy name>    # Add all enemies that comprise the platoon
+
+#----------------------------------------
+# Platoon Scripts
+#----------------------------------------
+Index here refers to the GroupPartNames[x], i.e. GroupPartNames[0] is Index [0]
+
+# SetEnablePlatoonMove    
+The platoon enemies will move together
+
+# SetFormationType
+<unk>, <unk>
+ 
+# SetFormationParam       
+<idx>, <x>, <y> 
+Sets the platoon position of the enemy at the index [idx] based on the enemy at index [0]
+Used to make the enemies walk in a specific formation
+
+# SetBaseMoveRate
+<idx>, <mult>
+
+# Platoon Scripts: [indexes the script affects]
+0:      No Formation 
+100:    Staggered Line behind Leader [0 to 5]
+110:    Staggered Line behind Leader (No Move) [0 to 5]
+120:    Staggered Line behind Leader [0 to 5]
+140:    No Formation [0]
+300:    Scattered around Leader [0 to 29]
