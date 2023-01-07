@@ -40,3 +40,4 @@ RegisterBonfire(<flag>, <asset entity id>, 0, 0, 0, 5);
 Make new row, change:
     bonfireEntityId = <asset entity id>
     eventflagId = <new flag>
+    coordinates: grab from the InitPos section in the CE table

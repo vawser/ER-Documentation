@@ -40,6 +40,6 @@ InitializeCommonEvent(
     10000560, # Unique flag (base flag - 1000)
     10001560, # Door EntityID
     10003560, # ObjAct EntityID
-    219000,   # AssetEnvironmentGeometryParam ID
+    219000,   # ObjAct Param ID
     0         # 0 disables shut, 1 allows open and shut
 );
