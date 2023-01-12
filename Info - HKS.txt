@@ -96,7 +96,7 @@ Returns TRUE or FALSE.
 249 IsRightHandMagic 			        
 250 IsChangeToSpecialStayAnim           
 251 GetSpecialStayAnimID 			    
-252 AcquireSpecialDamageAnimationID     # AcquireSpecialDamageAnimationID
+252 AcquireSpecialDamageAnimationID
 253 IsRunTurnAnimPlaying 			    
 254 IsGenerateAction 			        
 255 GetSpecialStayCancelAnimID 			
