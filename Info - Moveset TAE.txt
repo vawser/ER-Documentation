@@ -438,7 +438,19 @@ Animation Cateegory is starts at a400
 109000 
 
 # Jump
-202000
+202000 # Still - Neutral
+202010 # Still - Forward
+202011 # Still - Backward
+202012 # Still - Left
+202013 # Still - Right
+202020 # Moving - Forward
+202021 # Moving - Back
+202022 # Moving - Left
+202023 # Moving - Right
+202030 # Sprint - Forward
+202040 # Jump Fall
+
+202100 # Jump Land
 
 # Crouch
 300000

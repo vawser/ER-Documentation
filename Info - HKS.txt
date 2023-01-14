@@ -3,575 +3,479 @@
 #------------------------
 Event is normally once per, so SpEffects won't be refreshed until the action is done again.
 
-#------------------------
-# env( x, y )
-#------------------------
-Returns TRUE or FALSE.
+------------------------
+-- Conditions 
+-- env( <condition>, <args> )
+-- *<args> are optional
+------------------------
+IsGeneralAnimEnd = 0
+IsAttackAnimEnd = 1
+AnimIDOffset = 9
+AdditiveBlendAnim = 10
+AdditiveBlendAnimOfSlot = 11
 
-# Group 0
-0   IsGeneralAnimEnd 			        
-1   IsAttackAnimEnd 			        
-9   AnimIDOffset 			            
-10  AdditiveBlendAnim 			        
-11  AdditiveBlendAnimOfSlot             
+IsAtkRequest = 100 -- args: <attack request index>
+IsAtkReleaseRequest = 101
+IsChainAtkRequest = 102
+GetAtkDuration = 103
+GetWeaponSwitchRequest = 104
+GetCommandIDFromEvent = 105
+GetAIActionType = 106
+GetAIChainActionType = 107
+GetChainEvadeRequest = 108
+GetWeaponChangeRequest = 109
+GetAnimIDFromMoveParam = 110
+IsThereAnyAtkRequest = 111
+IsThereAnyChainAtkRequest = 112
+IsItemUseMenuOpening = 113
+IsMagicUseMenuOpening = 114
+IsItemUseMenuOpened = 115
+IsMagicUseMenuOpened = 116
+GetBlendAnimIDFromMoveParam = 117
+GetAIChainStepType = 118
+GetTransitionToSpecialStayAnimID = 119
+GetAIAtkCancelType = 120
+GetWeaponCancelType = 121 -- args: <hand index>
+IsWeaponCancelPossible = 122 
+GetAIDefenseCancelType = 123
+GetAIVersusBackstabCancelType = 124
 
-# Group 100
-100 IsAtkRequest 			            
-    <attack request type>
-101 IsAtkReleaseRequest 			    
-102 IsChainAtkRequest 			        
-103 GetAtkDuration 			            
-104 GetWeaponSwitchRequest 			    
-105 GetCommandIDFromEvent 			    
-106 GetAIActionType 			        
-107 GetAIChainActionType 			    
-108 GetChainEvadeRequest 			    
-109 GetWeaponChangeRequest 			    
-110 GetAnimIDFromMoveParam 			    
-111 IsThereAnyAtkRequest 			    
-112 IsThereAnyChainAtkRequest 	        
-113 IsItemUseMenuOpening 			    
-114 IsMagicUseMenuOpening 			    
-115 IsItemUseMenuOpened 			    
-116 IsMagicUseMenuOpened 			    
-117 GetBlendAnimIDFromMoveParam         
-118 GetAIChainStepType 			        
-119 GetTransitionToSpecialStayAnimID    
-120 GetAIAtkCancelType 			        
-121 GetWeaponCancelType                 
-    <hand index>
-122 IsWeaponCancelPossible 			    
-123 GetAIDefenseCancelType 			    
-124 GetAIVersusBackstabCancelType       
+IsFalling = 200
+IsLanding = 201
+GetReceivedDamageType = 202
+IsActiveActionValid = 203
+GetActionEventNumber = 204
+IsNormalDmgPassThroughDuringThrow = 205
+IsThrowing = 206
+GetWeaponSwitchState = 207
+IsEquipmentSwitchPossible = 209
+IsAnimCancelPossibleInAtkRelease = 210
+IsEmergencyStopAnimPlaying = 211
+GetLockRangeState = 212
+GetLockAngleState = 213
+IsAnimCancelPossibleInDamageHit = 214
+IsChangeToScrapeAtk = 215
+IsChangeToDeflectAtk = 216
+IsChangeToAfterParrySuccess = 217
+IsChangeFromNormalToBigAtk = 218
+GetMovementType = 219
+IsLargeAtkComboPossible = 220
+IsMapActionPossible = 221
+GetReceivedDamageDirection = 222
+GetMapActionID = 223
+GetFallHeight = 224
+GetEquipWeaponCategory = 225 -- args: <hand index>
+IsHoldingBow = 226
+GetMagicAnimType = 227
+WasNotLargeAtk = 228
+IsBackAtkPossible = 229
+IsAfterParryAtkPossible = 230
+GetItemAnimType = 231
+IsMagicUseable = 232 -- args: <hand index>, <unknown index>
+IsItemUseable = 233
+IsPrecisionShoot = 234
+IsFireDamaged = 235
+GetDamageLevel = 236
+GetGuardLevelAction = 237
+IsNewLeftHandAtkFromStay = 238
+IsParryFromIdle = 239
+IsGuardFromIdle = 240
+IsNewLeftHandAtkFromAtkCancel = 241
+IsParryFromAtkCancel = 242
+IsGuardFromAtkCancel = 243
+IsTiedUp = 244
+IsOutOfAmmo = 245 -- args: <slot index>
+IsUseCatLanding = 246
+GetHoverMoveState = 247
+IsTruelyLanding = 248
+IsRightHandMagic = 249
+IsChangeToSpecialStayAnim = 250
+GetSpecialStayAnimID = 251
+AcquireSpecialDamageAnimationID = 252
+IsRunTurnAnimPlaying = 253
+IsGenerateAction = 254
+GetSpecialStayCancelAnimID = 255
+HasReceivedAnyDamage = 256
+GetMoveAnimParamID = 257
+GetGuardLevel = 258
+IsRequestTurnAnimStart = 259
+IsTurningWithAnim = 260
+IsFlying = 261
+IsAbilityInsufficient = 262 -- args: <hand index>
+GetEquipWeightRatioForFalling = 263
+GetFlightMotionState = 264
+GetIsWeakPoint = 265
+GetMoveAnimBlendRatio = 266
+GetLadderActionState = 267
+IsInDisguise = 268
+IsCoopWait = 269
+IsCoop = 270
+IsSpecialTransitionPossible = 271
+GetLandingAnimBlendRatio = 272
+GetThrowAnimID = 273
+DidOpponentDieFromThrow = 274
+HasThrowEnded = 275
+IsThrowSelfDeath = 276
+IsThrowSuccess = 277
+GetGuardMotionCategory = 278 -- args: <hand index>
+IsBeingThrown = 279
+IsSelfThrow = 280
+IsThrowDeathState = 281
+GetNewLockState = 282
+IsOnLadder = 283
+GetPhysicalAttribute = 284
+GetSpecialAttribute = 285
+GetSpecialStayDeathAnimID = 286
+HasReceivedAnyDamage_AnimEnd = 287
+EggGrowth_IsHeadScratch = 288
+EggGrowth_IsBecomeEggHead = 289
+IsStop = 290
+IsSomeoneOnLadder = 291 -- args: <check distance>, <unknown index>
+IsSomeoneUnderLadder = 292 -- args: <check distance>, <unknown index>
+GetLadderHandState = 293
+DoesLadderHaveCharacters = 294 -- args: <check distance>, <unknown index>, <unknown index>
+IsLadderRightHandStayState = 295
+IsDescendingToFloor = 296
+IsInputDirectionMatch = 297
+IsSpecialTransition2Possible = 298
+IsVersusDivineDamage = 299
 
-# Group 200
-200 IsFalling 			                
-201 IsLanding 			                
-202 GetReceivedDamageType 			    
-203 IsActiveActionValid 			    
-204 GetActionEventNumber 			    
-205 IsNormalDmgPassThroughDuringThrow   
-206 IsThrowing 			                
-207 GetWeaponSwitchState 			    
-209 IsEquipmentSwitchPossible 			
-210 IsAnimCancelPossibleInAtkRelease    
-211 IsEmergencyStopAnimPlaying          
-212 GetLockRangeState 			        
-213 GetLockAngleState 			        
-214 IsAnimCancelPossibleInDamageHit     
-215 IsChangeToScrapeAtk 			    
-216 IsChangeToDeflectAtk 			    
-217 IsChangeToAfterParrySuccess         
-218 IsChangeFromNormalToBigAtk 			
-219 GetMovementType 			        
-220 IsLargeAtkComboPossible 			
-221 IsMapActionPossible 			    
-222 GetReceivedDamageDirection 			
-223 GetMapActionID 			            
-224 GetFallHeight 			            
-225 GetEquipWeaponCategory 			    # Base TAE ID
-226 IsHoldingBow 			            
-227 GetMagicAnimType 			        
-228 WasNotLargeAtk 			            
-229 IsBackAtkPossible 			        
-230 IsAfterParryAtkPossible 			
-231 GetItemAnimType 			        
-232 IsMagicUseable 			            
-233 IsItemUseable 			            
-234 IsPrecisionShoot 			        
-235 IsFireDamaged 			            
-236 GetDamageLevel 			            
-237 GetGuardLevelAction 			    
-238 IsNewLeftHandAtkFromStay 			
-239 IsParryFromIdle 			        
-240 IsGuardFromIdle 			        
-241 IsNewLeftHandAtkFromAtkCancel       
-242 IsParryFromAtkCancel 			    
-243 IsGuardFromAtkCancel 			    
-244 IsTiedUp 			                
-245 IsOutOfAmmo 			            
-246 IsUseCatLanding 			        
-247 GetHoverMoveState 			        
-248 IsTruelyLanding 			        
-249 IsRightHandMagic 			        
-250 IsChangeToSpecialStayAnim           
-251 GetSpecialStayAnimID 			    
-252 AcquireSpecialDamageAnimationID
-253 IsRunTurnAnimPlaying 			    
-254 IsGenerateAction 			        
-255 GetSpecialStayCancelAnimID 			
-256 HasReceivedAnyDamage 			    
-257 GetMoveAnimParamID 			        
-258 GetGuardLevel 			            
-259 IsRequestTurnAnimStart 			    
-260 IsTurningWithAnim 			        
-261 IsFlying 			                
-262 IsAbilityInsufficient 			    
-263 GetEquipWeightRatioForFalling       
-264 GetFlightMotionState 			    
-265 GetIsWeakPoint 			            
-266 GetMoveAnimBlendRatio 			    
-267 GetLadderActionState 			    
-268 IsInDisguise 			            
-269 IsCoopWait 			                
-270 IsCoop 			                    
-271 IsSpecialTransitionPossible         
-272 GetLandingAnimBlendRatio 			
-273 GetThrowAnimID 			            
-274 DidOpponentDieFromThrow 			
-275 HasThrowEnded 			            
-276 IsThrowSelfDeath 			        
-277 IsThrowSuccess 			            
-278 GetGuardMotionCategory 			    
-279 IsBeingThrown 			            
-280 IsSelfThrow 			            
-281 IsThrowDeathState 			        
-282 GetNewLockState 			        
-283 IsOnLadder 			                
-284 GetPhysicalAttribute 			    
-285 GetSpecialAttribute 			    
-286 GetSpecialStayDeathAnimID 			
-287 HasReceivedAnyDamage_AnimEnd        
-288 EggGrowth_IsHeadScratch 			
-289 EggGrowth_IsBecomeEggHead 			
-290 IsStop 			                    
-291 IsSomeoneOnLadder 			        
-292 IsSomeoneUnderLadder 			    
-293 GetLadderHandState 			        
-294 DoesLadderHaveCharacters 			
-295 IsLadderRightHandStayState 			
-296 IsDescendingToFloor 			    
-297 IsInputDirectionMatch 			    # Whether input direction matches for that cardinal (e.g. wont match for a sec during turn around anims)
-298 IsSpecialTransition2Possible        
-299 IsVersusDivineDamage 			
+IsGeneralAnimCancelPossible = 300
+GetEventEzStateFlag = 301 -- args: <EzState command id>
+IsLadderEventEnd = 302
+IsReachBottomOfLadder = 303
+IsReachTopOfLadder = 304
+GetStateChangeType = 305 -- args: <state change id>
+IsOnLastRungOfLadder = 306
+GetWeaponDurability = 311
+IsWeaponBroken = 312
+IsAnimEndBySkillCancel = 313
+EggGrowth_IsBecomeEgghead_SecondStage = 314
+IsHamariFallDeath = 315 -- args: <unknown index>
+IsClient = 316
+IsSlope = 317
+IsSwitchState = 318
+IsPressUpKey = 319
+IsSpecialTurning = 320
+GetIntValueForTest = 321
+IsObjActInterpolatedMotion = 322
+GetObjActTargetDirection = 323
+GetObjActRemainingInterpolateTime = 324
+IsGap = 325
+GetWeaponID = 326 -- args: <hand index>
+IsMovingLaterally = 327
+IsNet = 328
+HasBrokenSA = 329
+IsEmergencyQuickTurnActivated = 330
+IsDoubleChantPossible = 331
+IsAnimOver = 332
+ObtainedDT = 333
+GetBehaviorID = 334 -- args: <hand index>
+IsTwoHandPossible = 335 -- args: <hand index>
+IsPartDamageAdditiveBlendInvalid = 336
+IsThrowPosRealign = 337
+GetBoltLoadingState = 338 -- args: <slot index>
+IsAnimEnd = 339 -- args: <unknown index>
+IsTwinSwords = 340 -- args: <hand index>
+GetTurnAngleForDelayedTurn = 341
+GetThrowDefenseCount = 342
+IsEmergencyEvasionPossible = 343 -- args: <unknown index>
+HasEnoughArtsPoints = 344 -- args: <button index>, <hand index>
+GetEquipWeaponSpecialCategoryNumber = 345 -- args: <hand index>
+CheckForEventAnimPlaybackRequest = 346
+IsFemale = 347
+GetDelayTurnAngleDifference = 348
+IsDamageMotionOff = 349
+HasReachedStatsNeededForWeapon = 350 -- args: <hand index>
+UpperArmControlOuterAngle = 351
+UpperArmControlTopAndBottomAngle = 352
+CompleteLadderSlideDown = 353
+GetLadderRungCount = 354
+GetNumberOfRungsBelowOnLadder = 355
+GetBowAndArrowSlot = 356
+GetWeaponStorageSpotType = 357 -- args: <hand index>
+GetStayAnimCategory = 358
+GetWeaponSwitchState_Unused = 359
+IsEquipmentMenuOpen = 360
+GetRemainingArrowCount = 361
+Unknown362 = 362 -- args: <unknown>
+GetEventID = 364
+Unknown365 = 365
+GetSpiritspringJumpHeight = 366
+Unknown368 = 368
 
-# Group 300    
-300 IsGeneralAnimCancelPossible         
-301 GetEventEzStateFlag 			    
-302 IsLadderEventEnd 			        
-303 IsReachBottomOfLadder 			    
-304 IsReachTopOfLadder 			        
-305 GetStateChangeType 			        
-    <condition type> 
-306 IsOnLastRungOfLadder 			    
-311 GetWeaponDurability 			    
-312 IsWeaponBroken 			            
-313 IsAnimEndBySkillCancel 			    
-314 EggGrowth_IsBecomeEgghead_SecondStage   
-315 IsHamariFallDeath 			        
-316 IsClient 			                
-317 IsSlope 			                
-318 IsSwitchState 			            
-319 IsPressUpKey 			            
-320 IsSpecialTurning 			        
-321 GetIntValueForTest 			        
-322 IsObjActInterpolatedMotion 			
-323 GetObjActTargetDirection 		    
-324 GetObjActRemainingInterpolateTime   
-325 IsGap 			                    
-326 GetWeaponID 			            
-327 IsMovingLaterally 			        
-328 IsNet 			                    
-329 HasBrokenSA 			            
-330 IsEmergencyQuickTurnActivated       
-331 IsDoubleChantPossible 			    
-332 IsAnimOver 			                
-333 ObtainedDT 			                
-334 GetBehaviorID 			            
-    <id>
-335 IsTwoHandPossible 			        
-336 IsPartDamageAdditiveBlendInvalid    
-337 IsThrowPosRealign 			        
-338 GetBoltLoadingState 			    
-339 IsAnimEnd 			                
-340 IsTwinSwords 			            
-341 GetTurnAngleForDelayedTurn          
-342 GetThrowDefenseCount 			    
-343 IsEmergencyEvasionPossible          
-344 HasEnoughArtsPoints                 
-    <button index>, <hand index>
-345 GetEquipWeaponSpecialCategoryNumber # Override TAE ID
-    <hand index>
-346 CheckForEventAnimPlaybackRequest    
-347 IsFemale 			                
-348 GetDelayTurnAngleDifference         
-349 IsDamageMotionOff 			        
-350 HasReachedStatsNeededForWeapon      
-    <hand index>
-351 UpperArmControlOuterAngle           
-352 UpperArmControlTopAndBottomAngle    
-353 CompleteLadderSlideDown 		    
-354 GetLadderRungCount 			        
-355 GetNumberOfRungsBelowOnLadder       
-356 GetBowAndArrowSlot 			        
-357 GetWeaponStorageSpotType            
-    <hand index>
-358 GetStayAnimCategory 			    
-359 GetWeaponSwitchState 			    
-360 IsEquipmentMenuOpen 			    
-361 GetRemainingArrowCount 		
-362 
-    <int>
-365 
-366 [Guess] Get Spiritspring Jump Height
+Unknown400 = 400
+Unknown404 = 404
+Unknown405 = 405
+GetRollAngle = 406
+GetJumpAngle = 407
+GetSwordArtsRollAngle = 408
+Unknown409 = 409 -- args: <unknown>
 
-# Group 400
-400 
-404 [Guess] Get Equipment Type (Mount)
-409 
-    <int> 
+IsOnMount = 500
+IsSummoningRide = 504
+IsMovingOnMount = 505
+IsIdleOnMount = 506
+GetMountReceivedDamageDirection = 522 -- args: <unknown>
+GetMountDamageLevel = 530
+GetMountRecievedDamageAngle = 533
+GetMountRecievedDamageType = 534
+HasMountReceivedAnyDamage = 535
+IsMountFalling = 537
+GetMountFallHeight = 538
+IsMountInFallLoop = 539
+IsMountTrulyLanding = 540
+GetMountSpecialAttribute = 543
+IsMountDead = 545
+GetMountIsWeakPoint = 546
+Unknown548 = 548
+GetMountSpecialEffectID = 549
+Unknown552 = 552
+Unknown555 = 555
 
-# Group 500
-500 [Guess] Is Riding Mount
-504 
-505 [Guess] Can Ride 
-506 [Guess] Cannot Ride
-530 Get Mount Damage Level
-533 Get Mount Damage Angle
-534 Get Mount Damage Type
-535 Is Mount Damaged
-537 [Guess] Is Mount Falling
-538 [Guess] Get Mount Fall Height
-539 [Guess] Is Mount Landing from Jump
-540 [Guess] Is Mount Truly Landing
-543 Get Mount Special Attribute
-545 
-548 
-549 Get Mount SpEffect
-552 [Guess] Is Mount Move Type
-    <int> 
-555
+IsJumping = 700
+Unknown701 = 701
 
-# Group 700
-700 Is Jumping
+GetHP = 1000
+GetStamina = 1001
+IsGhost = 1002
+GetRandomInt = 1003
+GetRandomFloat = 1004
+IsUnableToDie = 1005
+IsResurrectionPossible = 1006
+IsCOMPlayer = 1007
+GetAITargetAwareState = 1008
+IsAIChangeToAwareState = 1009
+GetAITargetAwareStatePreviousFrame = 1010
 
-# Group 1000
-1000 GetHP 			                    
-1001 GetStamina 			            
-1002 IsGhost 			                
-1003 GetRandomInt 			            
-1004 GetRandomFloat 			        
-1005 IsUnableToDie 			            
-1006 IsResurrectionPossible 			
-1007 IsCOMPlayer 			            
-1008 GetAITargetAwareState 			    
-1009 IsAIChangeToAwareState 			
-1010 GetAITargetAwareStatePreviousFrame 
-1100 GetTestDamageAnimID 			    
-1101 IsInvincibleDebugMode 			    
-1102 WasGameLaunchedInPGTestMode        
-1103 IsTiltingStick 			        
-1104 GetGestureRequestNumber            
-1105 IsStayState 			            
-1106 ActionRequest 			            
-1107 ActionCancelRequest 			    
-1108 ActionDuration 			        
-1109 HasActionRequest 			        
-1110 MovementRequest 			        
-1111 MovementRequestDuration            
-1112 HasThrowRequest 			        
-1113 IsGuardCancelPossible              
-1114 DoesAnimExist 			            
-1115 GetAIMovementType 			        
-1116 GetSpecialEffectID 			    
-1117 IsConversationEnd 			        
-1118 IsLocked 			                
-1119 GetAtkDirection 			        
-1120 GetPartGroup 			            
-1121 GetKnockbackDistance 		
+GetTestDamageAnimID = 1100
+IsInvincibleDebugMode = 1101
+WasGameLaunchedInPGTestMode = 1102
+IsTiltingStick = 1103
+GetGestureRequestNumber = 1104
+IsStayState = 1105
+ActionRequest = 1106 -- args: <action arm index>
+ActionCancelRequest = 1107 -- args: <action arm index>
+ActionDuration = 1108 -- args: <action arm index>
+HasActionRequest = 1109
+MovementRequest = 1110
+MovementRequestDuration = 1111
+HasThrowRequest = 1112
+IsGuardCancelPossible = 1113
+DoesAnimExist = 1114 -- args: <anim id>, *<anim id>
+GetAIMovementType = 1115
+GetSpecialEffectID = 1116
+IsConversationEnd = 1117
+IsLocked = 1118
+GetAtkDirection = 1119
+GetPartGroup = 1120
+GetKnockbackDistance = 1121
 
-# Group 2000	    
-2000 IsMoveCancelPossible 			    
-2002 GetSpecialMovementType 			
-2003 GetGeneralTAEFlag 			        
-2004 IsSwingHitTarget 			        
-2005 GetCeremonyState 			        
-    <enum>
-2006 GetSuccessiveGuardCount            
-2007 GetMinLuck 			            
-2008 GetAccumulatedLuck 			    
-2009 GetMaxLuck 			            
-2010 GetMaxStamina 			            
-2011 GetGeneralMSBParameter 			
-2012 IsHitWall 			                
-2013 GetSafetyDirection 			    
-2014 IsInCeremony 			            
-2015 IsDoingCorpseCarryKeyframe         
-2016 GetMP 			                    
-2017 IsCeremonyComplete 			    
-2018 IsCeremonyInterrupt                
+IsMoveCancelPossible = 2000
+GetSpecialMovementType = 2002
+GetGeneralTAEFlag = 2003 -- args: <flag>
+IsSwingHitTarget = 2004
+GetCeremonyState = 2005
+GetSuccessiveGuardCount = 2006
+GetMinLuck = 2007
+GetAccumulatedLuck = 2008
+GetMaxLuck = 2009
+GetMaxStamina = 2010
+GetGeneralMSBParameter = 2011
+IsHitWall = 2012
+GetSafetyDirection = 2013
+IsInCeremony = 2014
+IsDoingCorpseCarryKeyframe = 2015
+GetMP = 2016
+IsCeremonyComplete = 2017
+IsCeremonyInterrupt = 2018            
 
-#------------------------
-# act( x, y, z )
-#------------------------
-# Group 0
-0 ChangeGeneralAnim
-1 ChangeUpperBodyAnim
-2 ChangeStayAnim
-3 ChangeGeneralAnimCategorized
-      AnimCategory - Category of animation ID to choose from.
-      AnimID - Animation ID. Uses the Category to determine which exact animation ID to play.
-      LayerIndex - Description="Animation Mediator Layer in which to play the animation.
-      Blend - Not much is known about this value. Usually something like 0.2 for attacks.
-      IsLoop - Whether the animation will continue to loop or stop on the last frame.
-4 ChangeUpperBodyAnimCategorized
-5 ChangeGeneralAnimAdditiveCategorized
-6 ChangeUpperBodyAnimAdditiveCategorized
-7 ChangeGeneralAnimCategorizedMatchPlaybackTime
-8 ChangeUpperBodyAnimCategorizedMatchPlaybackTime
-9 SetAnimIDOffset
-10 SetAdditiveBlendAnimation
-11 SetAdditiveBlendAnimationSlotted
-12 ChangeBlendAnimationCategorized
-13 ChangeUpperAndLowerBodySyncedAnimCategorized
+------------------------
+-- Commands
+-- act( <command>, <args> )
+-- *<args> are optional
+------------------------
+ChangeGeneralAnim = 0
+ChangeUpperBodyAnim = 1
+ChangeStayAnim = 2
+ChangeGeneralAnimCategorized = 3 -- args: <anim category>, <anim id>, <layer index>, <blend>, <isLoop>
+ChangeUpperBodyAnimCategorized = 4
+ChangeGeneralAnimAdditiveCategorized = 5
+ChangeUpperBodyAnimAdditiveCategorized = 6
+ChangeGeneralAnimCategorizedMatchPlaybackTime = 7
+ChangeUpperBodyAnimCategorizedMatchPlaybackTime = 8
+SetAnimIDOffset = 9
+SetAdditiveBlendAnimation = 10
+SetAdditiveBlendAnimationSlotted = 11
+ChangeBlendAnimationCategorized = 12
+ChangeUpperAndLowerBodySyncedAnimCategorized = 13
 
-# Group 100
-100 SetActiveActionState
-101 SwitchMotion
-    <bool>
-102 SetAllowedThrowAttackType
-    <enum>
-103 SetAllowedThrowDefenseType
-    <enum>
-104 SwitchEquippedWeapon
-105 SetReadyForAtkFinish
-106 SetEquipmentChangeable
-107 SetUnableToFall
-108 SendMessageIDToEvents
-    <enum>
-109 SetAttackType
-110 SetStaminaRecoveryDisabled
-111 SetAIBusyDoingAction
-112 BowTurn
-113 SetBowStance
-114 SetPreciseAimMode
-115 SetSpecialMovement
-116 SetIsWeaponChanging
-117 SetIsItemInUse
-    <bool>
-118 SetIsMagicInUse
-    <bool>
-119 SetHoverState
-120 RemoveBinoculars
-121 ChangeToSpecialStay
-122 SetIsHeadTurnPossible
-123 OpenMenuWhenUsingItem
-124 OpenMenuWhenUsingMagic
-125 BlowDamageTurn
-126 SetDeathStay
-    <bool>
-127 CloseMenuWhenUsingItem
-128 CloseMenuWhenUsingMagic
-129 DisallowAdditiveTurning
-    <bool>
-130 ChangeFlightStatus
-131 ShowFixedYAxisDirectionDisplay
-132 WhiffPossibility
-133 SetLadderActionState
-    <enum>
-134 SetInsufficientStrengthAnimID
-135 ForceCancelThrowAnim
-136 SetThrowState
-    <enum>
-137 StartSlidingDownLadder
-138 SetIsEventActionPossible
-    <bool>
-139 RequestThrowAnimInterrupt
-140 SetHandStateOfLadder
-141 SetDamageAnimType
-    <enum>
-142 DownwardSlideTurn
-    <bool>
-143 InterruptAttack
-144 SkyDeathWarp
-145 ClearSlopeInfo
-146 ReceiveStateInput
-147 SetIsEquipmentChangeableFromMenu    # Slot swap
-148 SetVariable
-149 AimAtSelfPosition
-150 SetIsItemAnimationPlaying
-151 DoAIReplanningAtCancelTiming
-152 DenyEventAnimPlaybackRequest
-153 InvokeBackstab                      # バックスタブ発動
-154 WeaponParameterReferent             # 武器パラメータ参照先
-155 AINotifyAttackType                  # AI通知攻撃タイプ
-156 SetAutoCaptureTarget
-157 ClearAutoCaptureTarget
-158 RequestAIReplanning                 # キャンセルタイミングでAIへのリプランニング要求
-159 TurnTowardAttacker
-160 SetThrowPossibilityState_Attacker
-161 SetThrowPossibilityState_Defender
-162 MarkOfGreedyPersonSlipDamageDisable
+SetActiveActionState = 100
+SwitchMotion = 101 -- args: <bool>
+SetAllowedThrowAttackType = 102 -- args: <index>
+SetAllowedThrowDefenseType = 103 -- args: <index>
+SwitchEquippedWeapon = 104
+SetReadyForAtkFinish = 105
+SetEquipmentChangeable = 106
+SetUnableToFall = 107
+SendMessageIDToEvents = 108 -- args: <event call>
+SetAttackType = 109 -- args: <index>
+SetStaminaRecoveryDisabled = 110
+SetAIBusyDoingAction = 111
+BowTurn = 112
+SetBowStance = 113
+SetPreciseAimMode = 114
+SetSpecialMovement = 115
+SetIsWeaponChanging = 116
+SetIsItemInUse = 117 -- args: <bool>
+SetIsMagicInUse = 118 -- args: <bool>
+SetHoverState = 119
+RemoveBinoculars = 120
+ChangeToSpecialStay = 121
+SetIsHeadTurnPossible = 122
+OpenMenuWhenUsingItem = 123
+OpenMenuWhenUsingMagic = 124
+BlowDamageTurn = 125
+SetDeathStay = 126 -- args: <bool>
+CloseMenuWhenUsingItem = 127
+CloseMenuWhenUsingMagic = 128
+DisallowAdditiveTurning = 129 -- args: <bool>
+ChangeFlightStatus = 130
+ShowFixedYAxisDirectionDisplay = 131
+WhiffPossibility = 132
+SetLadderActionState = 133 -- args: <index>
+SetInsufficientStrengthAnimID = 134
+ForceCancelThrowAnim = 135
+SetThrowState = 136 -- args: <index>
+StartSlidingDownLadder = 137
+SetIsEventActionPossible = 138 -- args: <bool>
+RequestThrowAnimInterrupt = 139
+SetHandStateOfLadder = 140
+SetDamageAnimType = 141 -- args: <index>
+DownwardSlideTurn = 142 -- args: <index>
+InterruptAttack = 143
+SkyDeathWarp = 144
+ClearSlopeInfo = 145
+ReceiveStateInput = 146
+SetIsEquipmentChangeableFromMenu = 147
+SetHavokVariable = 148 -- args: <string>, <value>
+AimAtSelfPosition = 149
+SetIsItemAnimationPlaying = 150
+DoAIReplanningAtCancelTiming = 151
+DenyEventAnimPlaybackRequest = 152
+InvokeBackstab = 153
+WeaponParameterReference = 154 -- args: <hand index>
+AINotifyAttackType = 155 -- args: <index>
+SetAutoCaptureTarget = 156
+ClearAutoCaptureTarget = 157
+RequestAIReplanning = 158
+TurnTowardAttacker = 159
+SetThrowPossibilityState_Attacker = 160 -- args: <index>
+SetThrowPossibilityState_Defender = 161 -- args: <index>
+MarkOfGreedyPersonSlipDamageDisable = 162
 
-# Group 200
-200 StateIdentifier
+StateIdentifier = 200
 
-# Group 1000
-1000 AddHP
-    <int>
-1001 AddStamina
-    <int>
-1100 SyncAtInit_Active
-1101 SyncAtInit_Passive
+AddHP = 1000 -- args: <value>
+AddStamina = 1001 -- args: <value>
 
-# Group 2000
-2001 SetMovementScaleMult
-    <float>
-2002 AddSpEffect
-    <id>
-2003 SetFastStealthThrowEnabled
-2004 SetTurnSpeed
-2005 SetCeremonyState
-2006 SetDamageMotionBlendRatio
-    <float>
-2007 SetForceTurnTarget
-2008 ForceTurn
-2009 SpecialTurn
-2010 SetInSpecialGuard
-2011 SetWeaponCancelType
-    <enum>
-2012 SetIsPreciseShootingPossible        # 精密射撃可能か
-2013 ChooseBowAndArrowSlot               # 弓矢スロット選択
-    <slot>
-2014 Set4DirectionMovementThreshold      # 4方向移動閾値設定
-    <int>
-    <int>
-    <int>
-    <int>
-2015 LockonSystemUnableToTurnAngle       # ロックオン時システム旋回不可角度
-    <angle>
-    <angle>
-2016 ReserveArtsPointsUse                # アーツポイント使用予約
-    <button>
-    <hand>
-2017 SetArtsPointFEDisplayState
-2018 LockonFixedAngleCancel              # ロックオン中角度固定解除
-2019 TurnToLockonTargetImmediately       # ロックオン対象へ即座に旋回
-2020 SetSpecialInterpolation
-2021 LadderSlideDownCancel
-2022 DisableMagicIDSwitching             # 魔法ID切り替え無効
-2023 DisableToolIDSwitching              # 道具ID切り替え無効
-2024 UseItemDecision
-2025 [Guess] Use Equipment (Mount)
-2026 
-2040 
-2050 [Guess] Jump Attack State
-    <int>
-    <int>
-    
-# Group 3000
-3000 [Guess] Mount Creature
-3001
-3002
-3003 [Guess] Play Torrent Anim
-3004 Apply Blend Anim
-    <blend anim>
-    <rate>
-3005 
-3007 Apply Damage Flag
-    <DAMAGE_FLAG_ENUM>
-    
-# Group 4000
-4001 [Guess] Jump related
-4002 [Guess] Jump Attack related
-    
-# Group 9000
-9000 DebugLogOutput                 # デバッグログ出力
-    <string>
-9001 Test_SpEffectDelete
-9002 Test_SpEffectTypeSpecifyDelete
-9003 MarkerStart
-9004 MarkerEnd
+SyncAtInit_Active = 1100
+SyncAtInit_Passive = 1101
 
-9100 Wait
-9101 ResetInputQueue
-9102 SetIsEventAnim
-9103 AIAttackState                  # AI攻撃ステート
-    <Action Type>
-9104 SetIsTurnAnimInProgress 
-9105 SetTurnAnimCorrectionRate
-    <int>
+SetMovementScaleMult = 2001 -- args: <value>
+AddSpEffect = 2002 -- args: <id>
+SetFastStealthThrowEnabled = 2003
+SetTurnSpeed = 2004
+SetCeremonyState = 2005
+SetDamageMotionBlendRatio = 2006 -- args: <value>
+SetForceTurnTarget = 2007
+ForceTurn = 2008
+SpecialTurn = 2009
+SetInSpecialGuard = 2010
+SetWeaponCancelType = 2011 -- args: <index>
+SetIsPreciseShootingPossible = 2012
+ChooseBowAndArrowSlot = 2013 -- args: <slot index>
+Set4DirectionMovementThreshold = 2014 -- args: <value>, <value>, <value>, <value>
+LockonSystemUnableToTurnAngle = 2015 -- args: <angle>, <angle>
+ReserveArtsPointsUse = 2016 -- args: <button index>, <hand index>
+SetArtsPointFEDisplayState = 2017
+LockonFixedAngleCancel = 2018
+TurnToLockonTargetImmediately = 2019 -- args: <value>
+SetSpecialInterpolation = 2020 -- args: <value>, <bool>
+LadderSlideDownCancel = 2021
+DisableMagicIDSwitching = 2022
+DisableToolIDSwitching = 2023
+UseItemDecision = 2024
+UseEquipmentOnMount = 2025 -- args: <value>
+Unknown2026 = 2026
+Unknown2027 = 2027
+Unknown2029 = 2029
+Unknown2030 = 2030
+PlayEventSync = 2031
+Unknown2040 = 2040
+Unknown2050 = 2050 -- args: <index>, <index>
 
-#------------------------
-# <attack request type>
-#------------------------
-0 R1 
-1 L1 
-2 Catalyst / Talisman / Pyromancy Flame R1 
-3 Catalyst / Talisman / Pyromancy Flame L1 
-10 Backstep 
-14 Use Goods 
-15 Roll Forward 
-16 Roll Backward 
-17 Roll Left 
-18 Roll Right 
-22 AttackArm_Gesture0 (Beckon) 
-23 AttackArm_Gesture1 (Point Forward) 
-24 AttackArm_Gesture2 (Hurrah!) 
-25 AttackArm_Gesture3 (Bow) 
-26 AttackArm_Gesture4 (Joy) 
-27 AttackArm_Gesture5 (Shrug) 
-28 AttackArm_Gesture6 (Wave) 
-29 AttackArm_Gesture7 (Praise the Sun) 
-30 AttackArm_Gesture8 (Point Up) 
-31 AttackArm_Gesture9 (Point Down) 
-32 AttackArm_Gesture10 (Look Skyward) 
-33 AttackArm_Gesture11 (Well! What is it!) 
-34 AttackArm_Gesture12 (Prostration) 
-35 AttackArm_Gesture13 (Proper Bow) 
-36 AttackArm_Gesture14 (Prayer) 
-37 AttackArm_Gesture15 (Unused)
-38 AttackArm_Gesture16 (Unused)
-39 AttackArm_Gesture17 (Unused)
-40 AttackArm_Gesture18 (Unused)
-41 AttackArm_Gesture19 (Unused)
-42 Jump 
-52 Left Hand Crossbow Ammo Swap 
+Unknown3000 = 3000
+Unknown3001 = 3001
+Unknown3002 = 3002
+PlayRideAnim = 3003
+ApplyRideBlend= 3004 -- args: <blend anim>, <rate>
+Unknown3005 = 3005
+ApplyDamageFlag = 3007 -- args: <index>
 
-#------------------------
-# <anim category>
-#------------------------
-0 Based on Left Hand Motion Category
-1 Based on Right Hand Motion Category
-2 Based on current Move Param
-3 Absolute Animation ID
+Unknown4000 = 4000
+Unknown4001 = 4001
+Unknown4002 = 4002
 
-#------------------------
-# <anim layer index>
-#------------------------
-0 Wait
-1 SpWait
-2 WalkLR
-3 WalkFB
-4 Guard
-5 Attack
-6 SpecialAttack
-7 Action
-8 Damage S
-9 Damage L
-10 Event
-11 ExtraAnim
-12 TaeExtraAnim
+DebugLogOutput = 9000
+Test_SpEffectDelete = 9001
+Test_SpEffectTypeSpecifyDelete = 9002
+MarkerStart = 9003
+MarkerEnd = 9004
 
-#------------------------
-# Other Commands
-#------------------------
-# Getter
-root:getTranslation() # Returns position
+Wait = 9100
+ResetInputQueue = 9101
+SetIsEventAnim = 9102
+SetAIAttackState = 9103 -- args: <index>
+SetIsTurnAnimInProgress = 9104
+SetTurnAnimCorrectionRate = 9015 -- args: <value>
 
-# Animation
-Fire( <animation> )
-ExecEvent( <animation> ) # Found in eventnameid.txt
-ExecEventAllBody( <animation> ) # Found in eventnameid.txt
+Unknown9999 = 9999
 
-# HKB
-hkbFireEvent( <state> )
-hkbSetVariable( <variable>, <value> ) # Found in variablenameid.txt
-hkbGetBoneModelSpace( <bone> ) # 
-hkbIsNodeActive( <node> )
+------------------------
+-- ACTION_ARM
+------------------------
+ACTION_ARM_R1 = 0
+ACTION_ARM_R2 = 1
+ACTION_ARM_L1 = 2
+ACTION_ARM_L2 = 3
+ACTION_ARM_ACTION = 4
+ACTION_ARM_SP_MOVE = 5
+ACTION_ARM_CHANGE_STYLE = 6 # Jump
+ACTION_ARM_USE_ITEM = 7
+ACTION_ARM_SWITCH_FORM = 8
+ACTION_ARM_CHANGE_WEAPON_R = 9
+ACTION_ARM_CHANGE_WEAPON_L = 10
+ACTION_ARM_CHANGE_ITEM = 11
+ACTION_ARM_R3 = ?
+ACTION_ARM_L3 = ?
+ACTION_ARM_TOUCH_R = ?
+ACTION_ARM_TOUCH_L = ?
+ACTION_ARM_BACKSTEP = ? # DS3: 12
+ACTION_ARM_ROLLING = ? # DS3: 13
 
-#------------------------
-# Reference
-#------------------------
-hkbStateMachine: #256 Master_SM 
- 
+ACTION_ARM_MAGIC_R = ? # DS3: 15
+ACTION_ARM_MAGIC_L = ? # DS3: 16
+ACTION_ARM_GESTURE = ? # DS3: 17
+ACTION_ARM_LADDERUP = ? # DS3: 18
+ACTION_ARM_LADDERDOWN = ? # DS3: 19
+ACTION_ARM_GUARD = ? # DS3: 20
+ACTION_ARM_EMERGENCYSTEP = ? # DS3: 21
+ACTION_ARM_LIGHT_KICK = ? # DS3: 22
+ACTION_ARM_HEAVY_KICK = ? # DS3: 23
+ACTION_ARM_CHANGE_STYLE_R
+ACTION_ARM_CHANGE_STYLE_L = ? # DS3: 24
+ACTION_ARM_RIDEON
+ACTION_ARM_RIDEOFF
+ACTION_ARM_BUDDY_DISAPPEAR
+
