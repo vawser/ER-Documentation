@@ -13,7 +13,6 @@ IsAttackAnimEnd = 1
 AnimIDOffset = 9
 AdditiveBlendAnim = 10
 AdditiveBlendAnimOfSlot = 11
-
 IsAtkRequest = 100 -- args: <attack request index>
 IsAtkReleaseRequest = 101
 IsChainAtkRequest = 102
@@ -39,7 +38,6 @@ GetWeaponCancelType = 121 -- args: <hand index>
 IsWeaponCancelPossible = 122 
 GetAIDefenseCancelType = 123
 GetAIVersusBackstabCancelType = 124
-
 IsFalling = 200
 IsLanding = 201
 GetReceivedDamageType = 202
@@ -139,7 +137,6 @@ IsDescendingToFloor = 296
 IsInputDirectionMatch = 297
 IsSpecialTransition2Possible = 298
 IsVersusDivineDamage = 299
-
 IsGeneralAnimCancelPossible = 300
 GetEventEzStateFlag = 301 -- args: <EzState command id>
 IsLadderEventEnd = 302
@@ -195,7 +192,7 @@ GetNumberOfRungsBelowOnLadder = 355
 GetBowAndArrowSlot = 356
 GetWeaponStorageSpotType = 357 -- args: <hand index>
 GetStayAnimCategory = 358
-GetWeaponSwitchState_Unused = 359
+GetWeaponSwitchStatus = 359
 IsEquipmentMenuOpen = 360
 GetRemainingArrowCount = 361
 Unknown362 = 362 -- args: <unknown>
@@ -203,7 +200,6 @@ GetEventID = 364
 Unknown365 = 365
 GetSpiritspringJumpHeight = 366
 Unknown368 = 368
-
 Unknown400 = 400
 Unknown404 = 404
 Unknown405 = 405
@@ -211,7 +207,6 @@ GetRollAngle = 406
 GetJumpAngle = 407
 GetSwordArtsRollAngle = 408
 Unknown409 = 409 -- args: <unknown>
-
 IsOnMount = 500
 IsSummoningRide = 504
 IsMovingOnMount = 505
@@ -232,10 +227,8 @@ Unknown548 = 548
 GetMountSpecialEffectID = 549
 Unknown552 = 552
 Unknown555 = 555
-
 IsJumping = 700
 Unknown701 = 701
-
 GetHP = 1000
 GetStamina = 1001
 IsGhost = 1002
@@ -247,7 +240,6 @@ IsCOMPlayer = 1007
 GetAITargetAwareState = 1008
 IsAIChangeToAwareState = 1009
 GetAITargetAwareStatePreviousFrame = 1010
-
 GetTestDamageAnimID = 1100
 IsInvincibleDebugMode = 1101
 WasGameLaunchedInPGTestMode = 1102
@@ -264,13 +256,12 @@ HasThrowRequest = 1112
 IsGuardCancelPossible = 1113
 DoesAnimExist = 1114 -- args: <anim id>, *<anim id>
 GetAIMovementType = 1115
-GetSpecialEffectID = 1116
+GetSpEffectID = 1116
 IsConversationEnd = 1117
 IsLocked = 1118
 GetAtkDirection = 1119
 GetPartGroup = 1120
 GetKnockbackDistance = 1121
-
 IsMoveCancelPossible = 2000
 GetSpecialMovementType = 2002
 GetGeneralTAEFlag = 2003 -- args: <flag>
@@ -309,7 +300,6 @@ SetAdditiveBlendAnimation = 10
 SetAdditiveBlendAnimationSlotted = 11
 ChangeBlendAnimationCategorized = 12
 ChangeUpperAndLowerBodySyncedAnimCategorized = 13
-
 SetActiveActionState = 100
 SwitchMotion = 101 -- args: <bool>
 SetAllowedThrowAttackType = 102 -- args: <index>
@@ -373,15 +363,11 @@ TurnTowardAttacker = 159
 SetThrowPossibilityState_Attacker = 160 -- args: <index>
 SetThrowPossibilityState_Defender = 161 -- args: <index>
 MarkOfGreedyPersonSlipDamageDisable = 162
-
 StateIdentifier = 200
-
 AddHP = 1000 -- args: <value>
-AddStamina = 1001 -- args: <value>
-
+AdjustStamina = 1001 -- args: <value>
 SyncAtInit_Active = 1100
 SyncAtInit_Passive = 1101
-
 SetMovementScaleMult = 2001 -- args: <value>
 AddSpEffect = 2002 -- args: <id>
 SetFastStealthThrowEnabled = 2003
@@ -414,7 +400,6 @@ Unknown2030 = 2030
 PlayEventSync = 2031
 Unknown2040 = 2040
 Unknown2050 = 2050 -- args: <index>, <index>
-
 Unknown3000 = 3000
 Unknown3001 = 3001
 Unknown3002 = 3002
@@ -422,24 +407,20 @@ PlayRideAnim = 3003
 ApplyRideBlend= 3004 -- args: <blend anim>, <rate>
 Unknown3005 = 3005
 ApplyDamageFlag = 3007 -- args: <index>
-
 Unknown4000 = 4000
 Unknown4001 = 4001
 Unknown4002 = 4002
-
 DebugLogOutput = 9000
 Test_SpEffectDelete = 9001
 Test_SpEffectTypeSpecifyDelete = 9002
 MarkerStart = 9003
 MarkerEnd = 9004
-
 Wait = 9100
 ResetInputQueue = 9101
 SetIsEventAnim = 9102
 SetAIAttackState = 9103 -- args: <index>
 SetIsTurnAnimInProgress = 9104
 SetTurnAnimCorrectionRate = 9015 -- args: <value>
-
 Unknown9999 = 9999
 
 ------------------------
@@ -451,7 +432,7 @@ ACTION_ARM_L1 = 2
 ACTION_ARM_L2 = 3
 ACTION_ARM_ACTION = 4
 ACTION_ARM_SP_MOVE = 5
-ACTION_ARM_CHANGE_STYLE = 6 # Jump
+ACTION_ARM_CHANGE_STYLE = 6 # ACTION_ARM_JUMP
 ACTION_ARM_USE_ITEM = 7
 ACTION_ARM_SWITCH_FORM = 8
 ACTION_ARM_CHANGE_WEAPON_R = 9

@@ -909,7 +909,51 @@ CheckSpecificPersonTalkHasEnded( <unk> )
 
 CheckSpecificPersonGenericDialogIsOpen( <unk> )
 
-CheckSpecificPersonMenuIsOpen( <unk>, <unk> )
+#-----------------------------
+# CheckSpecificPersonMenuIsOpen
+#-----------------------------
+args( MENU_ID, UNK )
+    MENU_ID: menu ID to check for
+    UNK: 
+
+    MENU_ID:
+    -1  None
+    1   TalkList
+    2   
+    3   OpenRepository
+    4   
+    5   OpenRegularShop
+    6   OpenSellShop
+    7   OpenEquipmentChangeOfPurposeShop
+    8   
+    9   OpenEnhanceShop(0)  # Full
+    10  OpenSoul
+    11  OpenMagicEquip
+    12  OpenConversationChoicesMenu
+    13  OpenChooseQuantityDialog
+    14  OpenEstusAllotMenu
+    15  
+    16  OpenCharaMakeMenu(0) # Full
+    17
+    18  OpenTranspositionShop
+    19  ReallocateAttributes
+    20  
+    21  OpenPhysickMenu
+    22  OpenDragonCommunionShop
+    23  c1_136 # Spirit Tuning
+    24  c1_137 # Great Runes
+    25  OpenEnhanceShop(1)  # Limited to +3
+    26  OpenTailoringShop
+    27  OpenAshOfWarShop
+    28  OpenPuppetShop
+    29
+    30 OpenCharaMakeMenu(1) # Limited to cosmetics
+    31 OpenDupeShop(0)
+    32 OpenDupeShop(1)
+    33 OpenChampionsEquipmentShop
+    34
+    35
+    36 
 
 DoesSelfHaveSpEffect( <SpEffect> )
     
