@@ -21,6 +21,8 @@ Only the Platoon Leader (Index 0) needs a PatrolInfo attacted to make the whole 
 
 The Platoon Leader can be a 'fake' enemy (c0100), with NPC Param ID 1000000 and NPC Think ID 1000000.
 
+FROMSOFT convention is for the first enemy in the platoon list to be a 'fake' enemy.
+
 #----------------------------------------
 # Platoon Scripts
 #----------------------------------------
@@ -39,6 +41,7 @@ Used to make the enemies walk in a specific formation
 
 # SetBaseMoveRate
 <idx>, <mult>
+Set the base animation rate to X. Is actually a general speed increase rather than just movement.
 
 # Platoon Scripts: [indexes the script affects]
 0:      No Formation 

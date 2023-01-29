@@ -13,6 +13,14 @@ UnkS0C:                     -1
 PatrolType:                 0
 WalkRegionNames[x]:         <PatrolRoute names>
 
+PatrolType:
+0: Return to First Point after Initial Route
+1: Reverse Route after Initial Route
+2: Random Point in Route
+3: Unknown
+4: Use Final Point Only, Idle, then Return to Start Point
+5: Idle at Final Point, Look at Penultimate Point, then Return to Final Point
+
 #----------------------------------------
 # Notes
 #----------------------------------------
