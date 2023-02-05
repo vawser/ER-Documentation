@@ -14,6 +14,10 @@ Requirements:
 - Enemy
 - Param
 
+# Asset
+AEG099_053 
+EntityID:               <XXYYZZ>1100
+
 # Enemy properties
 ModelName:              c1000
 NPCParamID:             10001000

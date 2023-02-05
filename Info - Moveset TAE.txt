@@ -622,12 +622,33 @@ A couple unused moveset ids -
 # NPC Idles
 90000 
 
-# Mount
+# Torrent: Mount
 100000
+101004 Get On
+101011 Get Off
+101012 Get Off (Turn)
+101013 Get Off (Turn)
 
-# Dismounted
+# Torrent: Dismounted
 109000 
 
+# Torrent: Damage Blend
+110000
+
+# Torrent: Knocked Off
+117000
+
+# Torrent: Walk
+120000
+
+# Torrent: Dash
+122000
+
+# Torrent: Idle
+126000
+
+# Torrent: Item Use
+150000
 # Jump
 202000 # Still - Neutral
 202010 # Still - Forward

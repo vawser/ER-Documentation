@@ -18,19 +18,10 @@ Requirements:
 # Treasure properties
 EventID:            Needs to be unique
 PartName:           Name of the collision or map piece the chest is on
-TreasurePartName:   Name of the chest asset, e.g. AEG099_630_9000
+TreasurePartName:   Name of the dummy asset, e.g. AEG099_990
 ItemLotID:          the ItemLotParam_map row id to use
-InChest:            1
-StartDisabled:      1
-
-# ObjAct properties
-EventID:            Needs to be unique
-PartName:           Name of the collision or map piece the chest is on
-ObjActEntityID:     <XXYY>3250
-ObjActPartName:     The chest asset
-ObjActID:           200 (default chest ObjAct)
-StateType:          5
-EventFlag:          <XXYY>8250
+InChest:            2
+StartDisabled:      0
 
 # Asset properties
 UnkPartNames[]      Name of the collision that the asset sits on
