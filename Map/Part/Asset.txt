@@ -12,7 +12,7 @@ UnkT02:                     ?
 UnkT10:                     ?
 UnkT11:                     Bool
 UnkT12:                     ?
-AssetSfxParamRelativeID:    ?
+AssetSfxParamRelativeID:    Sets the VFX to spawn with the asset (i.e. Torch fire)
 UnkT1E:                     ?
 UnkT24:                     ?
 UnkT28:                     ?

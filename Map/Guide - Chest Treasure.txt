@@ -35,3 +35,7 @@ EventFlag:          <XXYY>8250
 # Asset properties
 UnkPartNames[]      Name of the collision that the asset sits on
 EntityID:           <XXYY>1250
+
+AEG099_630_7000
+
+1044393250

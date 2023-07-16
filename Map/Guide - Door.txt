@@ -43,3 +43,17 @@ InitializeCommonEvent(
     219000,   # ObjAct Param ID
     0         # 0 disables shut, 1 allows open and shut
 );
+
+#----------
+# Reference
+#----------
+StateType
+    0
+    1 Door: Two-Way
+    2 
+    2
+    4 Door: One-Way
+    
+EventFlagID: 
+    holds the state of the object, i.e. open, closed, etc
+    For a door, ON means it is open, OFF means it is closed

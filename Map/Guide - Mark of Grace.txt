@@ -41,3 +41,8 @@ Make new row, change:
     bonfireEntityId = <asset entity id>
     eventflagId = <new flag>
     coordinates: grab from the InitPos section in the CE table
+
+1044390951
+
+44
+39
